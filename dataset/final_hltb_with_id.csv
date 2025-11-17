@@ -1,0 +1,3011 @@
+,Unnamed: 0,gameName,genre,reviewScore,playTime,appID
+0,0,Dying Light,Action,78,96.82,239140
+1,1,Grand Theft Auto IV,Action,82,134.66,3240220
+2,2,The Witcher,Role-Playing,77,35.55,292030
+3,3,Half-Life,Shooter,84,24.68,220
+4,4,Far Cry 3,Shooter,83,108.12,220240
+5,5,The Elder Scrolls V: Skyrim,Role-Playing,86,139.77,489830
+6,6,Middle-Earth: Shadow of Mordor,Action,78,112.75,356190
+7,7,The Witcher 2: Assassins of Kings,Action,82,97.08,20920
+8,8,Metal Gear Solid V: The Phantom Pain,Action,83,314.05,287700
+9,9,Rise of the Tomb Raider,Adventure,80,81.98,391220
+10,10,Dark Souls III,Role-Playing,90,161.4,374320
+11,11,Terraria,Action,85,223.71,105600
+12,12,Batman: Arkham Knight,Action,82,85.36,208650
+13,13,Fallout 4,Role-Playing,76,142.85,377160
+14,14,Dishonored,Action,83,68.9,403640
+15,15,Resident Evil 2,Action,88,45.26,883710
+16,16,Fallout: New Vegas,Role-Playing,87,136.12,22380
+17,17,Left 4 Dead 2,Shooter,80,33.54,550
+18,18,BioShock 2,Shooter,78,73.42,409720
+19,19,Half-Life 2,Shooter,88,50.27,220
+20,20,Dead Space,Action,93,35.05,1693980
+21,21,Borderlands 2,Shooter,82,153.11,49520
+22,22,Doom,Shooter,85,61.72,782330
+23,23,BioShock Infinite,Shooter,85,84.15,8870
+24,24,Grand Theft Auto V,Action,87,222.5,3240220
+25,25,Tomb Raider,Action,81,81.55,391220
+26,26,BioShock,Shooter,85,87.99,409710
+27,27,Portal 2,Shooter,91,42.98,620
+28,28,The Witcher 3: Wild Hunt,Role-Playing,94,246.7,292030
+29,29,God of War,Action,92,62.27,2322010
+30,30,Assassin's Creed: Revelations,Action,75,85.88,201870
+31,31,Journey,Adventure,83,7.71,3363270
+32,32,Assassin's Creed: Unity,Action,69,85.57,289650
+33,33,Resident Evil 6,Shooter,64,138.86,221040
+34,34,Quantum Break,Action,75,30.91,474960
+35,35,Deus Ex,Role-Playing,89,71.18,337000
+36,36,Uncharted 4: A Thief's End,Shooter,88,44.28,
+37,37,Chrono Trigger,Role-Playing,92,97.74,613830
+38,38,Assassin's Creed: Brotherhood,Action,81,103.26,48190
+39,39,L.A. Noire,Adventure,78,114.02,110800
+40,40,Company of Heroes 2,Strategy,73,15.35,231430
+41,41,Just Cause 2,Action,74,79.22,8190
+42,42,The Wolf Among Us,Adventure,84,58.73,250320
+43,43,South Park: The Stick of Truth,Role-Playing,83,76.86,213670
+44,44,Grand Theft Auto: Vice City,Action,84,98.67,1546990
+45,45,XCOM: Enemy Unknown,Strategy,85,123.76,200510
+46,46,Dead Space 2,Shooter,83,44.77,47780
+47,47,Just Cause 3,Action,71,82.43,225540
+48,48,Left 4 Dead,Shooter,79,22.69,550
+49,49,This War of Mine,Action,77,11.07,282070
+50,50,Sid Meier's Civilization V,Strategy,84,47.33,289070
+51,51,Mass Effect,Role-Playing,84,114.18,1328670
+52,52,Assassin's Creed,Adventure,69,72.75,812140
+53,53,Mass Effect 2,Role-Playing,90,166.14,1238020
+54,54,Resident Evil 5,Action,72,79.64,21690
+55,55,Halo: The Master Chief Collection,Shooter,86,132.92,976730
+56,56,Metal Gear Rising: Revengeance,Action,82,32.17,235460
+57,57,Alan Wake,Action,79,47.49,108710
+58,58,Brothers: A Tale of Two Sons,Adventure,81,22.09,2153350
+59,59,Cities: Skylines,Simulation,78,91.69,949230
+60,60,Saints Row: The Third,Action,79,56.56,55230
+61,61,Rocket League,Sports,80,23.65,
+62,62,Darksiders,Action,75,130.03,388410
+63,63,Metro 2033,Shooter,77,29.26,286690
+64,64,Mirror's Edge,Platform,75,33.2,17410
+65,65,Spec Ops: The Line,Shooter,79,32.11,
+66,66,Alien: Isolation,Shooter,83,142.41,214490
+67,67,Metal Gear Solid V: Ground Zeroes,Action,73,12.26,311340
+68,68,Star Wars: Knights of the Old Republic,Role-Playing,88,113.76,208580
+69,69,Bully: Scholarship Edition,Action,81,94.77,12200
+70,70,Call of Duty: Black Ops II,Shooter,76,42.22,311210
+71,71,Tomb Raider: Underworld,Action,70,67.56,8140
+72,72,Call of Duty 4: Modern Warfare,Shooter,81,33.25,3595230
+73,73,LEGO Marvel Super Heroes,Action,76,96.77,249130
+74,74,LEGO The Hobbit,Action,69,65.14,285160
+75,75,The Talos Principle,Puzzle,85,64.82,835960
+76,76,Super Mario Galaxy,Platform,90,25.55,
+77,77,Star Wars Jedi Knight: Jedi Academy,Shooter,78,30.85,6020
+78,78,LEGO Star Wars: The Complete Saga,Action,79,106.24,920210
+79,79,Lara Croft and the Temple of Osiris,Action,68,16.19,289690
+80,80,Final Fantasy X/X-2 HD Remaster,Role-Playing,84,245.22,359870
+81,81,Final Fantasy XIII,Role-Playing,72,240.63,292120
+82,82,Beyond: Two Souls,Adventure,73,43.24,960990
+83,83,Crysis,Shooter,76,61.07,1715130
+84,84,Mafia II,Action,80,61.18,360430
+85,85,The Evil Within,Action,75,109.27,268050
+86,86,Assassin's Creed: Rogue,Action,72,76.43,311560
+87,87,The Sims 4,Simulation,72,70.9,1222670
+88,88,Hitman: Blood Money,Action,82,63.41,6860
+89,89,Dragon Age: Origins - Ultimate Edition,Role-Playing,88,159.88,47810
+90,90,Final Fantasy VIII,Role-Playing,80,186.54,1026680
+91,91,The Binding of Isaac,Action,77,11.73,250900
+92,92,Danganronpa: Trigger Happy Havoc,Misc,82,125.74,413410
+93,93,Heavy Rain,Adventure,78,39.03,960910
+94,94,God of War III,Action,84,29.21,2322010
+95,95,Magicka,Role-Playing,70,10.93,238370
+96,96,Counter-Strike: Source,Shooter,76,115.6,240
+97,97,Max Payne,Shooter,82,40.86,204100
+98,98,Wolfenstein: The Old Blood,Action,74,29.72,350080
+99,99,Bloodborne,Action,92,62.54,
+100,100,Company of Heroes,Strategy,81,19.72,231430
+101,101,Call of Duty: Black Ops,Shooter,77,44.75,311210
+102,102,GoldenEye 007,Shooter,83,22.82,
+103,103,Final Fantasy IX,Role-Playing,89,249.65,377840
+104,104,S.T.A.L.K.E.R.: Shadow of Chernobyl,Shooter,80,15.37,2427410
+105,105,Ryse: Son of Rome,Action,69,19.58,302510
+106,106,F.E.A.R. 3,Shooter,61,18.13,21100
+107,107,Plants vs. Zombies,Strategy,82,39.87,3590
+108,108,Shovel Knight,Platform,85,42.21,250760
+109,109,Sunset Overdrive,Shooter,79,30.8,847370
+110,110,Assassin's Creed III,Action,71,96.68,911400
+111,111,DmC: Devil May Cry,Action,76,48.29,601150
+112,112,Resident Evil: Revelations 2,Action,73,71.4,883710
+113,113,F.E.A.R. 2: Project Origin,Shooter,72,30.73,16450
+114,114,Prison Architect,Action,73,40.95,233450
+115,115,Star Wars: Battlefront II,Shooter,82,30.65,1237950
+116,116,The Elder Scrolls III: Morrowind,Role-Playing,85,42.8,22320
+117,117,Ni no Kuni: Wrath of the White Witch,Role-Playing,84,252.81,798460
+118,118,"Warhammer 40,000: Space Marine",Shooter,72,23.98,2183900
+119,119,Pillars of Eternity,Role-Playing,79,99.93,291650
+120,120,Stellaris,Strategy,80,110.45,281990
+121,121,Hitman: Absolution,Action,74,48.06,203140
+122,122,Mafia,Action,84,30.65,360430
+123,123,Call of Duty: Modern Warfare 2,Shooter,80,33.03,3595230
+124,124,Tales of Berseria,Role-Playing,81,210.15,429660
+125,125,Crysis 2,Action,73,61.89,2096600
+126,126,Euro Truck Simulator 2,Action,79,48.93,227300
+127,127,The Darkness II,Shooter,74,29.53,67370
+128,128,Xenoblade Chronicles,Role-Playing,89,142.6,
+129,129,Sonic Generations,Platform,77,30.54,2513280
+130,130,Max Payne 3,Shooter,80,42.77,204100
+131,131,Total War: Shogun 2,Strategy,80,28.85,214950
+132,132,F.E.A.R.,Shooter,79,35.99,223710
+133,133,Saints Row 2,Action,76,97.98,9480
+134,134,Resident Evil: Revelations,Action,73,63.83,287290
+135,135,Minecraft,Misc,88,586.77,1672970
+136,136,Watch Dogs,Action,71,157.52,447040
+137,137,Far Cry 4,Shooter,76,110.57,298110
+138,138,Grand Theft Auto III,Action,76,119.26,3240220
+139,139,Yakuza 3,Action,73,102.43,1088710
+140,140,Deus Ex: Mankind Divided,Role-Playing,78,71.92,337000
+141,141,No Man's Sky,Action,70,138.98,275850
+142,142,Batman: Arkham Origins,Action,75,73.05,209000
+143,143,Yakuza Kiwami,Adventure,80,109.81,927380
+144,144,Final Fantasy VII,Role-Playing,89,256.2,2909400
+145,145,Bayonetta,Action,81,94.77,460790
+146,146,XCOM 2,Strategy,83,162.55,268500
+147,147,Shin Megami Tensei: Persona 3 Portable,Role-Playing,88,113.78,
+148,148,Assassin's Creed II,Action,83,130.85,33230
+149,149,Borderlands,Shooter,76,102.1,1285190
+150,150,Grand Theft Auto: San Andreas,Action,87,237.75,1547000
+151,151,Assassin's Creed IV: Black Flag,Action,81,187.78,242050
+152,152,Wolfenstein: The New Order,Shooter,80,84.1,201810
+153,153,Prey,Shooter,83,88.54,480490
+154,154,Payday 2,Shooter,69,71.22,218620
+155,155,Psychonauts,Platform,82,95.18,3830
+156,156,Resident Evil 4,Action,89,160.26,2050650
+157,157,Counter-Strike,Shooter,81,36.72,730
+158,158,Trine,Action,74,35.25,690640
+159,159,Uncharted: Drake's Fortune,Action,75,23.78,
+160,160,Demon's Souls,Role-Playing,86,23.98,
+161,161,God of War II,Action,84,23.55,2322010
+162,162,Sniper Elite V2,Shooter,70,28.95,63380
+163,163,Valkyria Chronicles,Role-Playing,83,62.93,790820
+164,164,7 Days to Die,Action,65,123.0,251570
+165,165,Alice: Madness Returns,Adventure,75,70.63,19680
+166,166,Tomb Raider: Anniversary,Action,76,85.93,8000
+167,167,Goat Simulator,Simulation,58,10.26,850190
+168,168,The Legend of Zelda: A Link to the Past,Action,88,45.34,
+169,169,Tropico 4,Strategy,74,40.72,57690
+170,170,The Elder Scrolls Online,Role-Playing,71,223.61,489830
+171,171,Final Fantasy VI,Role-Playing,88,140.27,2909400
+172,172,Super Mario 64,Platform,86,25.45,
+173,173,Call of Duty: Modern Warfare 3,Shooter,73,36.99,3595230
+174,174,The Bureau: XCOM Declassified,Shooter,66,31.4,65930
+175,175,F.E.A.R. Perseus Mandate,Shooter,68,10.55,
+176,176,LEGO Harry Potter: Years 1-4,Action,73,87.32,21130
+177,177,Syberia,Action,76,28.88,3660220
+178,178,Deus Ex: Human Revolution,Shooter,85,132.0,238010
+179,179,"Warhammer 40,000: Dawn of War",Strategy,78,12.42,3556750
+180,180,Phoenix Wright: Ace Attorney Trilogy,Adventure,88,169.8,787480
+181,181,Ratchet & Clank,Platform,77,20.56,1895880
+182,182,Homefront,Shooter,59,17.58,223100
+183,183,LEGO Batman 2: DC Super Heroes,Action,73,68.6,213330
+184,184,LEGO Batman: The Videogame,Action,73,74.13,21000
+185,185,Tomb Raider: Legend,Action,72,44.03,7000
+186,186,Max Payne 2: The Fall of Max Payne,Shooter,83,20.33,12150
+187,187,Far Cry 2,Action,68,79.27,19900
+188,188,Destroy All Humans!,Shooter,70,31.22,1266700
+189,189,Oddworld: Abe's Oddysee,Platform,77,12.52,15700
+190,190,Star Wars Jedi Knight II: Jedi Outcast,Shooter,80,22.82,6030
+191,191,Yakuza 4,Action,79,124.82,1105500
+192,192,Sonic Adventure 2,Platform,73,33.68,213610
+193,193,Dead Island,Action,68,97.98,934700
+194,194,S.T.A.L.K.E.R.: Call of Pripyat,Shooter,81,15.7,2427430
+195,195,Vanquish,Shooter,77,41.98,460810
+196,196,Red Faction: Armageddon,Shooter,67,33.36,55110
+197,197,Star Wars: The Force Unleashed II,Action,65,40.94,32430
+198,198,Hitman 2: Silent Assassin,Action,77,56.93,6850
+199,199,Syberia II,Adventure,73,26.61,46510
+200,200,Catherine,Adventure,81,62.49,893180
+201,201,Just Cause,Action,58,50.27,225540
+202,202,Danganronpa 2: Goodbye Despair,Misc,85,167.65,413420
+203,203,Yakuza 5,Action,81,225.12,1105510
+204,204,Red Dead Redemption,Action,88,69.09,1174180
+205,205,Shadow of the Colossus,Action,82,14.15,750920
+206,206,World of Goo,Puzzle,75,11.73,22000
+207,207,Murdered: Soul Suspect,Action,67,40.25,233290
+208,208,Call of Duty: World at War,Shooter,75,53.76,10090
+209,209,Sonic & All-Stars Racing Transformed,Racing,78,45.75,212480
+210,210,Divinity: Original Sin,Role-Playing,82,143.02,435150
+211,211,Dragon Age: Origins,Role-Playing,86,186.68,47810
+212,212,Uncharted 2: Among Thieves,Action,87,31.06,
+213,213,Star Wars: Republic Commando,Shooter,76,42.49,1286830
+214,214,Torchlight,Role-Playing,71,49.34,1974050
+215,215,Doom II: Hell on Earth,Shooter,81,44.7,
+216,216,The Legend of Zelda: Ocarina of Time,Action,92,54.96,
+217,217,Uncharted 3: Drake's Deception,Action,82,26.76,
+218,218,S.T.A.L.K.E.R.: Clear Sky,Shooter,70,13.17,2427420
+219,219,Enslaved: Odyssey to the West,Action,76,34.13,245280
+220,220,Super Mario Sunshine,Platform,79,17.05,
+221,221,Deus Ex: Invisible War,Shooter,64,9.25,6920
+222,222,Rayman Legends,Platform,85,71.29,242550
+223,223,Street Fighter V,Fighting,66,9.38,1364780
+224,224,Rage,Shooter,70,43.97,985890
+225,225,Quake,Shooter,81,25.61,282440
+226,226,Red Faction: Guerrilla,Shooter,75,40.47,667720
+227,227,Spore,Strategy,72,12.63,17390
+228,228,Child of Light,Role-Playing,78,91.26,2325290
+229,229,Bayonetta 2,Action,86,9.53,
+230,230,Deponia,Adventure,73,15.82,292910
+231,231,Doom 3,Shooter,74,61.14,208200
+232,232,Tales of Zestiria,Role-Playing,69,170.58,351970
+233,233,Doom 64,Shooter,75,26.66,1148590
+234,234,Mortal Kombat X,Fighting,75,28.9,976310
+235,235,Fallout 3,Role-Playing,82,103.29,22370
+236,236,Mass Effect 3,Role-Playing,85,195.88,1238020
+237,237,Mount & Blade: Warband,Role-Playing,83,194.59,261550
+238,238,LEGO Harry Potter: Years 5-7,Action,73,57.29,21130
+239,239,Planescape: Torment,Role-Playing,89,67.8,466300
+240,240,Tales of Symphonia,Role-Playing,83,191.55,372360
+241,241,Prince of Persia: The Sands of Time,Action,80,54.08,13600
+242,242,Naruto Shippuden: Ultimate Ninja Storm 4,Fighting,78,45.54,349040
+243,243,Remember Me,Action,71,29.53,228300
+244,244,Dead Rising 2,Action,73,76.23,45740
+245,245,Tomb Raider III: Adventures of Lara Croft,Action,74,33.85,
+246,246,Final Fantasy,Role-Playing,71,56.75,39210
+247,247,Tomb Raider II,Action,79,15.78,2478970
+248,248,Super Mario World,Platform,88,16.9,
+249,249,Serious Sam 3: BFE,Shooter,68,31.2,41070
+250,250,Sleeping Dogs,Action,82,79.25,307690
+251,251,Company of Heroes: Opposing Fronts,Strategy,79,13.32,9340
+252,252,Binary Domain,Action,76,27.99,203750
+253,253,Medal of Honor,Shooter,64,16.3,47790
+254,254,Company of Heroes: Tales of Valor,Strategy,76,5.15,20540
+255,255,Bulletstorm,Shooter,74,52.36,501590
+256,256,Thief: Deadly Shadows,Action,79,16.65,6980
+257,257,Star Wars: Dark Forces,Shooter,72,8.83,2292260
+258,258,Castlevania: Symphony of the Night,Platform,90,48.29,
+259,259,Devil May Cry HD Collection,Action,80,116.51,631510
+260,260,Donkey Kong Country: Tropical Freeze,Platform,85,11.83,
+261,261,Dead Space 3,Action,71,61.15,1238060
+262,262,Far Cry,Shooter,71,33.36,552520
+263,263,Sonic CD,Platform,71,7.57,
+264,264,Persona 5,Role-Playing,92,291.73,1687950
+265,265,Overlord,Strategy,70,33.37,12810
+266,266,Call of Duty: Ghosts,Shooter,66,46.91,1938090
+267,267,Metal Gear Solid,Action,89,35.9,287700
+268,268,Duke Nukem Forever,Shooter,55,29.25,57900
+269,269,Darksiders II,Action,77,90.93,388410
+270,270,Overlord II,Action,70,50.52,12810
+271,271,LEGO Marvel's Avengers,Action,69,70.48,405310
+272,272,"Warhammer 40,000: Dawn of War II",Strategy,78,15.3,3556750
+273,273,Alpha Protocol,Role-Playing,72,40.36,34010
+274,274,Final Fantasy V,Role-Playing,79,97.89,2909400
+275,275,Machinarium,Adventure,77,15.17,40700
+276,276,The Legend of Zelda: The Minish Cap,Action,82,15.42,
+277,277,Wasteland 2,Role-Playing,76,132.4,240760
+278,278,Super Mario Bros.,Platform,77,6.15,
+279,279,Assetto Corsa,Racing,77,86.42,244210
+280,280,X-COM: UFO Defense,Strategy,87,37.18,7760
+281,281,Lords of the Fallen,Role-Playing,64,59.48,1501750
+282,282,Dungeon Defenders,Role-Playing,71,35.41,65800
+283,283,Hearts of Iron IV,Strategy,80,53.15,394360
+284,284,Sniper Elite,Shooter,63,25.82,1029690
+285,285,Battlefield: Bad Company 2,Shooter,76,33.63,
+286,286,Tropico 5,Simulation,72,42.18,245620
+287,287,The Last of Us,Action,92,15.52,2531310
+288,288,Rayman Origins,Platform,82,54.36,207490
+289,289,Call of Duty: Advanced Warfare,Shooter,69,47.92,3595230
+290,290,Until Dawn,Adventure,78,15.66,2172010
+291,291,Shin Megami Tensei: Persona 3 FES,Role-Playing,88,164.06,
+292,292,Final Fantasy XIII-2,Role-Playing,74,133.48,292140
+293,293,Saints Row: Gat out of Hell,Action,63,32.26,301910
+294,294,Shantae and the Pirate's Curse,Platform,80,38.4,345820
+295,295,Mega Man Legacy Collection,Platform,79,84.65,1798010
+296,296,Risen,Role-Playing,75,59.05,40300
+297,297,Metal Gear Solid 2: Sons of Liberty,Action,87,80.41,2131640
+298,298,Paper Mario,Role-Playing,86,47.18,
+299,299,Devil May Cry,Action,74,49.51,601150
+300,300,Final Fantasy X,Role-Playing,87,316.31,39210
+301,301,Sid Meier's Civilization IV,Strategy,82,15.52,289070
+302,302,The Legend of Zelda: Majora's Mask,Action,90,37.44,
+303,303,Tom Clancy's Splinter Cell,Action,76,67.79,235600
+304,304,Tomb Raider: The Last Revelation,Action,71,17.45,224980
+305,305,Metroid Prime,Shooter,89,27.17,
+306,306,LEGO Jurassic World,Action,73,76.14,352400
+307,307,God Eater 2: Rage Burst,Role-Playing,71,112.59,438490
+308,308,LEGO City Undercover,Platform,76,70.71,578330
+309,309,"Warhammer 40,000: Dawn of War II - Retribution",Strategy,74,9.52,15620
+310,310,Doom 3: Resurrection of Evil,Shooter,72,19.99,
+311,311,Super Metroid,Action,89,23.21,
+312,312,Silent Hill 2,Action,91,40.32,2124490
+313,313,The Lord of the Rings: War in the North,Action,69,39.34,1003400
+314,314,Titan Quest,Role-Playing,73,26.08,475150
+315,315,Project CARS,Racing,72,101.23,
+316,316,Zombie Army Trilogy,Shooter,64,43.59,301640
+317,317,Crazy Taxi,Racing,70,11.85,
+318,318,Hitman: Contracts,Shooter,74,41.14,247430
+319,319,Metal Gear Solid 3: Snake Eater,Action,92,78.75,2417610
+320,320,Donkey Kong Country,Platform,82,13.82,
+321,321,Medieval II: Total War,Strategy,84,31.17,1142710
+322,322,Risen 2: Dark Waters,Role-Playing,72,116.63,40390
+323,323,The LEGO Movie Videogame,Action,68,48.45,21000
+324,324,EarthBound,Role-Playing,88,91.4,758610
+325,325,Ys VIII: Lacrimosa of Dana,Role-Playing,86,111.52,579180
+326,326,Super Mario Galaxy 2,Platform,89,27.3,
+327,327,Tom Clancy's Splinter Cell: Chaos Theory,Action,83,74.56,13570
+328,328,Legacy of Kain: Soul Reaver,Action,78,24.67,2521380
+329,329,Uncharted: The Nathan Drake Collection,Action,84,55.02,
+330,330,Dark Souls II,Role-Playing,82,140.1,374320
+331,331,Prince of Persia,Action,72,46.7,2751000
+332,332,Beyond Good & Evil,Adventure,81,74.27,2556990
+333,333,Captain Toad: Treasure Tracker,Puzzle,78,7.08,
+334,334,Kane & Lynch 2: Dog Days,Shooter,56,22.0,28000
+335,335,Super Mario Bros. 3,Platform,86,13.2,1208620
+336,336,inFAMOUS: Second Son,Action,76,19.98,
+337,337,New Super Mario Bros.,Platform,77,6.47,
+338,338,Worms Armageddon,Strategy,78,7.98,217200
+339,339,Tom Clancy's Splinter Cell: Blacklist,Action,80,56.18,235600
+340,340,Crysis 3,Shooter,73,45.19,2096610
+341,341,Dead Rising,Action,76,48.25,265550
+342,342,Final Fantasy IV,Simulation,79,64.93,1004640
+343,343,Metal Slug 3,Shooter,76,8.96,250180
+344,344,Sonic & Sega All-Stars Racing,Racing,71,23.96,212480
+345,345,Star Wars: The Old Republic,Role-Playing,76,80.7,1286830
+346,346,Lightning Returns: Final Fantasy XIII,Role-Playing,70,169.62,345350
+347,347,Tomb Raider Chronicles,Action,61,10.42,225000
+348,348,The Last Remnant,Role-Playing,72,121.15,
+349,349,Ultra Street Fighter IV,Fighting,79,9.21,45760
+350,350,Gauntlet,Action,67,13.84,258970
+351,351,Viking: Battle for Asgard,Action,58,43.2,211160
+352,352,Sid Meier's Civilization: Beyond Earth,Strategy,66,17.58,65980
+353,353,Luigi's Mansion,Action,80,6.58,
+354,354,Tom Clancy's Splinter Cell: Conviction,Action,73,28.43,235600
+355,355,Stubbs the Zombie in Rebel Without a Pulse,Action,68,14.23,7800
+356,356,Metro: Last Light,Action,80,66.91,287390
+357,357,Silent Hill,Action,83,15.65,2947440
+358,358,LEGO Star Wars III: The Clone Wars,Action,71,69.21,32510
+359,359,Overlord: Raising Hell,Action,74,22.5,12710
+360,360,Dead Rising 3,Action,73,27.91,265550
+361,361,The Legend of Zelda,Action,76,16.87,2138610
+362,362,Assassin's Creed III: Liberation,Action,62,55.33,911400
+363,363,Sniper: Ghost Warrior 2,Shooter,63,15.32,1338770
+364,364,DuckTales: Remastered,Action,74,29.45,237630
+365,365,F1 2015,Racing,55,24.0,
+366,366,Metal Slug X,Shooter,79,3.78,312610
+367,367,Rome: Total War,Strategy,83,33.6,214950
+368,368,Quake II,Shooter,79,18.98,2320
+369,369,Steins;Gate,Adventure,90,57.42,412830
+370,370,The Legend of Heroes: Trails of Cold Steel,Role-Playing,83,249.02,2138610
+371,371,Deadly Premonition,Action,76,90.65,247660
+372,372,Final Doom,Shooter,78,13.1,
+373,373,Tom Clancy's The Division,Shooter,72,70.61,2221490
+374,374,Prince of Persia: Warrior Within,Action,77,37.2,13500
+375,375,Condemned: Criminal Origins,Action,75,28.98,
+376,376,Tropico 3,Strategy,75,49.42,23490
+377,377,Mini Ninjas,Action,70,31.51,35000
+378,378,Kingdoms of Amalur: Reckoning,Role-Playing,77,143.69,1041720
+379,379,Mount & Blade,Role-Playing,74,55.52,261550
+380,380,Batman: Arkham City,Action,86,96.03,200260
+381,381,Final Fantasy II,Role-Playing,62,17.98,359870
+382,382,Halo 3,Shooter,83,30.19,1695794
+383,383,"Warhammer 40,000: Dawn of War II - Chaos Rising",Strategy,78,10.82,
+384,384,Halo: Reach,Shooter,81,30.63,1695793
+385,385,Supreme Commander 2,Strategy,71,15.72,40100
+386,386,The Legend of Zelda: Phantom Hourglass,Action,74,15.38,
+387,387,The Legend of Zelda: Spirit Tracks,Action,74,22.58,
+388,388,Chrono Cross,Role-Playing,83,183.59,1133760
+389,389,Battlefield 3,Shooter,75,31.94,1238820
+390,390,Disgaea: Hour of Darkness,Role-Playing,82,95.93,
+391,391,Metroid: Zero Mission,Adventure,84,4.58,
+392,392,Gothic 3,Role-Playing,73,45.58,39500
+393,393,Fable III,Role-Playing,67,50.91,956450
+394,394,Legacy of Kain: Defiance,Action,77,23.5,2521380
+395,395,Paper Mario: The Thousand-Year Door,Role-Playing,90,31.47,
+396,396,Dragon Age: Inquisition,Role-Playing,81,293.92,1222690
+397,397,GRID,Racing,63,116.93,1307710
+398,398,God of War: Ghost of Sparta,Action,78,6.25,
+399,399,Metroid Fusion,Action,82,5.28,
+400,400,Prince of Persia: The Two Thrones,Action,78,39.87,13530
+401,401,Sid Meier's Pirates!,Strategy,78,11.5,3920
+402,402,Sniper: Ghost Warrior,Shooter,56,17.47,1338770
+403,403,The Legend of Zelda: The Wind Waker,Action,89,55.42,
+404,404,Halo Wars,Strategy,70,35.85,459220
+405,405,Metal Gear Solid 4: Guns of the Patriots,Action,86,18.72,
+406,406,Sonic Lost World,Platform,60,14.86,329440
+407,407,Dungeon Siege III,Role-Playing,67,49.16,39160
+408,408,Red Orchestra 2: Heroes of Stalingrad,Shooter,69,6.87,35450
+409,409,Turok: Dinosaur Hunter,Shooter,70,21.99,
+410,410,God of War: Chains of Olympus,Action,75,5.27,
+411,411,Need for Speed: Most Wanted,Racing,84,79.4,1262560
+412,412,Star Wars: Starfighter,Simulation,59,17.47,32350
+413,413,Supreme Commander: Forged Alliance,Strategy,77,18.1,9420
+414,414,Homefront: The Revolution,Shooter,60,48.8,223100
+415,415,Dead Rising 2: Off the Record,Action,73,53.31,45770
+416,416,Halo 4,Shooter,74,28.29,
+417,417,The Legend of Zelda: Skyward Sword,Action,82,76.22,
+418,418,Wolfenstein 3D,Shooter,74,25.61,2270
+419,419,Dead Island: Riptide,Action,67,50.25,383180
+420,420,New Super Mario Bros. Wii,Platform,78,18.22,
+421,421,The Sims 3,Simulation,77,59.77,47890
+422,422,Dungeon Siege II,Role-Playing,74,27.17,39200
+423,423,Prince of Persia: The Forgotten Sands,Action,71,47.22,13600
+424,424,Gears of War 2,Shooter,81,29.61,3595230
+425,425,Naruto Shippuden: Ultimate Ninja Storm 2,Fighting,75,86.6,349040
+426,426,Lost Planet 3,Shooter,62,33.69,226720
+427,427,Age of Empires III: Complete Collection,Strategy,77,21.93,
+428,428,Earth Defense Force 4.1: The Shadow of New Despair,Shooter,76,60.27,410320
+429,429,Edna & Harvey: Harvey's New Eyes,Adventure,77,7.4,219910
+430,430,Supreme Commander,Strategy,74,18.77,9420
+431,431,Manhunt,Action,70,53.43,2421410
+432,432,Super Mario World 2: Yoshi's Island,Platform,84,26.56,
+433,433,Need for Speed: Hot Pursuit,Racing,76,43.93,1328660
+434,434,Banjo-Kazooie,Platform,86,46.98,
+435,435,Batman: Arkham Asylum,Action,85,83.01,35140
+436,436,Guild Wars 2,Action,77,84.63,1284210
+437,437,Kane & Lynch: Dead Men,Shooter,61,17.66,8080
+438,438,Super Smash Bros. Brawl,Fighting,83,22.42,
+439,439,Crash Bandicoot,Platform,75,43.55,731490
+440,440,Fable: The Lost Chapters,Role-Playing,81,27.75,204030
+441,441,Call of Duty 2,Shooter,78,23.47,1938090
+442,442,Kingdom Hearts,Role-Playing,83,56.67,2552430
+443,443,Super Mario RPG: Legend of the Seven Stars,Role-Playing,83,54.32,
+444,444,Turok 2: Seeds of Evil,Platform,67,22.22,405830
+445,445,Goodbye Deponia,Adventure,78,20.28,241910
+446,446,The Legend of Zelda: Twilight Princess HD,Action,86,29.77,
+447,447,Batman: Arkham Origins Blackgate,Action,60,29.12,209000
+448,448,Gears of War 3,Shooter,82,28.67,3595270
+449,449,The Whispered World,Adventure,69,10.22,268540
+450,450,Worms: Ultimate Mayhem,Strategy,68,20.12,70600
+451,451,Assassin's Creed Chronicles: China,Action,65,29.76,354380
+452,452,Devil May Cry 2,Action,48,38.68,601150
+453,453,Gears of War,Shooter,78,36.05,2523720
+454,454,Mario Kart Wii,Racing,81,6.17,
+455,455,Final Fantasy III,Role-Playing,74,16.13,1173790
+456,456,A New Beginning,Adventure,67,9.92,1013140
+457,457,Arx Fatalis,Role-Playing,76,20.73,1700
+458,458,Metal Gear Solid: Peace Walker,Action,78,53.32,
+459,459,TERA,Role-Playing,65,98.53,1743650
+460,460,Total War: Rome II,Strategy,76,52.73,1142710
+461,461,Castlevania: Lords of Shadow 2,Action,71,64.09,234080
+462,462,Fire Emblem,Strategy,82,27.48,
+463,463,Golden Sun,Role-Playing,83,22.52,
+464,464,Jak and Daxter: The Precursor Legacy,Platform,80,36.56,
+465,465,Naruto: Ultimate Ninja Storm,Fighting,68,65.07,349040
+466,466,Dragon Age II,Action,73,102.49,1238040
+467,467,Spyro the Dragon,Platform,78,37.14,
+468,468,Two Worlds II,Role-Playing,64,91.18,1449110
+469,469,Dark Souls,Role-Playing,92,226.59,374320
+470,470,Red Faction,Shooter,71,20.49,667720
+471,471,Donkey Kong Country 2: Diddy's Kong Quest,Platform,87,16.88,
+472,472,Phoenix Wright: Ace Attorney,Adventure,84,77.58,787480
+473,473,Sonic the Hedgehog,Platform,72,6.22,2324650
+474,474,Enclave,Adventure,63,8.27,253980
+475,475,Teslagrad,Platform,71,15.61,1698220
+476,476,Halo: Combat Evolved,Shooter,82,40.04,
+477,477,Oddworld: Abe's Exoddus,Platform,83,16.15,15710
+478,478,Super Mario Bros. 2,Platform,69,9.29,
+479,479,Dragon Quest VIII: Journey of the Cursed King,Role-Playing,86,70.95,
+480,480,LEGO Indiana Jones: The Original Adventures,Action,71,57.24,32330
+481,481,LEGO Pirates of the Caribbean: The Video Game,Action,71,46.27,311770
+482,482,Mario Kart DS,Racing,80,7.23,
+483,483,The Night of the Rabbit,Adventure,70,9.63,1377380
+484,484,Evil Genius,Strategy,71,27.37,700600
+485,485,God of War: Ascension,Action,73,8.7,2322010
+486,486,Napoleon: Total War,Strategy,76,32.75,34030
+487,487,Resident Evil 3: Nemesis,Action,81,27.04,952060
+488,488,Super Paper Mario,Platform,78,38.48,
+489,489,The Legend of Heroes: Trails of Cold Steel II,Role-Playing,83,211.38,538680
+490,490,War for the Overworld,Strategy,72,14.38,230190
+491,491,One Piece: Pirate Warriors 3,Action,73,46.57,1089090
+492,492,Tokyo Xanadu eX+,Role-Playing,75,123.55,587260
+493,493,Brink,Shooter,52,19.45,22350
+494,494,Killer7,Action,82,38.92,868520
+495,495,Operation Flashpoint: Dragon Rising,Shooter,59,43.66,
+496,496,Silent Hill 3,Action,82,28.54,
+497,497,The Testament of Sherlock Holmes,Adventure,75,38.76,205650
+498,498,Worms,Strategy,74,7.47,327030
+499,499,Rayman Raving Rabbids,Misc,62,23.67,15080
+500,500,Commandos 2: Men of Courage,Strategy,83,20.67,6830
+501,501,Operation Flashpoint: Red River,Shooter,62,32.96,
+502,502,Oddworld: Stranger's Wrath,Adventure,72,19.73,15750
+503,503,State of Decay,Strategy,75,65.03,495420
+504,504,No More Heroes,Action,78,32.24,1420290
+505,505,Sega Bass Fishing,Sports,69,6.9,
+506,506,Grand Theft Auto 2,Action,69,12.42,3240220
+507,507,Risen 3: Titan Lords,Role-Playing,71,106.85,249230
+508,508,Bionic Commando,Platform,62,21.66,21670
+509,509,Castlevania: Lords of Shadow - Mirror of Fate,Action,71,30.65,282530
+510,510,King's Bounty: Armored Princess,Role-Playing,82,29.48,3170
+511,511,Kirby's Adventure,Platform,77,7.87,
+512,512,Metroid Prime 2: Echoes,Shooter,84,33.85,
+513,513,Resident Evil,Action,88,22.2,2050650
+514,514,The Bard's Tale,Role-Playing,70,54.39,843260
+515,515,The Elder Scrolls IV: Oblivion,Role-Playing,83,111.28,2623190
+516,516,Tom Clancy's Splinter Cell: Double Agent,Action,69,65.41,13580
+517,517,Minecraft: Story Mode,Adventure,68,70.78,
+518,518,Castlevania: Aria of Sorrow,Platform,85,13.98,
+519,519,Republique,Action,63,21.06,915200
+520,520,Fable II,Role-Playing,76,37.34,956450
+521,521,Metroid Prime 3: Corruption,Shooter,83,27.97,
+522,522,Halo 5: Guardians,Shooter,70,16.08,
+523,523,Star Trek Online,Role-Playing,58,196.4,9900
+524,524,Battlestations: Midway,Strategy,60,16.42,6870
+525,525,Bejeweled 3,Puzzle,72,12.53,78000
+526,526,Botanicula,Adventure,76,3.53,207690
+527,527,Grand Theft Auto,Action,66,47.2,3240220
+528,528,Stronghold,Strategy,78,19.9,3024040
+529,529,The King of Fighters XIII,Fighting,78,10.47,363150
+530,530,XIII,Shooter,73,17.55,363150
+531,531,Deadpool,Action,70,45.83,
+532,532,Rocksmith 2014,Misc,84,411.87,221680
+533,533,Contrast,Platform,67,22.07,224460
+534,534,Xenoblade Chronicles X,Role-Playing,82,68.23,
+535,535,Xenogears,Role-Playing,87,121.25,
+536,536,Fire Emblem: Path of Radiance,Action,86,34.43,
+537,537,Oddworld: Munch's Oddysee,Platform,63,25.52,15740
+538,538,Red Faction II,Shooter,61,19.48,20550
+539,539,Sid Meier's Railroads!,Simulation,63,16.43,7600
+540,540,Silent Hill: Homecoming,Action,62,39.37,19000
+541,541,Command & Conquer: Red Alert 3,Strategy,75,63.67,2229850
+542,542,Broken Sword 5: The Serpent's Curse,Adventure,72,43.66,262940
+543,543,Castlevania,Platform,74,10.08,2369900
+544,544,Fire Emblem: The Sacred Stones,Strategy,81,23.87,
+545,545,Blood Bowl,Sports,66,3.42,1016950
+546,546,The Inner World,Adventure,73,6.43,251430
+547,547,Sonic Unleashed,Platform,67,76.66,
+548,548,The Longest Journey,Adventure,84,17.97,6310
+549,549,Saints Row IV,Action,75,75.08,206420
+550,550,Agatha Christie: The ABC Murders,Adventure,65,29.55,374900
+551,551,Anno 2070,Strategy,71,26.83,48240
+552,552,Parasite Eve,Role-Playing,80,19.63,
+553,553,Lost Planet: Extreme Condition,Shooter,68,30.71,6510
+554,554,Tom Clancy's Rainbow Six: Vegas 2,Shooter,75,33.74,15120
+555,555,Wii Sports,Sports,75,4.87,
+556,556,BlazBlue: Chrono Phantasma,Fighting,76,69.48,
+557,557,Overwatch,Shooter,80,142.67,2357570
+558,558,Game of Thrones,Role-Playing,68,58.87,3183280
+559,559,Halo 3: ODST,Shooter,75,24.42,1695794
+560,560,Pikmin 2,Strategy,84,24.57,
+561,561,"999: Nine Hours, Nine Persons, Nine Doors",Adventure,86,44.24,
+562,562,Blades of Time,Action,65,18.58,208670
+563,563,Devil May Cry 4,Action,77,45.5,601150
+564,564,Grandia,Role-Playing,82,79.63,1034860
+565,565,Unreal Tournament,Shooter,85,24.33,
+566,566,Donkey Kong Country 3: Dixie Kong's Double Trouble!,Platform,80,16.0,
+567,567,inFAMOUS,Action,77,14.75,376520
+568,568,Ratchet & Clank: Up Your Arsenal,Platform,84,23.02,
+569,569,Quake 4,Shooter,71,16.28,2210
+570,570,Aliens: Colonial Marines,Shooter,48,20.82,49540
+571,571,Crash Bandicoot 3: Warped,Platform,83,31.27,
+572,572,Halo 2,Shooter,82,36.16,
+573,573,Kirby 64: The Crystal Shards,Platform,73,7.85,
+574,574,Saints Row,Action,60,65.31,55230
+575,575,Defiance,Shooter,60,30.0,1839950
+576,576,Mario Kart 64,Racing,79,9.5,
+577,577,X3: Terran Conflict,Simulation,80,47.83,2820
+578,578,Call of Juarez: Bound in Blood,Shooter,74,23.56,21980
+579,579,Painkiller: Hell & Damnation,Shooter,65,13.65,214870
+580,580,Ys: The Oath in Felghana,Role-Playing,80,11.4,207320
+581,581,RollerCoaster Tycoon 2: Triple Thrill Pack,Strategy,84,23.8,285330
+582,582,The Technomancer,Role-Playing,63,74.05,338390
+583,583,Hexen,Shooter,73,10.48,3286930
+584,584,Worms Blast,Puzzle,44,31.73,70650
+585,585,Scribblenauts Unmasked: A DC Comics Adventure,Puzzle,63,15.12,249870
+586,586,Steins;Gate 0,Adventure,83,29.27,825630
+587,587,Harry Potter and the Chamber of Secrets,Action,70,14.52,
+588,588,Danganronpa Another Episode: Ultra Despair Girls,Action,68,34.62,555950
+589,589,Crash Bandicoot 2: Cortex Strikes Back,Platform,81,36.68,
+590,590,Mario & Luigi: Superstar Saga,Role-Playing,83,17.47,
+591,591,Pokémon Colosseum,Role-Playing,76,23.87,
+592,592,Disgaea 2: Dark Hero Days,Role-Playing,80,30.35,
+593,593,Donkey Kong,Platform,65,4.88,
+594,594,Final Fantasy X-2,Role-Playing,71,199.51,359870
+595,595,Diablo III,Role-Playing,78,76.93,
+596,596,Singularity,Shooter,73,23.0,977400
+597,597,Super Mario 3D World,Platform,85,10.95,3465780
+598,598,The Secret World,Role-Playing,73,35.5,2583690
+599,599,Star Wars: Battlefront,Shooter,64,30.62,1237950
+600,600,FlatOut 2,Racing,83,25.89,2990
+601,601,Spyro 2: Ripto's Rage!,Platform,82,43.58,
+602,602,Call of Juarez,Shooter,71,16.38,204450
+603,603,Commandos 3: Destination Berlin,Strategy,75,12.87,6840
+604,604,Dino Crisis,Action,75,19.43,
+605,605,Jurassic Park: The Game,Action,61,19.72,2703850
+606,606,One Piece: Burning Blood,Fighting,66,18.76,425220
+607,607,Jak 3,Platform,78,46.41,
+608,608,LittleBigPlanet,Platform,76,8.95,
+609,609,Ratchet & Clank: Going Commando,Platform,83,27.4,
+610,610,Donkey Kong Country Returns,Platform,83,22.62,
+611,611,Jak II,Platform,74,67.43,
+612,612,Phoenix Wright: Ace Attorney - Trials and Tribulations,Adventure,89,110.19,
+613,613,Star Wars: The Force Unleashed,Action,71,63.41,32430
+614,614,Tony Hawk's Pro Skater 2,Sports,85,17.15,2395210
+615,615,Unreal Tournament 2004,Shooter,84,14.07,
+616,616,Silent Hill 4: The Room,Action,72,27.36,
+617,617,Zero Escape: Virtue's Last Reward,Adventure,87,51.9,
+618,618,ReCore,Action,62,38.04,1608070
+619,619,Grand Theft Auto: Liberty City Stories,Action,72,46.87,12220
+620,620,Microsoft Flight Simulator,Simulation,80,53.74,1250410
+621,621,Fire Emblem: Shadow Dragon,Role-Playing,72,20.13,
+622,622,Men of War: Assault Squad,Strategy,83,15.43,244450
+623,623,Persona 2: Eternal Punishment,Role-Playing,81,50.48,
+624,624,Sins of a Solar Empire: Trinity,Strategy,73,9.0,1575940
+625,625,Sonic Adventure 2 Battle,Platform,80,43.61,213610
+626,626,The Void,Adventure,81,24.3,1135810
+627,627,TimeShift,Shooter,67,31.07,10130
+628,628,Destiny,Shooter,72,48.54,1085660
+629,629,Star Fox 64,Shooter,82,3.59,
+630,630,Super Mario Kart,Racing,73,10.57,
+631,631,Tales of the Abyss,Role-Playing,85,51.45,2016460
+632,632,X-Blades,Action,52,22.68,7510
+633,633,Song of the Deep,Action,70,21.34,1388590
+634,634,Diablo,Role-Playing,81,26.98,2344520
+635,635,Fire Emblem: Radiant Dawn,Strategy,85,92.67,
+636,636,Mega Man X,Platform,87,13.42,743890
+637,637,Mega Man 2,Action,81,12.13,1798020
+638,638,Sonic Heroes,Platform,66,40.84,
+639,639,Suikoden II,Role-Playing,91,75.6,1932640
+640,640,Vagrant Story,Role-Playing,80,21.52,
+641,641,Mario Kart 8,Racing,85,6.53,
+642,642,Sniper: Art of Victory,Shooter,31,2.45,271500
+643,643,Alone in the Dark,Adventure,57,48.12,2239710
+644,644,BlazBlue: Calamity Trigger,Fighting,71,36.43,263300
+645,645,Dragon Quest V: Hand of the Heavenly Bride,Role-Playing,86,57.32,
+646,646,Final Fantasy XII,Role-Playing,82,124.06,595520
+647,647,Lost Odyssey,Role-Playing,84,98.9,392410
+648,648,Star Wars: Rogue Squadron,Simulation,76,7.57,1222730
+649,649,Ys Seven,Role-Playing,80,21.03,587100
+650,650,Ys: Memories of Celceta,Action,78,59.38,587110
+651,651,Oil Rush,Strategy,41,10.42,200390
+652,652,World of Warcraft,Role-Playing,85,697.23,
+653,653,Grand Theft Auto: Vice City Stories,Action,74,28.46,1546990
+654,654,Gears of War: Ultimate Edition,Shooter,76,26.85,
+655,655,Banjo-Tooie,Platform,83,52.2,
+656,656,Breath of Fire IV,Role-Playing,81,76.67,
+657,657,Broken Sword: The Sleeping Dragon,Adventure,67,19.17,33610
+658,658,Dante's Inferno,Action,73,31.4,1239990
+659,659,Cities in Motion,Simulation,59,22.98,225420
+660,660,Dark Cloud,Role-Playing,75,90.29,
+661,661,Dragon's Crown,Role-Playing,77,43.5,
+662,662,Battleborn,Shooter,65,27.03,
+663,663,Secret of Mana,Role-Playing,78,61.7,637670
+664,664,Shin Megami Tensei: Persona 4,Role-Playing,91,217.67,
+665,665,Sly Cooper and the Thievius Raccoonus,Platform,76,13.45,
+666,666,Star Ocean: The Last Hope,Role-Playing,73,273.05,609150
+667,667,Puyo Puyo Tetris,Puzzle,79,24.54,1259790
+668,668,Yoshi's Woolly World,Platform,79,12.12,
+669,669,Ace Combat: Assault Horizon,Action,66,26.1,
+670,670,Castlevania: Circle of the Moon,Platform,73,41.37,
+671,671,Conker's Bad Fur Day,Platform,79,48.86,
+672,672,Mega Man,Platform,67,9.45,1798010
+673,673,Men of War,Strategy,78,37.57,244450
+674,674,Metroid,Action,69,12.85,
+675,675,Castlevania: Harmony of Dissonance,Platform,73,28.18,
+676,676,Tekken 3,Fighting,84,11.02,
+677,677,Warcraft III: Reign of Chaos,Strategy,86,21.7,
+678,678,Bully,Action,82,66.72,12200
+679,679,Call of Cthulhu: Dark Corners of the Earth,Adventure,71,12.13,22340
+680,680,Euro Truck Simulator,Simulation,61,21.72,227300
+681,681,inFAMOUS 2,Action,81,12.67,
+682,682,Onimusha: Warlords,Action,76,17.82,761600
+683,683,Shenmue,Adventure,81,68.13,758330
+684,684,Spyro: Year of the Dragon,Platform,81,42.95,
+685,685,Suikoden,Role-Playing,81,39.27,1932640
+686,686,Tony Hawk's Pro Skater,Sports,80,9.0,2545710
+687,687,Naruto Shippuden: Ultimate Ninja Storm Revolution,Fighting,66,12.6,349040
+688,688,Dungeons,Strategy,58,16.65,2712380
+689,689,Need for Speed: Shift,Racing,69,39.02,1222680
+690,690,Mighty No. 9,Platform,53,23.72,314710
+691,691,Odin Sphere: Leifthrasir,Role-Playing,82,101.74,
+692,692,Dark Cloud 2,Role-Playing,82,106.68,
+693,693,Dreamfall: The Longest Journey,Adventure,78,12.42,6300
+694,694,Earthworm Jim,Platform,69,10.13,38480
+695,695,Metal Gear Solid 3: Subsistence,Action,94,82.79,2131650
+696,696,F1 Race Stars,Racing,61,38.76,
+697,697,LEGO Indiana Jones 2: The Adventure Continues,Action,66,57.0,32450
+698,698,Mario & Luigi: Partners in Time,Role-Playing,76,18.78,
+699,699,Sacred 3,Role-Playing,54,33.49,247950
+700,700,Legend of Mana,Role-Playing,77,62.65,978520
+701,701,The Order: 1886,Shooter,70,14.51,
+702,702,Splatoon,Shooter,79,5.52,
+703,703,Hearts of Iron III,Strategy,75,15.37,394360
+704,704,Medal of Honor: Airborne,Shooter,68,30.56,47790
+705,705,No More Heroes 2: Desperate Struggle,Action,76,23.73,1420300
+706,706,Phoenix Wright: Ace Attorney - Justice for All,Adventure,80,88.62,
+707,707,Ikaruga,Shooter,80,9.28,253750
+708,708,Street Fighter X Tekken,Fighting,69,7.6,209120
+709,709,Final Fantasy Tactics,Role-Playing,91,121.57,1004640
+710,710,Tom Clancy's Rainbow Six: Vegas,Shooter,71,32.3,359550
+711,711,NBA 2K17,Sports,70,115.55,
+712,712,Battlestations: Pacific,Strategy,73,26.6,8170
+713,713,Peggle Nights,Puzzle,73,12.48,3540
+714,714,Perfect Dark,Action,82,20.7,
+715,715,Shin Megami Tensei: Digital Devil Saga,Role-Playing,81,63.43,
+716,716,Tom Clancy's Ghost Recon: Future Soldier,Shooter,70,31.92,212630
+717,717,BloodRayne,Shooter,69,13.71,1373510
+718,718,Command & Conquer 3: Tiberium Wars,Strategy,75,45.92,24790
+719,719,Driver: San Francisco,Racing,77,36.65,
+720,720,Kingdom Hearts II,Role-Playing,88,122.97,2552430
+721,721,Metroid Prime: Trilogy,Shooter,92,93.13,
+722,722,Sly 3: Honor Among Thieves,Platform,81,25.59,
+723,723,Star Fox Adventures,Adventure,70,18.43,
+724,724,Ratchet & Clank Future: A Crack in Time,Platform,84,10.68,
+725,725,Disney's Aladdin,Platform,75,7.43,
+726,726,FlatOut,Racing,73,13.63,2990
+727,727,Gun,Shooter,75,20.03,1217060
+728,728,Marvel: Ultimate Alliance,Role-Playing,72,90.29,
+729,729,New Super Mario Bros. U,Platform,76,9.68,
+730,730,Dragon Ball Z: Budokai Tenkaichi 3,Fighting,82,34.84,
+731,731,Ratchet & Clank Future: Tools of Destruction,Platform,78,12.6,
+732,732,Silent Hill: Shattered Memories,Action,75,27.67,
+733,733,Star Wars: Shadows of the Empire,Action,67,4.4,560170
+734,734,Wii Sports Resort,Sports,79,7.92,
+735,735,Hyperdimension Neptunia U: Action Unleashed,Action,65,10.45,387340
+736,736,MediEvil,Platform,71,19.3,
+737,737,A Boy and His Blob,Platform,67,29.5,281200
+738,738,Dino Crisis 2,Action,77,15.57,
+739,739,Dirge of Cerberus: Final Fantasy VII,Shooter,64,22.95,
+740,740,Grandia II,Role-Playing,82,61.85,330390
+741,741,Ratchet: Deadlocked,Shooter,78,15.65,
+742,742,Killzone: Shadow Fall,Shooter,65,20.25,
+743,743,Forza Horizon 3,Racing,86,47.03,
+744,744,Chaos;Child,Adventure,79,61.15,970570
+745,745,Fatal Frame,Action,75,15.43,1732190
+746,746,Kirby: Nightmare in Dream Land,Platform,76,2.53,
+747,747,Leisure Suit Larry: Magna Cum Laude,Adventure,57,19.23,
+748,748,Metal Gear Solid: The Twin Snakes,Action,83,10.57,
+749,749,Wizardry VI: Bane of the Cosmic Forge,Role-Playing,78,72.33,245410
+750,750,Microsoft Flight Simulator X,Simulation,81,279.67,1250410
+751,751,LittleBigPlanet 3,Platform,68,17.12,
+752,752,Trials Fusion,Racing,71,34.73,245490
+753,753,Golden Sun: The Lost Age,Role-Playing,86,26.95,
+754,754,Ms. Pac-Man,Puzzle,75,3.1,403410
+755,755,Shenmue II,Adventure,85,99.88,758330
+756,756,StarCraft II: Wings of Liberty,Strategy,86,17.5,
+757,757,Stronghold Legends,Strategy,61,11.9,40980
+758,758,Viewtiful Joe,Action,76,12.82,
+759,759,Plants vs. Zombies: Garden Warfare 2,Shooter,74,24.35,1922560
+760,760,Breath of Fire,Role-Playing,68,63.5,
+761,761,Diablo II,Role-Playing,87,34.55,
+762,762,Double Dragon,Action,64,4.45,1967260
+763,763,F-Zero X,Racing,80,10.78,
+764,764,Mario Kart: Double Dash!!,Racing,82,6.0,
+765,765,Metroid: Other M,Action,67,19.05,
+766,766,Mortal Kombat,Fighting,81,29.14,976310
+767,767,Parasite Eve II,Role-Playing,77,11.05,
+768,768,Fairy Fencer F,Role-Playing,69,77.81,524580
+769,769,Eternal Darkness: Sanity's Requiem,Adventure,80,16.82,
+770,770,Mega Man X4,Action,82,8.3,
+771,771,Mortal Kombat II,Fighting,74,8.86,
+772,772,Tales of Xillia,Role-Playing,81,36.45,2246670
+773,773,Warcraft III: The Frozen Throne,Strategy,89,18.1,
+774,774,Killer Instinct,Fighting,74,7.82,577940
+775,775,Tearaway Unfolded,Platform,76,15.1,
+776,776,Project: Snowblind,Action,60,12.73,7010
+777,777,Sly Cooper: Thieves in Time,Platform,76,13.1,
+778,778,Streets of Rage,Action,74,10.43,985890
+779,779,Tales of Phantasia,Role-Playing,77,32.0,
+780,780,The Legend of Zelda: Four Swords Adventures,Action,73,13.58,
+781,781,Unreal II: The Awakening,Shooter,67,8.47,652570
+782,782,Clannad,Adventure,87,63.7,324160
+783,783,Crash Team Racing,Racing,85,8.28,
+784,784,Donkey Kong 64,Platform,78,21.42,
+785,785,FlatOut: Ultimate Carnage,Racing,79,30.32,12360
+786,786,Gears of War: Judgment,Shooter,68,20.98,2523720
+787,787,Killzone,Shooter,64,19.5,1533610
+788,788,Kirby's Epic Yarn,Platform,76,12.55,
+789,789,Legendary,Shooter,54,17.37,1328670
+790,790,Castlevania III: Dracula's Curse,Platform,77,27.85,
+791,791,Epic Mickey 2: The Power of Two,Action,58,51.61,245300
+792,792,Ghostbusters: The Video Game,Action,72,43.59,311770
+793,793,Kirby Super Star,Platform,81,11.0,
+794,794,Sly 2: Band of Thieves,Platform,82,30.9,
+795,795,Sonic Colors,Platform,74,10.4,2055290
+796,796,Hyperdevotion Noire: Goddess Black Heart,Role-Playing,65,23.25,415480
+797,797,Fairy Fencer F: Advent Dark Force,Role-Playing,68,57.68,524580
+798,798,Killzone 2,Shooter,74,7.63,
+799,799,Need for Speed: The Run,Action,68,17.53,
+800,800,Rayman,Platform,70,12.13,242550
+801,801,Super Mario All-Stars,Platform,87,17.72,
+802,802,Take On Helicopters,Simulation,46,16.1,65730
+803,803,Velvet Assassin,Shooter,62,19.59,16720
+804,804,Breath of Fire II,Role-Playing,73,76.81,1998580
+805,805,Kingdom Hearts 358/2 Days,Role-Playing,72,54.88,
+806,806,Kirby & the Amazing Mirror,Platform,75,6.37,
+807,807,Majesty 2 Collection,Strategy,63,20.37,73020
+808,808,Midnight Club II,Racing,70,25.8,
+809,809,Omerta: City of Gangsters,Simulation,67,36.65,1386780
+810,810,Railroad Tycoon 3,Strategy,64,27.92,7610
+811,811,Rayman 2: The Great Escape,Platform,77,32.5,
+812,812,Shin Megami Tensei,Role-Playing,70,32.68,1875830
+813,813,Super Mario Bros.: The Lost Levels,Platform,64,14.51,
+814,814,Total War: Attila,Strategy,78,40.13,325610
+815,815,Kirby's Dream Land 3,Platform,69,12.11,
+816,816,Mega Man 3,Platform,79,9.23,
+817,817,Still Life,Adventure,74,8.1,46480
+818,818,Super Castlevania IV,Platform,80,24.91,
+819,819,The Book of Unwritten Tales,Adventure,79,12.87,279940
+820,820,The Last Story,Role-Playing,81,42.97,3338600
+821,821,Ape Escape,Platform,76,28.11,4139400
+822,822,Drakengard,Role-Playing,61,11.23,
+823,823,Planetarian: Chiisana Hoshi no Yume,Adventure,77,3.18,
+824,824,The King of Fighters XIV,Fighting,73,3.28,872410
+825,825,Castlevania: Lords of Shadow,Action,79,54.43,234080
+826,826,God Hand,Action,85,24.92,978970
+827,827,Heroes of Might and Magic V,Strategy,75,53.93,297000
+828,828,Star Ocean: First Departure,Role-Playing,72,27.75,
+829,829,NBA 2K16,Sports,73,76.02,
+830,830,F-Zero,Racing,74,11.22,1668510
+831,831,Klonoa: Door to Phantomile,Platform,79,21.37,
+832,832,Record of Agarest War,Role-Playing,67,277.01,1203630
+833,833,Silent Hill: Downpour,Action,67,38.37,
+834,834,Spider-Man 2,Action,73,19.66,2651280
+835,835,The Legend of Dragoon,Role-Playing,82,52.4,2138610
+836,836,Final Fantasy XIV: Heavensward,Action,87,192.75,39210
+837,837,Metroid Prime Hunters,Shooter,67,6.32,
+838,838,Riven: The Sequel to Myst,Adventure,78,10.12,
+839,839,Tony Hawk's Pro Skater 3,Sports,81,17.17,2545710
+840,840,Wario Land 4,Platform,79,5.62,
+841,841,Yoshi's Story,Platform,66,4.35,
+842,842,Enemy Front,Shooter,58,20.82,256190
+843,843,WWE 2K16,Sports,66,70.63,
+844,844,Burnout 3: Takedown,Racing,85,28.08,
+845,845,Conflict: Desert Storm,Shooter,62,14.61,211780
+846,846,Drakensang: The Dark Eye,Role-Playing,69,31.83,243200
+847,847,Spider-Man,Action,75,8.62,1817070
+848,848,Still Life 2,Adventure,59,10.13,46490
+849,849,Pikmin 3,Strategy,86,12.75,
+850,850,Fatal Frame: Maiden of Black Water,Action,71,54.48,1732190
+851,851,Crash Bandicoot: The Wrath of Cortex,Platform,68,12.82,
+852,852,F1 2012,Racing,74,127.8,
+853,853,Final Fight,Action,72,13.09,222420
+854,854,Gran Turismo 3: A-Spec,Racing,80,38.7,
+855,855,Mega Man X3,Action,74,20.7,
+856,856,Toy Story 3: The Video Game,Action,70,34.73,300820
+857,857,Ratchet & Clank: Into the Nexus,Shooter,75,5.32,
+858,858,Chaos;Head Noah,Adventure,74,17.25,1961950
+859,859,Burnout Paradise,Racing,80,50.32,1238080
+860,860,Caesar III,Strategy,76,42.83,517790
+861,861,Call of Duty 3,Shooter,66,49.18,1938090
+862,862,Lost Planet 2,Shooter,63,42.53,45750
+863,863,Need for Speed: ProStreet,Racing,67,39.77,1222680
+864,864,Resident Evil: The Umbrella Chronicles,Action,67,25.34,
+865,865,Mega Man X2,Platform,79,11.89,
+866,866,Tom Clancy's Ghost Recon,Shooter,74,24.5,2231380
+867,867,Tom Clancy's Ghost Recon Advanced Warfighter 2,Shooter,67,32.16,
+868,868,Ty the Tasmanian Tiger,Platform,75,36.56,411960
+869,869,Knack,Platform,62,21.91,2710050
+870,870,Advance Wars,Strategy,81,15.55,
+871,871,Contra III: The Alien Wars,Shooter,77,6.77,
+872,872,F1 2011,Racing,67,69.73,
+873,873,Front Mission Evolved,Shooter,57,23.52,43000
+874,874,Frontlines: Fuel of War,Shooter,60,15.17,9460
+875,875,LEGO Star Wars II: The Original Trilogy,Action,74,54.3,
+876,876,Dragon Quest VI: Realms of Revelation,Role-Playing,77,40.67,
+877,877,Hunted: The Demon's Forge,Action,64,37.04,22450
+878,878,Mega Man 5,Platform,72,8.15,
+879,879,Metal Gear Solid 2: Substance,Action,88,83.54,2131640
+880,880,Nintendo Land,Misc,71,10.43,
+881,881,Tales of Symphonia: Dawn of the New World,Role-Playing,71,65.82,
+882,882,TimeSplitters 2,Shooter,83,17.24,
+883,883,Baten Kaitos: Eternal Wings and the Lost Ocean,Role-Playing,82,48.53,
+884,884,Xenosaga Episode I: Der Wille zur Macht,Role-Playing,77,40.42,
+885,885,Xenosaga Episode III: Also sprach Zarathustra,Role-Playing,83,76.28,
+886,886,Titanfall,Shooter,75,26.69,1237970
+887,887,Persona 4: Dancing All Night,Misc,77,18.81,
+888,888,Harry Potter and the Order of the Phoenix,Action,65,45.42,
+889,889,Harry Potter and the Prisoner of Azkaban,Action,69,22.68,
+890,890,Haunting Ground,Action,74,8.67,
+891,891,Injustice: Gods Among Us,Fighting,74,39.23,242700
+892,892,Ninja Gaiden Sigma,Action,76,83.05,
+893,893,Ratchet & Clank: Size Matters,Platform,66,6.83,
+894,894,Resident Evil: Operation Raccoon City,Action,49,18.1,
+895,895,Resonance of Fate,Role-Playing,74,205.38,645730
+896,896,Sacred Gold,Role-Playing,72,22.4,225640
+897,897,Sonic Adventure,Platform,75,43.28,213610
+898,898,Test Drive Unlimited 2,Racing,72,82.78,1249970
+899,899,The Lord of the Rings: The Two Towers,Action,70,6.48,212500
+900,900,Black,Shooter,74,23.19,2358720
+901,901,Command & Conquer 3: Kane's Wrath,Strategy,76,18.33,24810
+902,902,Devil May Cry 3: Dante's Awakening,Action,83,46.7,
+903,903,Shin Megami Tensei: Digital Devil Saga 2,Role-Playing,81,65.45,
+904,904,Silent Hill: Origins,Action,67,6.92,
+905,905,Worms World Party,Strategy,77,8.4,270910
+906,906,The Crew,Racing,70,58.76,2698940
+907,907,Sword Art Online: Lost Song,Role-Playing,64,109.02,840720
+908,908,Castlevania II: Simon's Quest,Platform,63,29.66,
+909,909,Gun Metal,Shooter,53,2.57,267920
+910,910,Men of War: Vietnam,Strategy,70,6.28,244450
+911,911,FIFA 17,Sports,72,129.69,
+912,912,Army Men: RTS,Strategy,67,9.0,694500
+913,913,Borderlands: The Handsome Collection,Shooter,78,136.86,
+914,914,Fatal Frame II: Crimson Butterfly,Action,83,30.72,3920610
+915,915,Guilty Gear Isuka,Fighting,66,3.15,267900
+916,916,Mega Man 6,Platform,73,9.45,
+917,917,Mortal Kombat 3,Fighting,72,6.84,
+918,918,Post Mortem,Adventure,66,6.85,46550
+919,919,Super Smash Bros.,Fighting,80,4.02,
+920,920,The Book of Unwritten Tales: The Critter Chronicles,Action,71,7.35,221830
+921,921,Baldur's Gate: Dark Alliance,Role-Playing,76,32.23,1889930
+922,922,Disciples III: Renaissance,Strategy,63,25.0,33670
+923,923,Mega Man X6,Action,61,11.85,
+924,924,Puzzle Quest: Challenge of the Warlords,Puzzle,79,105.13,12500
+925,925,Spider-Man: Web of Shadows,Action,69,49.7,1888300
+926,926,The Lord of the Rings: The Return of the King,Action,77,17.31,212500
+927,927,Tony Hawk's Pro Skater 4,Sports,82,24.65,2545710
+928,928,DC Universe Online,Role-Playing,64,434.01,24200
+929,929,Lemmings,Puzzle,75,37.4,1298200
+930,930,The Book of Unwritten Tales 2,Adventure,74,59.04,279940
+931,931,Spider-Man: Shattered Dimensions,Action,72,45.46,
+932,932,Star Fox: Assault,Shooter,71,5.7,
+933,933,StarCraft II: Heart of the Swarm,Strategy,85,11.87,
+934,934,Summoner,Role-Playing,62,52.88,2426960
+935,935,The Simpsons Game,Action,68,35.43,
+936,936,Theme Park,Simulation,70,18.62,1202780
+937,937,Battle vs. Chess,Misc,54,16.97,211050
+938,938,Asura's Wrath,Action,77,27.41,
+939,939,Castlevania: Curse of Darkness,Action,77,12.8,868060
+940,940,Dragon's Lair,Platform,61,11.0,227380
+941,941,Gray Matter,Adventure,74,23.21,260570
+942,942,Koudelka,Role-Playing,74,14.47,
+943,943,World of Tanks,Shooter,72,2365.37,1407200
+944,944,X Rebirth,Simulation,60,15.0,2870
+945,945,Space Hulk,Strategy,60,9.43,816090
+946,946,Deathtrap Dungeon,Action,30,15.92,824760
+947,947,Command & Conquer: Red Alert 2,Strategy,84,14.88,2229850
+948,948,Muramasa: The Demon Blade,Role-Playing,82,27.55,2169950
+949,949,Order of War,Strategy,80,19.15,312450
+950,950,Patapon,Misc,76,11.22,2383200
+951,951,Ratchet & Clank Future: Quest for Booty,Platform,68,3.25,
+952,952,Red Dead Redemption: Undead Nightmare,Action,77,21.66,
+953,953,Shadow Man,Action,72,14.0,1413870
+954,954,Tales of Legendia,Role-Playing,69,34.93,
+955,955,The First Templar,Action,64,28.21,57680
+956,956,BloodRayne 2,Shooter,64,17.12,1373550
+957,957,Brothers in Arms: Hell's Highway,Shooter,74,35.98,15390
+958,958,Resistance: Fall of Man,Shooter,71,11.13,3018530
+959,959,Samurai Shodown,Fighting,67,2.45,1342260
+960,960,Sin and Punishment,Shooter,77,4.84,
+961,961,StarCraft,Strategy,88,25.32,3476660
+962,962,Sudeki,Role-Playing,66,11.57,233350
+963,963,Tony Hawk's Underground,Sports,80,31.73,
+964,964,X-Men Origins: Wolverine,Action,72,33.7,
+965,965,Ben 10: Protector of Earth,Action,69,11.48,
+966,966,F1 2014,Racing,72,22.75,
+967,967,Alone in the Dark: The New Nightmare,Adventure,65,14.2,259190
+968,968,Ape Escape 2,Platform,78,25.03,
+969,969,Battlefield 2,Shooter,80,22.84,1517290
+970,970,Blood Omen: Legacy of Kain,Role-Playing,72,12.23,242960
+971,971,Crash of the Titans,Action,65,20.02,2479650
+972,972,Killzone 3,Shooter,74,6.87,
+973,973,Lost Horizon,Adventure,78,10.27,40350
+974,974,Mega Man Zero,Platform,75,9.07,999020
+975,975,NBA Jam Tournament Edition,Sports,82,8.0,
+976,976,Mega Man 7,Platform,72,10.45,
+977,977,Mortal Kombat: Shaolin Monks,Action,78,6.8,
+978,978,Sonic and the Black Knight,Platform,60,7.87,991490
+979,979,Tales of Xillia 2,Role-Playing,79,36.1,2246670
+980,980,L.A. Noire: The Complete Edition,Adventure,81,152.79,
+981,981,Hyrule Warriors,Action,76,13.23,
+982,982,Sakura Wars,Adventure,73,41.47,
+983,983,Castlevania: Lament of Innocence,Action,73,16.95,
+984,984,Command & Conquer,Strategy,78,16.75,2229850
+985,985,Earthworm Jim 2,Platform,76,6.4,38490
+986,986,Katamari Damacy,Puzzle,84,11.43,848350
+987,987,LEGO Star Wars: The Video Game,Action,73,24.72,
+988,988,Yoshi's Island DS,Platform,67,6.08,
+989,989,Forza Horizon 2,Racing,83,48.7,
+990,990,Mega Man 4,Platform,73,11.25,
+991,991,Mega Man X5,Platform,73,10.8,
+992,992,Ninja Gaiden Sigma 2,Action,77,64.21,3287520
+993,993,Red Dead Revolver,Shooter,68,20.5,
+994,994,StarCraft II: Legacy of the Void,Strategy,83,13.65,
+995,995,Tekken 5,Fighting,81,2.52,
+996,996,The Saboteur,Action,74,33.18,24880
+997,997,The Sims,Simulation,75,26.4,1222670
+998,998,Tom Clancy's Splinter Cell: Pandora Tomorrow,Action,77,71.76,3929740
+999,999,Army of Two,Shooter,66,25.55,592200
+1000,1000,Banjo-Kazooie: Nuts & Bolts,Platform,71,47.46,2111340
+1001,1001,Blue Dragon,Role-Playing,72,104.74,
+1002,1002,Dark Sector,Shooter,65,25.41,29900
+1003,1003,Epic Mickey,Platform,66,13.03,1522160
+1004,1004,Anno 2205,Strategy,70,20.6,375910
+1005,1005,MegaTagmension Blanc + Neptune VS Zombies,Action,65,6.58,496810
+1006,1006,The Chronicles of Riddick: Assault on Dark Athena,Shooter,74,28.75,
+1007,1007,Transformers: Fall of Cybertron,Action,79,30.34,
+1008,1008,Ultimate Spider-Man,Action,72,21.45,
+1009,1009,Wario Land: Shake It!,Platform,74,13.86,
+1010,1010,Conflict: Denied Ops,Shooter,56,12.05,8100
+1011,1011,Crash Nitro Kart,Racing,69,6.37,
+1012,1012,Donkey Kong Jungle Beat,Platform,78,9.36,
+1013,1013,Guitar Hero III: Legends of Rock,Misc,82,46.55,
+1014,1014,Myst IV: Revelation,Adventure,76,11.78,925940
+1015,1015,Ninja Gaiden,Action,72,17.35,2627260
+1016,1016,R.U.S.E.,Strategy,74,53.78,1142850
+1017,1017,Record of Agarest War Zero,Strategy,57,167.33,740550
+1018,1018,Rogue Galaxy,Role-Playing,77,78.15,
+1019,1019,Mario & Sonic at the Olympic Winter Games,Sports,69,8.7,
+1020,1020,Kingdom Hearts 3D: Dream Drop Distance,Action,76,39.28,
+1021,1021,LittleBigPlanet 2,Platform,80,7.02,
+1022,1022,Lollipop Chainsaw,Action,72,12.69,2658450
+1023,1023,Mario Kart: Super Circuit,Racing,66,2.0,
+1024,1024,Rule of Rose,Action,70,8.58,
+1025,1025,Sherlock Holmes: The Mystery of the Mummy,Adventure,46,5.45,11130
+1026,1026,Siren,Adventure,72,64.6,1191630
+1027,1027,Syphon Filter 3,Shooter,76,6.73,
+1028,1028,Tomba!,Platform,78,9.63,2851150
+1029,1029,Fable,Role-Playing,77,26.12,288470
+1030,1030,Gran Turismo 4,Racing,84,77.15,
+1031,1031,Imperium Romanum,Strategy,68,23.03,23400
+1032,1032,Spy Fox in Dry Cereal,Adventure,65,2.03,283980
+1033,1033,Tekken 2,Fighting,74,3.47,
+1034,1034,Tom Clancy's Ghost Recon Advanced Warfighter,Shooter,70,27.54,
+1035,1035,Fire Emblem: Thracia 776,Strategy,80,30.05,
+1036,1036,Alundra,Role-Playing,77,32.47,
+1037,1037,MadWorld,Action,71,11.03,369290
+1038,1038,Mario Party 8,Misc,69,5.22,
+1039,1039,Senran Kagura: Estival Versus,Action,69,32.65,502800
+1040,1040,Tom Clancy's Ghost Recon: Island Thunder,Shooter,64,3.67,13630
+1041,1041,Wolfenstein,Shooter,70,27.16,201810
+1042,1042,Mega Man Legends,Adventure,78,9.45,
+1043,1043,Mega Man X7,Action,42,8.59,
+1044,1044,Mega Man Zero 4,Platform,81,7.43,999020
+1045,1045,Resident Evil: The Darkside Chronicles,Action,70,24.82,
+1046,1046,Skate 3,Sports,82,28.38,2545710
+1047,1047,Sonic & Knuckles,Platform,80,4.92,
+1048,1048,Star Ocean: Second Evolution,Role-Playing,82,40.0,2238900
+1049,1049,Street Fighter Alpha 3,Fighting,83,3.31,586200
+1050,1050,Advance Wars 2: Black Hole Rising,Strategy,83,33.47,
+1051,1051,Animal Crossing: City Folk,Simulation,76,67.22,
+1052,1052,Cars,Racing,63,26.96,2637940
+1053,1053,Clock Tower,Adventure,68,3.99,2794770
+1054,1054,Crash Tag Team Racing,Racing,67,8.23,
+1055,1055,Dr. Mario,Puzzle,69,6.3,
+1056,1056,Hospital Tycoon,Strategy,68,5.12,
+1057,1057,Imperial Glory,Strategy,80,11.43,277450
+1058,1058,Jade Empire,Role-Playing,77,16.68,7110
+1059,1059,Shadow Hearts,Role-Playing,77,25.4,3634100
+1060,1060,Sonic Riders,Racing,72,10.2,
+1061,1061,The Lord of the Rings: The Third Age,Role-Playing,73,21.93,212500
+1062,1062,Trauma Center: Second Opinion,Simulation,75,8.93,
+1063,1063,Yakuza,Action,79,26.85,1235140
+1064,1064,Farming Simulator 2013,Simulation,64,26.92,220260
+1065,1065,FIFA 14,Sports,72,623.96,
+1066,1066,Super Mario Maker,Platform,81,5.7,
+1067,1067,Kirby and the Rainbow Curse,Platform,70,5.62,1106830
+1068,1068,Dragon Ball Z: Budokai 3,Fighting,79,27.75,
+1069,1069,Ecco the Dolphin,Adventure,62,7.6,
+1070,1070,Eternal Sonata,Role-Playing,75,59.43,
+1071,1071,Harry Potter: Quidditch World Cup,Sports,69,23.0,
+1072,1072,Medal of Honor: Frontline,Shooter,72,26.57,47790
+1073,1073,Pajama Sam: Don't Fear The Dark,Adventure,78,3.05,
+1074,1074,Back to the Future: The Game,Adventure,70,83.25,
+1075,1075,Baldur's Gate: Dark Alliance II,Role-Playing,77,24.13,1889930
+1076,1076,Dark Void,Action,58,36.55,1368480
+1077,1077,Valkyrie Profile 2: Silmeria,Role-Playing,80,42.7,
+1078,1078,WarioWare: Smooth Moves,Puzzle,79,4.72,
+1079,1079,God of War Collection,Action,85,21.47,2322010
+1080,1080,Lunar: Silver Star Story Complete,Role-Playing,83,29.3,
+1081,1081,Myst,Adventure,72,6.42,1584090
+1082,1082,Record of Agarest War 2,Role-Playing,57,139.68,740550
+1083,1083,Secret Files: Tunguska,Adventure,72,18.68,40330
+1084,1084,Sonic and the Secret Rings,Platform,50,16.92,
+1085,1085,Sonic the Hedgehog 3,Platform,82,5.95,2324650
+1086,1086,Super Street Fighter II,Fighting,80,4.13,
+1087,1087,Tales of Destiny,Role-Playing,75,38.0,1650740
+1088,1088,The 7th Guest,Adventure,63,7.97,1044340
+1089,1089,Tony Hawk's Underground 2,Sports,78,15.3,2395210
+1090,1090,Battlefield: Bad Company,Shooter,74,37.37,
+1091,1091,Bomberman 64,Puzzle,67,3.3,
+1092,1092,Elven Legacy,Strategy,63,8.48,25850
+1093,1093,Fatal Fury Special,Fighting,65,2.29,
+1094,1094,Harry Potter and the Half-Blood Prince,Action,64,25.44,
+1095,1095,Medal of Honor: Warfighter,Action,62,16.92,47790
+1096,1096,Mega Man Zero 2,Platform,78,9.3,1798020
+1097,1097,Mega Man Zero 3,Platform,83,6.78,999020
+1098,1098,Myst III: Exile,Adventure,79,15.28,925930
+1099,1099,Punch-Out!!,Sports,81,9.61,1395780
+1100,1100,Radiant Silvergun,Shooter,84,23.17,2450820
+1101,1101,Ratchet & Clank Collection,Action,88,37.95,1895880
+1102,1102,Spider-Man 3,Platform,63,41.89,
+1103,1103,Street Fighter Alpha 2,Fighting,80,4.55,
+1104,1104,Suikoden V,Role-Playing,84,53.95,
+1105,1105,Advance Wars: Dual Strike,Strategy,82,19.97,
+1106,1106,Command & Conquer 4: Tiberian Twilight,Strategy,48,8.52,47700
+1107,1107,Colin McRae Rally,Racing,53,9.87,
+1108,1108,Carmageddon: Max Damage,Action,69,54.21,505170
+1109,1109,Voodoo Vince,Platform,74,24.28,545980
+1110,1110,Lost Dimension,Role-Playing,67,17.72,626600
+1111,1111,Mario Party 2,Misc,79,15.7,
+1112,1112,Marvel: Ultimate Alliance 2,Role-Playing,71,61.66,
+1113,1113,Mega Man Battle Network,Role-Playing,72,13.27,1798010
+1114,1114,Mega Man X8,Platform,73,10.05,
+1115,1115,Naruto Shippuden: Ultimate Ninja Storm 3,Fighting,77,56.37,349040
+1116,1116,Pandora's Tower,Role-Playing,77,38.12,
+1117,1117,Ratchet & Clank: All 4 One,Platform,65,10.62,
+1118,1118,Rocksmith,Misc,74,43.67,221680
+1119,1119,Romancing SaGa 3,Role-Playing,76,84.0,952540
+1120,1120,Silent Hunter III,Simulation,81,66.0,15210
+1121,1121,Avatar: The Last Airbender,Adventure,56,16.14,1620030
+1122,1122,Broken Sword: The Shadow of the Templars,Adventure,83,9.82,2544110
+1123,1123,Dragon Ball Z: Budokai 2,Fighting,72,7.42,
+1124,1124,Harvest Moon: A Wonderful Life,Role-Playing,76,34.07,
+1125,1125,James Bond 007: Agent Under Fire,Shooter,64,13.64,
+1126,1126,Drakengard 3,Role-Playing,70,17.58,
+1127,1127,Akiba's Trip: Undead & Undressed,Action,69,28.11,333980
+1128,1128,Mega Man Legends 2,Adventure,75,12.22,1798020
+1129,1129,PlayStation All-Stars Battle Royale,Action,66,4.6,
+1130,1130,Rayman 3: Hoodlum Havoc,Platform,76,17.22,
+1131,1131,Resistance 2,Shooter,73,10.0,1394600
+1132,1132,Second Sight,Adventure,75,17.73,11550
+1133,1133,Suikoden III,Role-Playing,82,127.78,
+1134,1134,Syphon Filter,Shooter,74,27.6,
+1135,1135,Terranigma,Role-Playing,81,15.55,
+1136,1136,Disney's The Lion King,Platform,69,11.04,1126190
+1137,1137,Zone of the Enders,Shooter,68,19.57,650510
+1138,1138,Naruto Shippuden: Ultimate Ninja 5,Fighting,80,8.85,349040
+1139,1139,Caesar IV,Strategy,70,16.2,517810
+1140,1140,Castlevania Chronicles,Platform,70,6.32,
+1141,1141,Demigod,Strategy,65,3.75,202710
+1142,1142,Disney's Donald Duck: Goin' Quackers,Platform,68,4.7,
+1143,1143,Fatal Frame III: The Tormented,Action,81,27.77,
+1144,1144,Forza Horizon,Racing,84,41.27,1551360
+1145,1145,Frogger,Action,66,4.92,1559970
+1146,1146,Digimon World: Next Order,Action,78,87.83,1530160
+1147,1147,Super Ghouls 'n Ghosts,Platform,71,12.92,
+1148,1148,Tales of Vesperia,Role-Playing,86,110.57,738540
+1149,1149,The King of Fighters 2000,Fighting,74,2.57,1498570
+1150,1150,Wario: Master of Disguise,Platform,65,10.92,
+1151,1151,Way of the Samurai 4,Action,67,23.12,312780
+1152,1152,We Love Katamari,Puzzle,83,11.9,1730700
+1153,1153,de Blob,Platform,69,29.85,563190
+1154,1154,Full Spectrum Warrior,Strategy,65,10.07,4520
+1155,1155,Gran Turismo 5,Racing,79,44.45,
+1156,1156,Kid Icarus,Platform,66,6.7,
+1157,1157,NBA Jam,Sports,79,12.32,
+1158,1158,Sphinx and the Cursed Mummy,Action,72,32.6,606710
+1159,1159,Star Wars Episode III: Revenge of the Sith,Action,69,14.85,
+1160,1160,Star Fox Command,Shooter,61,2.62,
+1161,1161,Tekken 6,Fighting,75,15.1,
+1162,1162,TimeSplitters: Future Perfect,Shooter,82,12.61,
+1163,1163,Wii Play,Misc,61,3.85,
+1164,1164,Romancing SaGa 2,Role-Playing,81,138.07,2455640
+1165,1165,Driver,Action,71,22.67,920490
+1166,1166,Earth Defense Force: Insect Armageddon,Shooter,64,21.65,23530
+1167,1167,Full Spectrum Warrior: Ten Hammers,Strategy,63,10.0,4530
+1168,1168,Kingdom Hearts Re:coded,Role-Playing,61,32.0,
+1169,1169,Naruto: Ultimate Ninja 3,Fighting,71,4.78,349040
+1170,1170,Clive Barker's Jericho,Shooter,64,22.72,
+1171,1171,Crackdown,Shooter,72,36.19,
+1172,1172,Disgaea 3: Absence of Justice,Role-Playing,76,36.3,
+1173,1173,TrackMania Turbo,Action,71,80.73,375900
+1174,1174,Shadow Ops: Red Mercury,Shooter,59,5.58,286770
+1175,1175,Football Manager 2014,Sports,82,532.7,
+1176,1176,James Bond 007: Nightfire,Shooter,70,13.43,
+1177,1177,Kirby: Canvas Curse,Platform,70,3.6,
+1178,1178,Little King's Story,Strategy,81,24.1,390310
+1179,1179,Mario vs. Donkey Kong,Puzzle,70,4.48,
+1180,1180,Muv-Luv Alternative,Simulation,88,123.38,802890
+1181,1181,Onimusha 3: Demon Siege,Action,78,23.87,
+1182,1182,Praetorians,Strategy,64,15.98,1100420
+1183,1183,Puzzle Quest 2,Puzzle,66,73.18,718080
+1184,1184,Ratatouille,Action,62,20.88,
+1185,1185,Shin Megami Tensei II,Role-Playing,71,37.43,1875830
+1186,1186,Clock Tower 3,Adventure,64,6.28,
+1187,1187,D,Adventure,57,3.32,570
+1188,1188,Final Fantasy VI Advance,Role-Playing,88,42.0,2909400
+1189,1189,Fuel,Racing,67,58.3,3441460
+1190,1190,Heavenly Sword,Action,69,6.83,
+1191,1191,Virtua Fighter 2,Fighting,64,3.29,
+1192,1192,Zack & Wiki: Quest for Barbaros' Treasure,Adventure,76,13.97,
+1193,1193,The Sims 2: Castaway,Simulation,65,12.53,3314070
+1194,1194,Mortal Kombat: Armageddon,Fighting,71,15.3,
+1195,1195,Perfect Dark Zero,Shooter,54,18.0,
+1196,1196,PokéPark Wii: Pikachu's Adventure,Adventure,68,15.42,
+1197,1197,Resident Evil Zero,Action,73,32.7,
+1198,1198,Resistance 3,Shooter,79,8.13,
+1199,1199,The SpongeBob SquarePants Movie,Platform,67,14.12,1282150
+1200,1200,The Warriors,Action,79,30.96,203350
+1201,1201,Def Jam: Fight for NY,Fighting,80,6.4,
+1202,1202,Kirby Air Ride,Racing,76,3.0,
+1203,1203,Kirby's Dream Course,Sports,73,6.48,
+1204,1204,Kuon,Adventure,75,8.88,2668840
+1205,1205,Command & Conquer: Red Alert,Strategy,81,27.17,2229850
+1206,1206,Croc: Legend of the Gobbos,Platform,64,5.03,3043940
+1207,1207,DarkStar One,Simulation,78,22.2,12330
+1208,1208,Creeper World 3: Arc Eternal,Strategy,77,16.27,280220
+1209,1209,Sengoku,Strategy,46,3.97,1702010
+1210,1210,SSX,Sports,72,22.71,
+1211,1211,Suikoden IV,Role-Playing,66,30.07,
+1212,1212,Tenchu: Wrath of Heaven,Action,74,9.18,
+1213,1213,The Legend of Spyro: Dawn of the Dragon,Platform,67,35.97,1721440
+1214,1214,Thrillville: Off the Rails,Strategy,70,18.48,6080
+1215,1215,Tom Clancy's Rainbow Six: Lockdown,Shooter,54,8.63,359550
+1216,1216,Jet Force Gemini,Shooter,72,11.42,
+1217,1217,Mario & Sonic at the Olympic Games,Sports,63,7.92,
+1218,1218,Mario Power Tennis,Sports,74,3.5,
+1219,1219,Medal of Honor: Rising Sun,Shooter,67,13.55,
+1220,1220,Metal Slug XX,Shooter,72,5.13,975680
+1221,1221,Pilotwings,Simulation,74,11.92,
+1222,1222,Scribblenauts,Puzzle,68,9.1,218680
+1223,1223,Age of Empires II: The Age of Kings,Strategy,85,85.97,813780
+1224,1224,Army of Two: The 40th Day,Shooter,66,14.85,
+1225,1225,Army of Two: The Devil's Cartel,Shooter,66,16.1,
+1226,1226,Burnout Revenge,Racing,82,33.84,
+1227,1227,Dragon Ball Z: Budokai Tenkaichi 2,Fighting,76,27.28,
+1228,1228,Final Fantasy XI,Role-Playing,76,167.73,39210
+1229,1229,Disgaea 5: Alliance of Vengeance,Role-Playing,82,92.97,
+1230,1230,Digimon Story: Cyber Sleuth,Role-Playing,78,97.77,1042550
+1231,1231,Stronghold 3,Strategy,45,7.0,47400
+1232,1232,Venetica,Role-Playing,65,59.67,338140
+1233,1233,Football Manager 2013,Sports,81,567.23,
+1234,1234,Klonoa 2: Lunatea's Veil,Platform,80,25.77,
+1235,1235,Lunar 2: Eternal Blue Complete,Role-Playing,84,40.0,
+1236,1236,MotorStorm,Racing,73,14.18,
+1237,1237,Shadow Hearts: Covenant,Role-Playing,85,39.05,
+1238,1238,Shining Force II,Strategy,84,50.98,
+1239,1239,Blur,Racing,74,29.67,1448000
+1240,1240,Cars 2,Racing,64,25.09,301760
+1241,1241,Baten Kaitos Origins,Role-Playing,80,39.92,
+1242,1242,FIFA 15,Sports,70,359.95,
+1243,1243,Football Manager 2015,Simulation,83,443.57,
+1244,1244,Criminal Girls: Invite Only,Role-Playing,72,27.02,409850
+1245,1245,X-Men Legends,Role-Playing,75,18.28,
+1246,1246,Guitar Hero II,Misc,81,17.33,
+1247,1247,Gunstar Heroes,Shooter,80,10.33,
+1248,1248,Mario Golf,Action,74,14.9,
+1249,1249,Mike Tyson's Punch-Out!!,Fighting,77,8.13,
+1250,1250,Princess Maker 2,Simulation,71,6.15,523000
+1251,1251,Pro Evolution Soccer 2013,Sports,74,195.5,
+1252,1252,Runaway: A Twist of Fate,Adventure,73,6.93,58560
+1253,1253,Shadows of the Damned,Action,74,34.88,276810
+1254,1254,SimCity 2000,Simulation,76,55.33,
+1255,1255,Call of Juarez: The Cartel,Shooter,51,21.12,
+1256,1256,Dragon's Dogma,Role-Playing,81,110.76,2054970
+1257,1257,Guitar Hero,Misc,79,12.62,
+1258,1258,MotoGP 15,Racing,67,24.0,355130
+1259,1259,Escape Dead Island,Action,51,25.61,226560
+1260,1260,Skylanders: Spyro's Adventure,Action,67,46.55,
+1261,1261,Spider-Man: Friend or Foe,Action,65,31.4,1948140
+1262,1262,Syphon Filter 2,Shooter,78,16.07,
+1263,1263,The Lord of the Rings: The Fellowship of the Ring,Action,60,11.1,212500
+1264,1264,World in Conflict,Strategy,79,11.87,
+1265,1265,The Wonderful 101,Action,80,16.83,1190400
+1266,1266,GT Legends,Racing,64,16.92,44690
+1267,1267,Knights of Honor,Strategy,80,10.83,736820
+1268,1268,Mario Party 9,Misc,61,5.25,
+1269,1269,MDK,Shooter,71,4.63,38460
+1270,1270,Mega Man X: Command Mission,Role-Playing,70,21.63,
+1271,1271,Mega Man ZX,Platform,76,9.43,999020
+1272,1272,Monster Hunter,Role-Playing,64,50.9,2246340
+1273,1273,Onimusha 2: Samurai's Destiny,Adventure,75,9.38,3046600
+1274,1274,Panzer Dragoon Orta,Shooter,81,9.97,
+1275,1275,Code of Princess,Action,59,4.72,408640
+1276,1276,Diablo II: Lord of Destruction,Role-Playing,89,18.35,
+1277,1277,Dies Irae: Amantes Amentes,Action,73,62.5,644540
+1278,1278,Onechanbara Z2: Chaos,Action,64,12.37,446390
+1279,1279,Threads of Fate,Role-Playing,73,14.68,1953580
+1280,1280,X-Men Legends II: Rise of Apocalypse,Role-Playing,79,43.23,
+1281,1281,Yaiba: Ninja Gaiden Z,Action,56,18.27,252230
+1282,1282,Truck Racer,Racing,40,12.05,256070
+1283,1283,Mario & Sonic at the London 2012 Olympic Games,Sports,67,7.42,
+1284,1284,Mario Party 10,Misc,56,3.82,
+1285,1285,Shin Megami Tensei: Persona 3,Role-Playing,89,228.93,1413480
+1286,1286,Silent Hill HD Collection,Action,68,41.86,
+1287,1287,SimCity,Simulation,64,26.25,24780
+1288,1288,Super Mario Advance,Platform,73,2.95,
+1289,1289,Teenage Mutant Ninja Turtles,Action,62,4.0,2996040
+1290,1290,Fatal Fury 2,Fighting,66,2.55,3359900
+1291,1291,Fear Effect,Action,66,7.0,3504570
+1292,1292,Freedom Fighters,Shooter,77,16.03,1347780
+1293,1293,Insecticide,Action,48,3.82,16710
+1294,1294,Klonoa: Empire of Dreams,Platform,71,5.92,
+1295,1295,Mortal Kombat: Deadly Alliance,Fighting,68,16.68,
+1296,1296,Naruto Shippuden: Ultimate Ninja Storm Generations,Fighting,68,11.63,349040
+1297,1297,Odin Sphere,Role-Playing,80,79.25,
+1298,1298,Puzzle Kingdoms,Puzzle,63,19.53,23700
+1299,1299,Beyond Oasis,Role-Playing,76,17.8,
+1300,1300,Disney's Tarzan,Platform,68,7.57,
+1301,1301,Dragon Ball Z: Budokai,Fighting,69,6.95,678950
+1302,1302,Saint Seiya: Soldiers' Soul,Fighting,70,47.7,
+1303,1303,Tom Clancy's EndWar,Strategy,64,31.77,21800
+1304,1304,Viewtiful Joe 2,Action,74,7.85,
+1305,1305,Warcraft II: Tides of Darkness,Strategy,81,21.37,
+1306,1306,Yoshi's Cookie,Puzzle,61,4.5,
+1307,1307,Mechanic Escape,Platform,53,4.25,268240
+1308,1308,Need for Speed: Hot Pursuit 2,Racing,76,22.07,1328660
+1309,1309,Nightmare Creatures,Action,61,13.77,2591990
+1310,1310,Ratchet & Clank: Full Frontal Assault,Adventure,63,5.13,
+1311,1311,Sacred 2: Fallen Angel,Role-Playing,66,74.31,413470
+1312,1312,Section 8,Shooter,50,6.22,
+1313,1313,Sonic Riders: Zero Gravity,Racing,70,5.41,
+1314,1314,Star Wars: Bounty Hunter,Shooter,70,19.02,2419090
+1315,1315,Divinity II: The Dragon Knight Saga,Role-Playing,77,88.07,
+1316,1316,Drill Dozer,Platform,75,5.13,
+1317,1317,El Shaddai: Ascension of the Metatron,Action,68,25.15,1581040
+1318,1318,Forbidden Siren 2,Action,71,17.0,
+1319,1319,Forza Motorsport,Racing,68,80.0,2440510
+1320,1320,Forza Motorsport 3,Racing,79,36.98,
+1321,1321,Gex,Platform,62,5.78,3183970
+1322,1322,Illusion of Gaia,Role-Playing,79,13.15,
+1323,1323,Marc Ecko's Getting Up: Contents Under Pressure,Action,73,22.67,260190
+1324,1324,Ace Combat 04: Shattered Skies,Simulation,82,4.43,
+1325,1325,Ar tonelico: Melody of Elemia,Role-Playing,80,32.02,
+1326,1326,Arc the Lad,Role-Playing,71,11.25,
+1327,1327,Breath of Fire: Dragon Quarter,Role-Playing,71,25.62,
+1328,1328,Condemned 2: Bloodshot,Action,68,17.72,
+1329,1329,Atelier Sophie: The Alchemist of the Mysterious Book,Role-Playing,75,69.45,1621310
+1330,1330,NBA 2K15,Sports,73,193.23,
+1331,1331,Mario vs. Donkey Kong: Tipping Stars,Puzzle,59,2.77,
+1332,1332,Trapped Dead,Strategy,51,10.28,46540
+1333,1333,Virtua Tennis 4,Sports,75,23.78,
+1334,1334,Yakuza 2,Adventure,84,39.35,927380
+1335,1335,Zone of the Enders: The 2nd Runner,Simulation,80,25.93,650510
+1336,1336,Road & Track Presents: The Need for Speed,Racing,65,2.75,
+1337,1337,F1 2013,Racing,72,98.8,
+1338,1338,Mario Tennis: Power Tour,Sports,78,5.75,
+1339,1339,Mega Man & Bass,Platform,70,10.42,
+1340,1340,Ninja Gaiden Black,Action,87,26.92,3287520
+1341,1341,Radiata Stories,Role-Playing,80,31.9,
+1342,1342,Shrek 2,Platform,64,10.92,
+1343,1343,Splatterhouse,Action,70,4.35,
+1344,1344,SpongeBob SquarePants: Battle for Bikini Bottom,Platform,78,17.65,969990
+1345,1345,Syndicate,Shooter,67,18.63,368500
+1346,1346,The Sly Collection,Platform,83,24.43,
+1347,1347,Crackdown 2,Shooter,61,19.96,
+1348,1348,Cyberia,Action,72,4.72,717720
+1349,1349,Damnation,Shooter,44,16.5,214870
+1350,1350,de Blob 2,Platform,69,72.01,563190
+1351,1351,Destroy All Humans! 2,Action,73,23.29,1266700
+1352,1352,Dungeon Keeper 2,Action,83,18.35,2616460
+1353,1353,GoldenEye: Rogue Agent,Shooter,56,10.15,
+1354,1354,Gradius,Shooter,66,4.78,
+1355,1355,Impossible Creatures,Strategy,71,9.43,324680
+1356,1356,Assault Suit Leynos,Shooter,67,4.61,441350
+1357,1357,Stranger of Sword City,Role-Playing,67,55.62,1363840
+1358,1358,FIFA 16,Sports,66,240.64,
+1359,1359,Omega Quintet,Role-Playing,60,70.23,683280
+1360,1360,Yoshi,Puzzle,57,2.07,3298250
+1361,1361,Evolve,Shooter,55,14.92,346110
+1362,1362,Samurai Shodown II,Fighting,71,2.6,
+1363,1363,Silent Hunter: Wolves of the Pacific,Simulation,80,84.05,15200
+1364,1364,Spider-Man: Edge of Time,Action,64,28.7,1075400
+1365,1365,The Operative: No One Lives Forever,Shooter,81,13.0,
+1366,1366,Treasure Hunter G,Role-Playing,73,23.32,2383780
+1367,1367,Mario vs. Donkey Kong 2: March of the Minis,Puzzle,68,4.85,
+1368,1368,Mega Man ZX Advent,Platform,75,8.98,999020
+1369,1369,Midnight Club: Los Angeles,Racing,75,43.37,
+1370,1370,Mortal Kombat vs. DC Universe,Fighting,61,8.66,
+1371,1371,Re-Volt,Racing,73,6.1,1215390
+1372,1372,Rock Band,Misc,81,32.72,1322100
+1373,1373,Forsaken,Shooter,71,9.93,1585180
+1374,1374,Forza Motorsport 4,Racing,83,30.27,
+1375,1375,Fragile Dreams: Farewell Ruins of the Moon,Role-Playing,69,13.0,
+1376,1376,Klonoa 2: Dream Champ Tournament,Platform,69,8.8,
+1377,1377,Call of Duty: Finest Hour,Shooter,60,13.1,
+1378,1378,Captain America: Super Soldier,Action,65,19.14,
+1379,1379,Legend of Kay Anniversary,Action,65,50.51,313810
+1380,1380,World of Warcraft: Wrath of the Lich King,Role-Playing,89,180.75,
+1381,1381,Endless Ocean,Adventure,70,16.42,
+1382,1382,Gran Turismo 6,Racing,81,44.47,
+1383,1383,Ben 10 Ultimate Alien: Cosmic Destruction,Platform,64,27.99,
+1384,1384,Teenage Mutant Ninja Turtles III: The Manhattan Project,Action,74,2.33,
+1385,1385,Beautiful Katamari,Puzzle,73,8.23,
+1386,1386,Angry Birds,Puzzle,67,10.53,1001140
+1387,1387,Captain Rainbow,Adventure,70,8.88,
+1388,1388,Mercenaries 2: World in Flames,Shooter,64,48.69,
+1389,1389,Juiced 2: Hot Import Nights,Racing,63,47.03,
+1390,1390,IL-2 Sturmovik: Cliffs of Dover,Simulation,30,10.42,754530
+1391,1391,World of Warcraft: Legion,Role-Playing,82,42.32,
+1392,1392,The Beatles: Rock Band,Misc,82,15.71,
+1393,1393,Metal Slug Anthology,Shooter,81,22.51,
+1394,1394,Disney Universe,Action,63,31.43,316260
+1395,1395,Drakengard 2,Role-Playing,61,17.9,
+1396,1396,Naruto Shippuden: Ultimate Ninja 4,Fighting,72,8.88,349040
+1397,1397,3D Dot Game Heroes,Role-Playing,75,15.88,
+1398,1398,Unlimited Saga,Role-Playing,73,29.33,
+1399,1399,SSX Tricky,Sports,85,10.92,
+1400,1400,Kameo: Elements of Power,Action,70,18.37,
+1401,1401,Ceville,Action,68,9.0,23460
+1402,1402,Suikoden Tactics,Strategy,62,36.13,
+1403,1403,Teenage Mutant Ninja Turtles II: Back from the Sewers,Action,63,2.3,
+1404,1404,Rune Factory: Tides of Destiny,Role-Playing,77,107.96,
+1405,1405,Blackthorne,Action,69,13.04,2155320
+1406,1406,The Matrix: Path of Neo,Action,71,19.14,
+1407,1407,htoL#NiQ: The Firefly Diary,Platform,57,6.8,368640
+1408,1408,New Super Luigi U,Platform,77,4.65,
+1409,1409,Puppeteer,Platform,77,9.77,316480
+1410,1410,Pirates of the Caribbean: At World's End,Action,59,24.93,301980
+1411,1411,Xevious,Shooter,56,3.13,
+1412,1412,Jak X: Combat Racing,Racing,72,32.9,
+1413,1413,Turok,Action,60,22.86,405830
+1414,1414,Majesty 2: The Fantasy Kingdom Sim,Simulation,76,13.87,
+1415,1415,The Incredibles,Action,61,15.9,818320
+1416,1416,Manhunt 2,Action,69,26.28,2421410
+1417,1417,Harry Potter and the Goblet of Fire,Action,55,14.12,
+1418,1418,Tony Hawk's American Wasteland,Sports,75,30.97,
+1419,1419,NBA 2K14,Sports,72,140.18,
+1420,1420,Puzzler World,Puzzle,63,8.35,33650
+1421,1421,Mercenaries: Playground of Destruction,Action,78,32.92,
+1422,1422,Ar tonelico Qoga: Knell of Ar Ciel,Role-Playing,70,31.28,
+1423,1423,Forza Motorsport 5,Racing,76,50.78,
+1424,1424,Kung Fu Panda,Action,63,20.85,
+1425,1425,Red Steel,Shooter,59,8.45,
+1426,1426,Spyro: A Hero's Tail,Platform,62,8.87,
+1427,1427,Empire: Total War,Strategy,73,22.17,10500
+1428,1428,Sonic Boom: Rise of Lyric,Action,39,7.83,
+1429,1429,NBA 2K10,Sports,69,62.08,
+1430,1430,Star Ocean: The Second Story,Role-Playing,83,34.0,2238900
+1431,1431,Ben 10: Alien Force,Action,62,15.85,
+1432,1432,Super Bomberman 3,Puzzle,78,2.57,
+1433,1433,The Darkness,Shooter,72,25.99,3365030
+1434,1434,Yakuza: Dead Souls,Shooter,69,13.82,
+1435,1435,Final Fantasy Crystal Chronicles: The Crystal Bearers,Action,67,10.83,
+1436,1436,Front Mission: Gun Hazard,Role-Playing,78,17.62,
+1437,1437,Act of Aggression,Strategy,70,11.57,318020
+1438,1438,Transformers: Devastation,Action,72,28.55,
+1439,1439,Football Manager 2016,Simulation,78,308.93,
+1440,1440,Plants vs. Zombies: Garden Warfare,Shooter,73,35.17,1922560
+1441,1441,The Revenge of Shinobi,Platform,71,4.11,2787320
+1442,1442,Corpse Party: Book of Shadows,Adventure,67,12.5,778390
+1443,1443,Wing Commander III: Heart of the Tiger,Action,78,11.48,
+1444,1444,OutRun 2006: Coast 2 Coast,Racing,78,14.12,
+1445,1445,Nights of Azure,Action,64,46.17,527280
+1446,1446,Sonic Mega Collection Plus,Misc,77,12.57,
+1447,1447,Darkstone,Role-Playing,64,12.58,320320
+1448,1448,BlazBlue: Chrono Phantasma Extend,Action,77,48.86,388750
+1449,1449,James Bond 007: Everything or Nothing,Shooter,73,10.95,
+1450,1450,Mana Khemia: Alchemists of Al-Revis,Role-Playing,81,46.5,
+1451,1451,Finding Nemo,Action,53,6.27,331450
+1452,1452,Croc 2,Platform,68,9.6,2461400
+1453,1453,Grandia III,Role-Playing,68,118.13,
+1454,1454,Red Steel 2,Shooter,74,8.3,
+1455,1455,Nitroplus Blasterz: Heroines Infinite Duel,Fighting,67,3.04,482450
+1456,1456,Puzzle Quest: Galactrix,Puzzle,55,14.92,23500
+1457,1457,Folklore,Role-Playing,72,15.32,696220
+1458,1458,GrimGrimoire,Strategy,68,28.42,3364970
+1459,1459,World of Warcraft: The Burning Crusade,Role-Playing,86,85.5,
+1460,1460,Universe at War: Earth Assault,Action,65,14.7,
+1461,1461,Midnight Club 3: DUB Edition Remix,Racing,82,40.87,
+1462,1462,Ogre Battle 64: Person of Lordly Caliber,Role-Playing,75,124.92,
+1463,1463,Area 51,Shooter,68,13.92,1129720
+1464,1464,Alien Hominid,Shooter,71,2.32,843200
+1465,1465,Armored Core 4,Simulation,78,20.23,
+1466,1466,Pro Evolution Soccer 2014,Action,58,37.87,
+1467,1467,Trauma Center: New Blood,Simulation,78,10.48,
+1468,1468,Wet,Shooter,61,13.37,765870
+1469,1469,Medal of Honor: European Assault,Shooter,70,22.75,
+1470,1470,Nightshade,Action,78,12.82,512180
+1471,1471,Jak and Daxter: The Lost Frontier,Platform,60,6.93,
+1472,1472,Link's Crossbow Training,Shooter,62,2.49,
+1473,1473,Calling,Adventure,62,10.38,1212020
+1474,1474,Tom Clancy's Rainbow Six,Shooter,72,12.87,359550
+1475,1475,Crazy Machines,Puzzle,71,5.97,351920
+1476,1476,Tekken Tag Tournament,Fighting,79,3.86,
+1477,1477,F-Zero: GP Legend,Racing,68,3.6,
+1478,1478,The Thing,Adventure,67,13.61,2958970
+1479,1479,Ty the Tasmanian Tiger 2: Bush Rescue,Platform,71,23.07,
+1480,1480,Test Drive Unlimited,Racing,77,55.1,1249970
+1481,1481,Rock Band 2,Misc,86,26.97,
+1482,1482,Naruto: Ultimate Ninja,Fighting,64,6.63,349040
+1483,1483,Haze,Shooter,50,6.45,2470300
+1484,1484,Stranglehold,Shooter,67,18.41,3861500
+1485,1485,Tony Hawk's Project 8,Sports,70,36.49,
+1486,1486,Secret Files 2: Puritas Cordis,Adventure,72,8.8,40340
+1487,1487,Lost Kingdoms,Role-Playing,72,6.0,3002170
+1488,1488,Crusader: No Remorse,Adventure,68,16.08,
+1489,1489,Too Human,Role-Playing,57,40.57,1746230
+1490,1490,Mario Paint,Misc,75,10.73,
+1491,1491,The Urbz: Sims in the City,Simulation,70,16.67,
+1492,1492,World of Warcraft: Cataclysm,Role-Playing,76,217.05,
+1493,1493,Mario Strikers Charged,Sports,75,10.58,
+1494,1494,Jumping Flash!,Platform,69,3.61,2650390
+1495,1495,Brave: The Video Game,Action,66,27.35,311770
+1496,1496,Wii Party,Misc,73,5.18,
+1497,1497,The Walking Dead: Survival Instinct,Shooter,49,21.96,
+1498,1498,The Legend of the Mystical Ninja,Adventure,73,8.97,1986980
+1499,1499,Street Fighter IV,Fighting,77,9.49,45760
+1500,1500,NBA 2K11,Action,81,139.0,
+1501,1501,Cursed Mountain,Adventure,65,16.85,
+1502,1502,SSX 3,Sports,82,46.88,
+1503,1503,Command & Conquer: Tiberian Sun,Strategy,77,23.62,2229880
+1504,1504,Indiana Jones and the Emperor's Tomb,Action,71,33.92,560430
+1505,1505,Balloon Fight,Platform,63,2.32,1123640
+1506,1506,Spyro: Enter the Dragonfly,Platform,53,8.65,
+1507,1507,Football Manager 2012,Sports,78,531.5,
+1508,1508,WWE SmackDown vs. Raw 2011,Fighting,70,88.06,
+1509,1509,Infinite Undiscovery,Role-Playing,71,54.83,
+1510,1510,Stuntman: Ignition,Racing,70,22.73,
+1511,1511,Urban Chaos,Action,68,15.0,243060
+1512,1512,Fear Effect 2: Retro Helix,Action,72,10.0,
+1513,1513,Burnout Dominator,Racing,74,14.87,
+1514,1514,Blinx: The Time Sweeper,Platform,56,20.18,
+1515,1515,TMNT,Action,58,21.3,
+1516,1516,Cossacks: European Wars,Strategy,71,38.33,4880
+1517,1517,Wii Music,Misc,51,4.98,
+1518,1518,Battlefield 1942,Shooter,78,7.77,
+1519,1519,PowerSlave,Shooter,80,11.23,1678430
+1520,1520,Mega Man Battle Network 2,Action,78,17.25,1798010
+1521,1521,Clock Tower II: The Struggle Within,Adventure,43,3.67,
+1522,1522,Tenchu: Shadow Assassins,Action,73,9.58,
+1523,1523,LocoRoco 2,Platform,73,12.08,
+1524,1524,Pure,Racing,72,29.35,1612020
+1525,1525,Ice Climber,Platform,52,6.57,
+1526,1526,Rock Band 3,Misc,85,27.56,
+1527,1527,Warcraft: Orcs & Humans,Strategy,71,14.47,
+1528,1528,Disaster: Day of Crisis,Action,72,9.75,
+1529,1529,Disgaea D2: A Brighter Darkness,Role-Playing,79,26.25,
+1530,1530,Romance of the Three Kingdoms IV: Wall of Fire,Strategy,77,16.0,521730
+1531,1531,Sacra Terra: Angelic Night,Puzzle,71,3.73,344440
+1532,1532,Family Guy: Back to the Multiverse,Action,62,17.14,
+1533,1533,Rooms: The Main Building,Adventure,56,3.32,304500
+1534,1534,Baroque,Role-Playing,67,10.33,944650
+1535,1535,Katamari Forever,Puzzle,80,10.65,
+1536,1536,Stunt Race FX,Racing,65,3.35,
+1537,1537,Okage: Shadow King,Role-Playing,72,51.67,
+1538,1538,Bugs Bunny & Taz: Time Busters,Adventure,77,11.8,
+1539,1539,Madagascar,Platform,62,11.38,1508410
+1540,1540,FIFA 12,Sports,71,328.73,
+1541,1541,Alter Ego,Simulation,58,8.87,63110
+1542,1542,Descent,Shooter,76,13.67,1150440
+1543,1543,Front Mission,Strategy,81,21.8,2399730
+1544,1544,FIFA: Road to World Cup 98,Sports,72,28.67,
+1545,1545,Ace Combat 5: The Unsung War,Simulation,84,14.5,
+1546,1546,Pitfall: The Mayan Adventure,Platform,69,5.63,461830
+1547,1547,Final Fantasy Crystal Chronicles: Echoes of Time,Role-Playing,68,16.75,
+1548,1548,One Piece: Pirate Warriors 2,Action,70,17.07,1089090
+1549,1549,Ace Combat Zero: The Belkan War,Simulation,84,4.53,
+1550,1550,Ace Combat 6: Fires of Liberation,Simulation,74,16.55,
+1551,1551,God Eater 2,Role-Playing,71,8.6,438490
+1552,1552,True Crime: Streets of LA,Action,64,17.35,
+1553,1553,Samurai Western,Action,77,4.15,
+1554,1554,Dynasty Warriors 8: Empires,Action,70,40.5,278080
+1555,1555,Harvest Moon: Magical Melody,Simulation,78,23.98,
+1556,1556,Bookworm Deluxe,Puzzle,54,3.18,
+1557,1557,Captain Morgane and the Golden Turtle,Adventure,59,17.65,264320
+1558,1558,Bejeweled Twist,Puzzle,50,3.5,3560
+1559,1559,Dragon Ball Z: Sagas,Fighting,55,21.85,678950
+1560,1560,Mario Sports Mix,Sports,69,6.62,
+1561,1561,Heart of Darkness,Platform,74,6.45,1413990
+1562,1562,The Legend of Spyro: The Eternal Night,Platform,56,14.1,
+1563,1563,Castlevania Judgment,Fighting,59,5.35,
+1564,1564,Off-Road Drive,Racing,0,7.0,200230
+1565,1565,Black & White,Strategy,73,16.42,1998450
+1566,1566,Wrecking Crew,Platform,57,15.33,
+1567,1567,WWE SmackDown vs. Raw 2010,Fighting,72,56.23,
+1568,1568,Need for Speed III: Hot Pursuit,Racing,76,12.15,1328660
+1569,1569,Mortal Kombat: Deception,Fighting,75,5.08,
+1570,1570,Forza Motorsport 2,Racing,78,49.67,
+1571,1571,The Lost Vikings,Puzzle,73,20.23,2337310
+1572,1572,Star Ocean,Role-Playing,73,21.22,2238900
+1573,1573,Gungrave,Shooter,67,2.25,1630110
+1574,1574,Blast Corps,Action,68,16.43,
+1575,1575,Way of the Samurai 3,Action,69,19.07,312780
+1576,1576,Burnout,Racing,66,8.6,1238080
+1577,1577,Alien Trilogy,Shooter,67,10.0,
+1578,1578,The Punisher,Action,74,19.57,
+1579,1579,Siren: Blood Curse,Action,65,11.25,
+1580,1580,Battle Fantasia,Fighting,58,2.9,356910
+1581,1581,King's Field: The Ancient City,Role-Playing,82,26.37,
+1582,1582,Goosebumps: The Game,Adventure,56,12.85,
+1583,1583,Road Rash,Racing,78,5.68,
+1584,1584,Tekken Tag Tournament 2,Fighting,79,6.85,
+1585,1585,Guitar Hero Live,Misc,72,21.27,
+1586,1586,Harry Potter and the Deathly Hallows - Part 2,Action,57,18.24,
+1587,1587,Hyperdimension Neptunia,Role-Playing,63,36.9,282900
+1588,1588,Turok: Evolution,Shooter,60,14.77,
+1589,1589,Psychedelica of the Black Butterfly,Action,78,7.0,865820
+1590,1590,Terminator Salvation,Shooter,46,12.86,
+1591,1591,Ecco: The Tides of Time,Adventure,71,3.62,1452360
+1592,1592,Twisted Metal 2,Racing,79,11.22,
+1593,1593,F1 2010,Racing,72,142.77,
+1594,1594,Grandia Xtreme,Role-Playing,67,40.97,
+1595,1595,Green Lantern: Rise of the Manhunters,Action,56,17.88,
+1596,1596,Ape Escape 3,Platform,81,12.27,
+1597,1597,Dragon Quest Swords: The Masked Queen and the Tower of Mirrors,Role-Playing,68,9.88,
+1598,1598,World of Warcraft: Mists of Pandaria,Role-Playing,76,127.97,
+1599,1599,Mario Super Sluggers,Sports,75,10.02,
+1600,1600,Romancing SaGa,Role-Playing,75,39.5,2455640
+1601,1601,Port Royale 2,Strategy,77,23.0,12470
+1602,1602,Guardian Heroes,Role-Playing,77,7.48,
+1603,1603,Luxor 3,Puzzle,68,7.13,15930
+1604,1604,Ghost Rider,Action,59,4.5,
+1605,1605,Guitar Hero: Aerosmith,Misc,65,26.02,
+1606,1606,Oni,Action,66,20.23,3915140
+1607,1607,Forza Motorsport 6,Racing,81,51.9,
+1608,1608,Neverwinter Nights,Role-Playing,77,53.0,704450
+1609,1609,God of War: Origins Collection,Action,79,12.18,
+1610,1610,The Next BIG Thing,Adventure,68,6.3,58570
+1611,1611,Battlefield 2: Modern Combat,Shooter,70,12.82,
+1612,1612,Skylanders: Trap Team,Action,72,46.18,
+1613,1613,Majin and the Forsaken Kingdom,Adventure,76,28.15,
+1614,1614,Rayman Raving Rabbids 2,Misc,57,10.5,15080
+1615,1615,WRC 5: FIA World Rally Championship,Sports,56,44.15,621830
+1616,1616,Twisted Metal,Action,68,5.12,
+1617,1617,Mana Khemia 2: Fall of Alchemy,Role-Playing,72,39.25,
+1618,1618,FIFA Street 2,Sports,74,21.52,
+1619,1619,Wizardry: Tale of the Forsaken Land,Role-Playing,77,41.88,
+1620,1620,Dragon Ball Z: Infinite World,Fighting,72,12.93,
+1621,1621,Tetris Attack,Puzzle,83,2.82,
+1622,1622,Disaster Report,Action,69,5.45,1060210
+1623,1623,Dead or Alive 3,Fighting,75,2.33,958260
+1624,1624,WWE 2K14,Sports,76,19.3,
+1625,1625,Tony Hawk's Proving Ground,Sports,63,16.15,
+1626,1626,Naruto: Rise of a Ninja,Action,73,9.43,1750290
+1627,1627,Stormrise,Strategy,43,22.0,
+1628,1628,Dragon Ball: Raging Blast 2,Fighting,70,20.38,
+1629,1629,Heavy Fire: Afghanistan,Shooter,47,8.33,305980
+1630,1630,Endless Ocean: Blue World,Simulation,81,14.02,
+1631,1631,Worms 3D,Strategy,70,33.67,
+1632,1632,The Legend of Spyro: A New Beginning,Platform,59,17.85,
+1633,1633,Toukiden Kiwami,Action,73,92.02,363130
+1634,1634,Arc Rise Fantasia,Role-Playing,78,52.33,
+1635,1635,Zone of the Enders HD Collection,Simulation,76,21.69,
+1636,1636,Mahjong,Misc,70,15.35,1329410
+1637,1637,Dual Hearts,Role-Playing,78,15.8,
+1638,1638,Armored Core 2,Simulation,73,10.63,3713380
+1639,1639,Intelligent Qube,Puzzle,73,6.37,
+1640,1640,Urban Reign,Action,75,8.67,
+1641,1641,The Da Vinci Code,Action,60,17.51,522470
+1642,1642,MotorStorm: Apocalypse,Racing,74,7.3,
+1643,1643,Mugen Souls,Role-Playing,59,43.17,389870
+1644,1644,Eternal Ring,Role-Playing,61,28.01,
+1645,1645,Batman Begins,Action,69,7.63,
+1646,1646,Chaos Legion,Action,64,25.27,
+1647,1647,Disney Infinity,Action,64,51.35,541670
+1648,1648,Max & the Magic Marker,Platform,63,2.73,
+1649,1649,Sega Superstars Tennis,Sports,62,22.54,
+1650,1650,ESPN NFL 2K5,Sports,75,9.5,
+1651,1651,Battalion Wars,Strategy,77,8.15,
+1652,1652,A Bug's Life,Platform,64,3.92,
+1653,1653,The Movies,Simulation,72,29.13,331610
+1654,1654,Metal Gear Solid: The Legacy Collection,Adventure,91,71.77,
+1655,1655,White Knight Chronicles II,Role-Playing,72,39.12,1065680
+1656,1656,Animal Crossing: Amiibo Festival,Misc,43,7.98,
+1657,1657,Star Wars Racer Revenge,Racing,65,10.14,808910
+1658,1658,Pro Evolution Soccer 2012,Action,72,42.0,
+1659,1659,Pitfall: The Lost Expedition,Platform,71,18.6,4164770
+1660,1660,NHL 12,Sports,76,47.5,
+1661,1661,Tokyo Jungle,Action,71,15.22,
+1662,1662,Shadowrun,Role-Playing,78,15.52,346940
+1663,1663,Tenchu: Fatal Shadows,Action,77,5.57,
+1664,1664,Grand Kingdom,Role-Playing,73,23.53,
+1665,1665,The Sims 2: Pets,Simulation,66,25.17,3314070
+1666,1666,Pac-Man World 3,Platform,63,8.25,
+1667,1667,Pandemonium 2,Platform,62,5.4,
+1668,1668,Puzzler World 2,Puzzle,66,19.67,200130
+1669,1669,Cold War,Shooter,46,7.27,1985810
+1670,1670,Shining Force EXA,Role-Playing,70,41.52,
+1671,1671,Tony Hawk's Downhill Jam,Sports,58,20.0,
+1672,1672,Age of Mythology,Strategy,81,16.83,1934680
+1673,1673,Disgaea 4: A Promise Unforgotten,Role-Playing,83,37.72,
+1674,1674,NBA 2K12,Sports,77,279.5,
+1675,1675,Enchanted Arms,Role-Playing,67,52.78,
+1676,1676,Air Conflicts: Secret Wars,Simulation,59,15.78,95900
+1677,1677,The Lord of the Rings: Aragorn's Quest,Action,59,13.5,
+1678,1678,Driver 2,Action,76,16.0,3660700
+1679,1679,Guitar Hero: Metallica,Misc,77,29.21,
+1680,1680,Armored Core V,Simulation,73,24.5,1888160
+1681,1681,WWE SmackDown! vs. Raw,Fighting,73,9.47,
+1682,1682,Dokapon Kingdom,Role-Playing,74,40.53,2338140
+1683,1683,Freelancer,Simulation,84,15.93,3896030
+1684,1684,Tales of Destiny 2,Role-Playing,75,35.07,279940
+1685,1685,Midnight Club 3: DUB Edition,Racing,81,20.65,
+1686,1686,Burnout 2: Point of Impact,Racing,76,10.65,
+1687,1687,Musashi: Samurai Legend,Role-Playing,66,15.83,
+1688,1688,Fight Night Round 3,Fighting,69,32.13,
+1689,1689,Mugen Souls Z,Role-Playing,54,20.9,466920
+1690,1690,Tales of Rebirth,Role-Playing,76,35.18,2103400
+1691,1691,LEGO Dimensions,Action,74,77.35,
+1692,1692,The Getaway,Action,70,25.57,3411260
+1693,1693,Raw Danger!,Action,72,9.6,
+1694,1694,Nobunaga's Ambition: Sphere of Influence,Strategy,77,50.0,375450
+1695,1695,Excite Truck,Racing,75,6.17,
+1696,1696,True Crime: New York City,Action,69,13.63,
+1697,1697,Samantha Swift and the Hidden Roses of Athena,Adventure,63,2.83,16020
+1698,1698,Dynasty Warriors 3,Action,78,6.63,3841510
+1699,1699,Spectrobes: Origins,Role-Playing,78,29.72,
+1700,1700,Wipeout 2048,Racing,74,4.77,
+1701,1701,Rayman Raving Rabbids: TV Party,Misc,61,2.98,
+1702,1702,The Hobbit,Platform,65,26.07,285160
+1703,1703,Toukiden 2,Action,70,34.93,551730
+1704,1704,Virtua Tennis 3,Sports,72,24.17,
+1705,1705,Avatar: The Last Airbender - The Burning Earth,Action,44,21.11,
+1706,1706,Klonoa,Platform,77,14.94,1730680
+1707,1707,Bee Movie Game,Action,50,11.96,
+1708,1708,Adventures of Lolo,Puzzle,72,4.77,
+1709,1709,The Incredible Hulk: Ultimate Destruction,Action,75,9.0,
+1710,1710,The King of Fighters '94,Fighting,64,2.94,1498570
+1711,1711,Headhunter,Action,68,9.55,2372440
+1712,1712,Colin McRae Rally 2.0,Racing,78,11.48,
+1713,1713,Naruto: Ultimate Ninja 2,Fighting,70,5.42,349040
+1714,1714,Naughty Bear,Action,54,20.29,
+1715,1715,Wanted: Weapons of Fate,Shooter,62,18.81,
+1716,1716,Corpse Party: Blood Drive,Adventure,72,11.57,824830
+1717,1717,RollerCoaster Tycoon,Strategy,82,60.05,683900
+1718,1718,Dead to Rights,Shooter,64,16.08,
+1719,1719,Madden NFL 16,Sports,64,104.72,
+1720,1720,Deadly Creatures,Action,66,6.62,
+1721,1721,Shrek SuperSlam,Action,58,2.82,
+1722,1722,Streets of Rage 3,Action,74,8.12,985890
+1723,1723,Syndicate Wars,Strategy,73,24.73,
+1724,1724,WWE All Stars,Fighting,67,12.87,
+1725,1725,Disney Infinity 3.0,Action,71,16.05,541670
+1726,1726,Valkyrie Drive: Bhikkhuni,Action,65,21.67,550080
+1727,1727,The Conduit,Shooter,65,6.32,
+1728,1728,Tail Concerto,Adventure,69,5.0,
+1729,1729,Army Men: Air Attack,Action,69,10.0,
+1730,1730,Primal,Action,68,15.27,371660
+1731,1731,Neverwinter Nights 2,Role-Playing,76,58.0,2738630
+1732,1732,Midnight Club: Street Racing,Racing,65,7.4,
+1733,1733,Fight Night Champion,Fighting,75,18.88,
+1734,1734,Mushroom Men: The Spore Wars,Action,75,3.82,
+1735,1735,Homeworld,Strategy,80,16.12,244160
+1736,1736,Van Helsing,Action,65,4.32,215530
+1737,1737,Trine 2,Platform,75,26.23,35720
+1738,1738,Magic Carpet,Shooter,76,10.02,
+1739,1739,Hotel Giant 2,Strategy,0,3.97,38230
+1740,1740,Teen Titans,Action,64,4.15,
+1741,1741,Mega Man Anniversary Collection,Platform,87,18.58,1798010
+1742,1742,Ty the Tasmanian Tiger 3: Night of the Quinkan,Action,58,14.75,
+1743,1743,Skylanders: SuperChargers,Action,63,34.35,
+1744,1744,Advent Rising,Action,69,7.95,3800
+1745,1745,Darkwatch,Shooter,73,6.08,4000100
+1746,1746,Auto Modellista,Racing,69,3.23,
+1747,1747,Dawn of Mana,Role-Playing,49,13.3,
+1748,1748,Dragon Ball Z: Budokai Tenkaichi,Fighting,69,11.48,
+1749,1749,Harvest Moon: Animal Parade,Simulation,80,32.0,
+1750,1750,The Suffering: Ties That Bind,Action,68,14.84,466100
+1751,1751,Dead or Alive Xtreme 3: Fortune,Sports,66,3.33,
+1752,1752,Harvest Moon: Tree of Tranquility,Simulation,72,41.08,
+1753,1753,Icewind Dale II,Role-Playing,76,47.0,
+1754,1754,Pro Evolution Soccer 2015,Sports,75,99.87,
+1755,1755,Pac-Man and the Ghostly Adventures 2,Adventure,53,18.07,
+1756,1756,Samurai Warriors 4,Action,79,73.95,2719200
+1757,1757,Scooby-Doo! First Frights,Action,69,17.27,
+1758,1758,Lair,Action,54,8.57,846870
+1759,1759,"Monsters, Inc. Scream Team",Platform,61,3.5,
+1760,1760,Arc the Lad: End of Darkness,Role-Playing,49,15.0,
+1761,1761,Genji: Dawn of the Samurai,Action,76,6.85,
+1762,1762,Shrek the Third,Action,57,11.81,
+1763,1763,Resident Evil: Dead Aim,Action,57,7.55,
+1764,1764,Stuntman,Racing,72,10.12,324750
+1765,1765,JoJo's Bizarre Adventure: Eyes of Heaven,Fighting,62,28.15,
+1766,1766,Yumi's Odd Odyssey,Platform,79,2.67,
+1767,1767,One Piece: Unlimited World Red,Action,66,36.03,571720
+1768,1768,Nancy Drew: The White Wolf of Icicle Creek,Adventure,68,7.63,31930
+1769,1769,Ghosthunter,Action,64,9.92,2641930
+1770,1770,Up,Action,62,17.82,3606890
+1771,1771,Way of the Samurai 2,Action,70,5.0,312780
+1772,1772,The Mark of Kri,Action,68,19.66,860950
+1773,1773,Bullet Witch,Shooter,50,10.95,696180
+1774,1774,Phantom Brave,Role-Playing,69,32.62,409870
+1775,1775,Gungrave: Overdose,Shooter,70,6.15,
+1776,1776,Madden NFL 09,Sports,66,39.67,
+1777,1777,Inversion,Shooter,62,21.45,212410
+1778,1778,Iron Storm,Shooter,62,10.28,296180
+1779,1779,World of Warcraft: Warlords of Draenor,Action,68,102.08,
+1780,1780,South Park,Shooter,58,7.0,488790
+1781,1781,Blazing Angels: Squadrons of WWII,Simulation,59,23.51,
+1782,1782,Trapt,Action,72,5.13,375930
+1783,1783,Mario & Sonic at the Rio 2016 Olympic Games,Action,62,5.5,
+1784,1784,Star Wars Rogue Squadron III: Rebel Strike,Simulation,73,3.7,
+1785,1785,Saint Seiya: The Hades,Fighting,81,3.5,
+1786,1786,Hogs of War,Strategy,76,18.3,389900
+1787,1787,Wii Fit,Sports,65,3.92,
+1788,1788,Samurai Warriors 4-II,Action,75,116.38,348470
+1789,1789,Star Wars: Empire at War,Strategy,75,15.52,32470
+1790,1790,Tatsunoko vs. Capcom: Ultimate All-Stars,Fighting,76,2.77,
+1791,1791,Pro Evolution Soccer 2016,Sports,73,139.61,
+1792,1792,Lemony Snicket's A Series of Unfortunate Events,Platform,62,8.61,
+1793,1793,"Sakura Wars: So Long, My Love",Role-Playing,74,43.98,
+1794,1794,The Godfather II,Action,68,37.21,
+1795,1795,Destiny: The Taken King,Shooter,82,18.75,
+1796,1796,Dynasty Warriors 4,Action,78,11.12,
+1797,1797,The Settlers 7: Paths to a Kingdom,Strategy,73,20.83,
+1798,1798,Dynasty Warriors 7: Xtreme Legends,Action,74,23.23,278080
+1799,1799,Atelier Iris: Eternal Mana,Role-Playing,70,29.17,
+1800,1800,Atelier Ayesha: The Alchemist of Dusk,Role-Playing,76,24.85,1152300
+1801,1801,Dynasty Warriors: Gundam,Action,69,14.31,
+1802,1802,Hulk,Action,60,10.21,816090
+1803,1803,Harry Potter and the Deathly Hallows - Part 1,Action,46,19.59,
+1804,1804,Pac-Man World Rally,Racing,63,4.47,
+1805,1805,Game & Wario,Misc,62,2.03,
+1806,1806,Earth Defense Force 2017,Action,75,23.03,2291060
+1807,1807,ModNation Racers,Racing,72,8.32,
+1808,1808,Twisted Metal: Black,Racing,75,17.0,
+1809,1809,Eat Lead: The Return of Matt Hazard,Shooter,56,19.95,
+1810,1810,Harvest Moon: Back to Nature,Simulation,83,100.0,
+1811,1811,Crimson Skies: High Road to Revenge,Simulation,78,19.41,
+1812,1812,Harvest Moon: Save the Homeland,Simulation,75,38.03,
+1813,1813,How to Train Your Dragon,Action,59,15.5,3673060
+1814,1814,No More Heroes: Heroes' Paradise,Action,78,13.67,1420290
+1815,1815,Adventure Time: The Secret of the Nameless Kingdom,Action,66,32.75,
+1816,1816,Metal Arms: Glitch in the System,Shooter,75,12.33,
+1817,1817,War of the Monsters,Fighting,72,6.27,208580
+1818,1818,Castle Shikigami 2,Shooter,73,3.07,1556650
+1819,1819,Soldier of Fortune: Payback,Shooter,42,10.5,
+1820,1820,The Adventures of Cookie & Cream,Puzzle,76,4.45,
+1821,1821,Billy Hatcher and the Giant Egg,Platform,62,6.87,
+1822,1822,Football Manager 2011,Sports,75,454.58,
+1823,1823,Resident Evil: Deadly Silence,Action,81,8.18,
+1824,1824,Adventure Time: Finn & Jake Investigations,Action,62,30.22,
+1825,1825,Bookworm,Puzzle,70,3.25,4028110
+1826,1826,Forgotten Realms: Demon Stone,Action,59,15.64,3843530
+1827,1827,Aegis of Earth: Protonovus Assault,Action,69,14.0,450250
+1828,1828,WWE '13,Action,73,18.28,
+1829,1829,Syphon Filter: Logan's Shadow,Shooter,70,9.67,
+1830,1830,Syphon Filter: Dark Mirror,Shooter,75,12.0,
+1831,1831,R: Racing Evolution,Racing,59,4.25,
+1832,1832,Giants: Citizen Kabuto,Shooter,77,20.72,557750
+1833,1833,Armored Core: For Answer,Simulation,82,15.17,
+1834,1834,Scooby-Doo! and the Spooky Swamp,Action,75,8.78,
+1835,1835,Micro Machines,Racing,73,4.0,2074710
+1836,1836,The Cursed Crusade,Action,49,23.31,106000
+1837,1837,Sonic's Ultimate Genesis Collection,Misc,79,50.33,
+1838,1838,Phantasy Star Universe,Role-Playing,62,82.67,
+1839,1839,Madagascar: Escape 2 Africa,Action,63,26.71,
+1840,1840,Phineas and Ferb: Across the 2nd Dimension,Action,66,8.62,
+1841,1841,Freekstyle,Racing,75,6.02,
+1842,1842,Batman: Vengeance,Adventure,58,16.23,
+1843,1843,Delta Force: Black Hawk Down,Shooter,71,14.37,32680
+1844,1844,Far East of Eden Zero,Role-Playing,72,25.33,
+1845,1845,Trauma Team,Simulation,84,42.41,
+1846,1846,NHL 17,Sports,74,86.62,
+1847,1847,Child of Eden,Shooter,71,14.44,
+1848,1848,Phantasy Star Online,Role-Playing,81,40.0,1056640
+1849,1849,Shadow Madness,Action,60,30.0,1257940
+1850,1850,Skate,Sports,77,30.24,3354750
+1851,1851,Rise of the Kasai,Action,53,8.42,391220
+1852,1852,Vexx,Platform,68,15.5,
+1853,1853,Toy Story Mania!,Misc,44,3.0,317580
+1854,1854,Super Monkey Ball: Banana Blitz,Misc,61,11.85,1316910
+1855,1855,Jade Cocoon 2,Role-Playing,68,35.52,
+1856,1856,Project Eden,Action,57,36.25,915670
+1857,1857,Exist Archive: The Other Side of the Sky,Role-Playing,65,38.33,
+1858,1858,Cabela's Dangerous Hunts 2,Sports,48,2.0,
+1859,1859,Extermination,Action,55,5.82,1268750
+1860,1860,WWE 2K15,Sports,66,104.17,
+1861,1861,Dragon Ball Z: Battle of Z,Fighting,57,21.75,
+1862,1862,Pac-Man World 2,Action,69,9.92,2324290
+1863,1863,Pac-Man World,Action,69,5.88,2324290
+1864,1864,The House of the Dead: Overkill,Shooter,74,14.53,246580
+1865,1865,Angry Birds Star Wars,Strategy,65,19.27,
+1866,1866,LittleBigPlanet Karting,Action,65,5.27,
+1867,1867,Starship Troopers,Shooter,61,11.07,1268750
+1868,1868,Ninja Blade,Action,60,18.6,3594500
+1869,1869,Hyperdimension Neptunia Victory,Role-Playing,70,42.97,
+1870,1870,Ninja Gaiden II,Action,79,50.68,3287520
+1871,1871,Knights Contract,Action,49,19.65,
+1872,1872,Yu-Gi-Oh! The Duelists of the Roses,Misc,75,16.28,
+1873,1873,Madden NFL 2005,Sports,79,30.0,
+1874,1874,EA Playground,Sports,40,12.0,
+1875,1875,"Ed, Edd n Eddy: The Mis-Edventures",Platform,56,7.02,
+1876,1876,Daytona USA,Racing,71,6.78,
+1877,1877,Mind Zero,Role-Playing,55,28.0,322630
+1878,1878,Mario Golf: Advance Tour,Sports,77,8.33,
+1879,1879,Age of Empires III,Strategy,76,15.07,813780
+1880,1880,Naruto: Uzumaki Chronicles 2,Action,65,19.15,
+1881,1881,Monster Hunter Tri,Role-Playing,81,61.18,
+1882,1882,Dead or Alive 2,Fighting,76,3.3,958260
+1883,1883,Dragon Ball: Raging Blast,Fighting,64,33.62,
+1884,1884,Soldier of Fortune II: Double Helix,Shooter,71,10.78,
+1885,1885,The Adventures of Lomax,Platform,72,4.33,215530
+1886,1886,RollerCoaster Tycoon 2,Strategy,80,90.5,285330
+1887,1887,Disgaea 2: Cursed Memories,Role-Playing,81,37.65,
+1888,1888,Justice League Heroes,Role-Playing,70,5.18,
+1889,1889,Drakan: The Ancients' Gates,Adventure,75,19.2,
+1890,1890,Marvel Super Hero Squad: The Infinity Gauntlet,Action,60,8.8,
+1891,1891,Genma Onimusha,Action,78,8.0,
+1892,1892,NBA Street Vol. 2,Sports,84,12.77,
+1893,1893,Genji: Days of the Blade,Action,52,13.17,
+1894,1894,Pro Evolution Soccer 2017,Sports,79,120.67,
+1895,1895,Broken Sword II: The Smoking Mirror,Adventure,82,8.77,33600
+1896,1896,Sid Meier's Civilization Revolution,Strategy,74,10.48,289070
+1897,1897,2010 FIFA World Cup South Africa,Sports,68,60.5,
+1898,1898,WRC: FIA World Rally Championship,Racing,69,51.33,621830
+1899,1899,NASCAR Heat Evolution,Racing,53,12.0,
+1900,1900,The Lord of the Rings: Conquest,Action,64,17.35,212500
+1901,1901,Fortune Street,Misc,68,29.32,
+1902,1902,Need for Speed: Porsche Unleashed,Racing,77,19.93,
+1903,1903,Rez,Shooter,82,3.67,636450
+1904,1904,Rewrite,Adventure,77,65.52,1680000
+1905,1905,Maximo: Ghosts to Glory,Platform,71,8.83,
+1906,1906,Madden NFL 17,Sports,68,70.28,
+1907,1907,Dance Central 3,Misc,80,10.87,
+1908,1908,X-Men: The Official Game,Action,60,31.95,1953520
+1909,1909,Gran Turismo 4 Prologue,Racing,65,10.0,
+1910,1910,Bladestorm: Nightmare,Action,50,62.0,350310
+1911,1911,Worms Forts: Under Siege,Strategy,66,9.55,
+1912,1912,Soul Nomad & the World Eaters,Role-Playing,69,52.8,1535610
+1913,1913,Madden NFL 08,Sports,70,64.25,
+1914,1914,Iron Man,Action,57,23.81,2198030
+1915,1915,Ridge Racer 7,Racing,67,9.83,
+1916,1916,A Game of Thrones: Genesis,Strategy,52,10.4,1075190
+1917,1917,Prison Break: The Conspiracy,Action,60,15.68,
+1918,1918,Rampage: Total Destruction,Action,57,13.08,
+1919,1919,Pro Evolution Soccer 2010,Sports,70,219.08,
+1920,1920,Skate 2,Sports,83,39.84,2395210
+1921,1921,The Guided Fate Paradox,Role-Playing,70,38.73,
+1922,1922,TOCA Race Driver 3,Racing,71,91.27,
+1923,1923,Dynasty Warriors 2,Action,71,8.18,
+1924,1924,WinBack: Covert Operations,Shooter,65,14.67,
+1925,1925,Destruction Derby,Racing,60,6.0,
+1926,1926,Downhill Domination,Racing,74,4.4,
+1927,1927,Casper: Spirit Dimensions,Platform,33,4.78,
+1928,1928,Armored Core: Nine Breaker,Simulation,73,6.62,
+1929,1929,You Don't Know Jack,Misc,74,3.57,252730
+1930,1930,Shark Tale,Action,51,8.18,
+1931,1931,The House of the Dead 2,Shooter,73,3.1,45770
+1932,1932,Psi-Ops: The Mindgate Conspiracy,Shooter,77,24.47,
+1933,1933,James Bond 007: Blood Stone,Shooter,68,17.83,
+1934,1934,ATV Offroad Fury 3,Racing,76,11.73,
+1935,1935,Painkiller,Shooter,74,10.3,39530
+1936,1936,Ninja Gaiden 3,Action,60,14.55,1369760
+1937,1937,Earthworm Jim 3D,Platform,54,11.77,41600
+1938,1938,Pimp My Ride,Racing,41,8.25,
+1939,1939,Capcom vs. SNK 2: Mark of the Millennium 2001,Fighting,84,2.08,
+1940,1940,Marvel Super Hero Squad,Fighting,55,4.35,249130
+1941,1941,Dragon Ball Z: Ultimate Tenkaichi,Fighting,50,23.7,
+1942,1942,Stella Deus: The Gate of Eternity,Strategy,66,43.55,
+1943,1943,SOCOM II: U.S. Navy SEALs,Shooter,79,7.17,
+1944,1944,UFC Undisputed 2010,Fighting,71,38.88,
+1945,1945,Just Dance 2015,Misc,79,35.28,
+1946,1946,Baja: Edge of Control,Racing,51,61.02,623090
+1947,1947,Rogue Trooper,Shooter,72,31.23,529490
+1948,1948,FlingSmash,Action,54,7.37,
+1949,1949,Red Ninja: End of Honor,Action,39,8.52,
+1950,1950,SpongeBob SquarePants: Creature from the Krusty Krab,Platform,62,10.82,
+1951,1951,Discworld,Adventure,72,9.5,
+1952,1952,CSI: Fatal Conspiracy,Adventure,48,25.22,
+1953,1953,In Cold Blood,Adventure,71,11.52,
+1954,1954,The Witch and the Hundred Knight,Role-Playing,73,88.58,1872680
+1955,1955,Gormiti: The Lords of Nature!,Adventure,50,8.0,
+1956,1956,Ford Racing 3,Racing,60,10.2,
+1957,1957,Marvel vs. Capcom 3: Fate of Two Worlds,Fighting,76,3.77,
+1958,1958,Battle Worlds: Kronos,Strategy,40,42.97,237470
+1959,1959,Thor: God of Thunder,Action,60,18.21,738470
+1960,1960,Guilty Gear XX Accent Core Plus,Fighting,84,8.52,348550
+1961,1961,Divinity II: Ego Draconis,Role-Playing,76,52.21,
+1962,1962,Guitar Hero 5,Misc,70,42.88,
+1963,1963,DJ Hero,Misc,73,23.8,
+1964,1964,WWE SmackDown! Shut Your Mouth,Sports,77,9.92,
+1965,1965,Armored Core 2: Another Age,Simulation,76,19.58,
+1966,1966,Rabbids Go Home,Platform,70,10.37,
+1967,1967,Alice in Wonderland,Adventure,64,8.75,316030
+1968,1968,Tom Clancy's Splinter Cell Trilogy,Action,78,55.0,235600
+1969,1969,MotorStorm: Pacific Rift,Racing,75,22.5,
+1970,1970,Way of the Samurai,Action,72,4.33,1288320
+1971,1971,International Superstar Soccer Deluxe,Sports,84,8.98,
+1972,1972,Legaia 2: Duel Saga,Role-Playing,67,37.48,
+1973,1973,Gitaroo Man,Misc,81,4.87,
+1974,1974,Charlie and the Chocolate Factory,Adventure,34,5.68,
+1975,1975,X-Men: Destiny,Action,52,10.93,
+1976,1976,The Dog Island,Adventure,81,11.53,
+1977,1977,Armored Core: Verdict Day,Simulation,69,23.67,
+1978,1978,Star Wars Episode I: The Phantom Menace,Adventure,59,7.32,
+1979,1979,The Awakened Fate Ultimatum,Role-Playing,85,16.68,
+1980,1980,MechAssault 2: Lone Wolf,Simulation,70,5.12,1399180
+1981,1981,Madden NFL 2004,Sports,77,30.0,
+1982,1982,Saint Seiya: Sanctuary Battle,Action,66,8.02,
+1983,1983,Iron Man 2,Action,43,15.32,
+1984,1984,Kinetica,Racing,58,8.22,2918430
+1985,1985,Cooking Mama: Cook Off,Simulation,64,3.35,
+1986,1986,Valentino Rossi: The Game,Racing,77,42.78,438430
+1987,1987,Wii Fit Plus,Sports,70,6.58,
+1988,1988,Homeworld 2,Strategy,80,11.27,
+1989,1989,Front Mission 4,Strategy,74,37.9,
+1990,1990,The Settlers IV,Strategy,70,16.53,
+1991,1991,Assassin's Creed Chronicles,Action,62,37.27,354380
+1992,1992,NHL 07,Sports,72,10.0,
+1993,1993,F1 2009,Racing,68,7.5,
+1994,1994,Ivy the Kiwi?,Puzzle,65,5.5,
+1995,1995,Dynasty Warriors 5,Action,80,22.1,
+1996,1996,Magna Carta: Tears of Blood,Role-Playing,62,52.43,
+1997,1997,N+,Platform,70,12.43,1203220
+1998,1998,Nicktoons: Battle for Volcano Island,Action,60,7.7,
+1999,1999,Tom Clancy's Ghost Recon 2,Shooter,58,9.83,2231380
+2000,2000,Rayman 2: Revolution,Platform,74,21.38,
+2001,2001,Bus Simulator 16,Simulation,60,13.0,324310
+2002,2002,Overlord: Dark Legend,Action,67,7.48,
+2003,2003,Mega Man Soccer,Sports,61,3.0,
+2004,2004,The Mummy,Action,55,8.27,606710
+2005,2005,The Mummy: Tomb of the Dragon Emperor,Action,47,4.17,
+2006,2006,Darkspore,Role-Playing,59,17.57,
+2007,2007,Pocket Fighter,Fighting,76,2.4,1743050
+2008,2008,Dynasty Warriors: Gundam Reborn,Action,79,13.28,
+2009,2009,Super Scope 6,Shooter,45,2.0,
+2010,2010,Ecco the Dolphin: Defender of the Future,Adventure,72,11.0,
+2011,2011,Ninja Reflex,Action,37,4.0,13000
+2012,2012,Galerians: Ash,Adventure,66,8.38,
+2013,2013,Elebits,Action,71,9.83,
+2014,2014,Big Brain Academy,Misc,66,4.0,
+2015,2015,Crusaders of Might and Magic,Role-Playing,55,15.5,297000
+2016,2016,XGIII: Extreme G Racing,Racing,63,6.65,
+2017,2017,Tears to Tiara II: Heir of the Overlord,Role-Playing,82,55.47,
+2018,2018,Madden NFL 15,Sports,65,99.2,
+2019,2019,Cartoon Network: Punch Time Explosion,Fighting,54,6.85,
+2020,2020,Age of Mythology: The Titans,Strategy,80,8.82,
+2021,2021,The Adventures of Tintin: The Game,Action,68,25.0,1941510
+2022,2022,Spy Fiction,Action,62,8.13,
+2023,2023,Fantastic Four,Action,56,14.85,514470
+2024,2024,Bionicle Heroes,Shooter,64,16.53,
+2025,2025,Empire Earth III,Strategy,50,14.37,
+2026,2026,Football Manager 2010,Sports,78,468.83,
+2027,2027,Just Dance 3,Misc,72,31.38,
+2028,2028,La Pucelle: Ragnarok,Role-Playing,79,32.0,1866420
+2029,2029,Warhammer: Mark of Chaos,Strategy,73,15.5,
+2030,2030,Men of Valor,Shooter,58,9.82,411330
+2031,2031,American Idol,Misc,44,8.43,
+2032,2032,Driv3r,Racing,57,32.04,
+2033,2033,WWE '12,Fighting,67,37.68,
+2034,2034,Rumble Roses,Fighting,66,6.53,
+2035,2035,WWE SmackDown vs. Raw 2009,Fighting,70,32.04,
+2036,2036,Mass Effect Trilogy,Action,92,325.2,
+2037,2037,Michael Jackson: The Experience,Misc,66,16.3,
+2038,2038,Armored Core 3,Simulation,75,17.48,
+2039,2039,Urban Chaos: Riot Response,Shooter,76,8.13,
+2040,2040,Armored Core: Silent Line,Simulation,69,7.18,
+2041,2041,Summoner 2,Role-Playing,71,30.0,
+2042,2042,Mace Griffin: Bounty Hunter,Shooter,75,14.82,
+2043,2043,Sorcery,Action,66,6.5,629730
+2044,2044,Micro Machines V4,Racing,55,4.0,
+2045,2045,Deception IV: Blood Ties,Action,70,11.02,
+2046,2046,Monster Jam: Path of Destruction,Racing,60,6.0,
+2047,2047,SimCity 4,Simulation,80,10.53,24780
+2048,2048,Constantine,Action,66,16.15,3325960
+2049,2049,Onimusha: Dawn of Dreams,Action,77,19.08,
+2050,2050,The Incredibles: Rise of the Underminer,Action,62,5.07,
+2051,2051,Indiana Jones and the Staff of Kings,Action,57,16.24,
+2052,2052,Tales of Graces,Role-Playing,79,40.27,2530980
+2053,2053,Madden NFL 06,Sports,66,34.0,
+2054,2054,Legend: Hand of God,Role-Playing,54,23.33,2688930
+2055,2055,InuYasha: The Secret of the Cursed Mask,Role-Playing,66,18.4,
+2056,2056,X2: Wolverine's Revenge,Platform,59,11.38,
+2057,2057,Battalion Wars 2,Strategy,78,9.47,
+2058,2058,Super Dragon Ball Z,Fighting,61,4.13,678950
+2059,2059,LEGO Racers 2,Racing,69,12.15,
+2060,2060,Looney Tunes: Space Race,Racing,61,3.3,
+2061,2061,Rodea the Sky Soldier,Action,64,17.28,3537650
+2062,2062,Medal of Honor: Vanguard,Shooter,64,7.85,47790
+2063,2063,Orphen: Scion of Sorcery,Role-Playing,56,8.23,
+2064,2064,NFL Street,Sports,73,9.33,
+2065,2065,The Golden Compass,Action,44,11.52,
+2066,2066,Ray Gigant,Role-Playing,59,27.6,
+2067,2067,Final Fantasy Fables: Chocobo's Dungeon,Role-Playing,74,22.6,
+2068,2068,Chromehounds,Simulation,62,10.32,
+2069,2069,V-Rally 3,Racing,60,4.75,
+2070,2070,Mystery Dungeon: Shiren the Wanderer,Role-Playing,70,22.25,
+2071,2071,Vietcong,Shooter,80,8.25,
+2072,2072,Futurama,Platform,54,9.02,
+2073,2073,Spartan: Total Warrior,Action,79,14.92,
+2074,2074,Mystic Ark,Role-Playing,79,32.28,
+2075,2075,G-Police,Action,75,9.5,3070150
+2076,2076,Bodycount,Shooter,51,10.95,2277160
+2077,2077,Samurai Warriors 2,Action,79,65.42,348470
+2078,2078,Samurai Warriors,Action,73,14.62,2719200
+2079,2079,Space Chimps,Platform,28,3.06,
+2080,2080,E.X. Troopers,Shooter,79,13.05,1268750
+2081,2081,Samurai Warriors 3,Action,74,30.0,
+2082,2082,Mega Man X Collection,Misc,83,14.93,1798010
+2083,2083,Mister Mosquito,Shooter,62,3.12,
+2084,2084,The Incredible Hulk,Action,53,2.2,
+2085,2085,Full Auto 2: Battlelines,Racing,67,8.43,
+2086,2086,Crimson Tears,Role-Playing,57,11.37,3842620
+2087,2087,Dragon Ball Z: Chou Saiya Densetsu,Role-Playing,67,14.5,
+2088,2088,Steambot Chronicles,Role-Playing,76,31.27,
+2089,2089,Wii Party U,Misc,65,9.38,
+2090,2090,Time and Eternity,Role-Playing,57,23.33,2940620
+2091,2091,Monster High: New Ghoul in School,Action,40,17.18,
+2092,2092,Shining Tears,Role-Playing,66,15.08,
+2093,2093,Ice Age 2: The Meltdown,Platform,59,13.15,
+2094,2094,Sports Champions,Sports,69,17.0,
+2095,2095,Dead Rising: Chop Till You Drop,Action,63,8.95,
+2096,2096,NBA 2K9,Sports,74,33.0,
+2097,2097,Winter Stars,Sports,40,14.0,
+2098,2098,Jurassic: The Hunted,Shooter,56,11.26,
+2099,2099,Gundam Breaker 3,Action,81,9.33,
+2100,2100,Sonic Free Riders,Racing,33,8.12,
+2101,2101,The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies,Action,63,5.07,
+2102,2102,Over the Hedge,Platform,63,7.37,
+2103,2103,Sébastien Loeb Rally Evo,Racing,62,55.38,355060
+2104,2104,Death Jr. II: Root of Evil,Platform,65,6.0,
+2105,2105,24: The Game,Adventure,61,12.02,2603040
+2106,2106,JoJo's Bizarre Adventure: All Star Battle,Fighting,70,4.17,1372110
+2107,2107,Portal Runner,Platform,63,5.58,
+2108,2108,Armed and Dangerous,Shooter,76,5.63,6090
+2109,2109,Warriors Orochi 2,Action,76,33.25,
+2110,2110,Warriors Orochi,Action,76,13.71,1879330
+2111,2111,Innocent Life: A Futuristic Harvest Moon,Simulation,72,30.0,
+2112,2112,50 Cent: Blood on the Sand,Shooter,63,17.81,
+2113,2113,The Settlers: Rise of an Empire,Strategy,68,23.5,965310
+2114,2114,Sega Rally Revo,Racing,70,27.65,
+2115,2115,Champions of Norrath,Role-Playing,79,16.98,
+2116,2116,7 Wonders: Treasures of Seven,Puzzle,65,7.73,16030
+2117,2117,One Piece: Pirate Warriors,Action,68,9.27,1089090
+2118,2118,Def Jam Vendetta,Fighting,71,7.3,
+2119,2119,7 Wonders II,Puzzle,58,6.87,15900
+2120,2120,Sega Soccer Slam,Sports,71,5.0,
+2121,2121,Rygar: The Legendary Adventure,Action,63,12.83,
+2122,2122,Gladiator: Sword of Vengeance,Action,10,9.57,577580
+2123,2123,Cabela's Big Game Hunter: Pro Hunts,Shooter,90,12.0,
+2124,2124,Mario & Wario,Puzzle,50,4.4,
+2125,2125,Doki-Doki Universe,Adventure,57,13.67,
+2126,2126,Woody Woodpecker: Escape from Buzz Buzzard Park,Platform,62,10.0,
+2127,2127,Dune 2000,Strategy,75,21.5,
+2128,2128,Stuart Little 2,Platform,66,3.87,
+2129,2129,Dance Dance Revolution Extreme 2,Simulation,76,5.5,
+2130,2130,Prince of Persia Trilogy,Action,73,37.35,2751000
+2131,2131,FIFA Street,Sports,71,22.67,
+2132,2132,MechWarrior 2: 31st Century Combat,Simulation,80,10.18,
+2133,2133,Earth Defense Force 2025,Shooter,71,32.68,2291060
+2134,2134,LEGO Island 2: The Brickster's Revenge,Adventure,64,3.67,
+2135,2135,Uppers,Action,61,8.75,795760
+2136,2136,NHL 15,Sports,65,40.82,
+2137,2137,Kinect Sports,Sports,66,11.65,
+2138,2138,Game & Watch Gallery 4,Misc,60,4.0,
+2139,2139,A Vampyre Story,Adventure,69,7.28,313870
+2140,2140,Just Dance 4,Misc,71,23.0,
+2141,2141,The Golf Club,Sports,58,9.83,489600
+2142,2142,Pro Evolution Soccer 2008,Sports,68,72.0,
+2143,2143,Disney Princess: Enchanted Journey,Adventure,51,5.0,322130
+2144,2144,Adventure Time: Explore the Dungeon Because I Don't Know!,Action,39,33.2,
+2145,2145,Trinity Universe,Role-Playing,61,41.0,
+2146,2146,Sky Odyssey,Simulation,83,4.15,
+2147,2147,Fullmetal Alchemist 2: Curse of the Crimson Elixir,Role-Playing,66,8.07,
+2148,2148,The Getaway: Black Monday,Action,66,7.92,
+2149,2149,MySims,Simulation,66,34.77,3328900
+2150,2150,Hot Shots Golf 3,Sports,66,33.33,2730810
+2151,2151,Mystery Case Files: Ravenhearst,Puzzle,69,6.12,50990
+2152,2152,Jack Keane,Adventure,68,10.72,236970
+2153,2153,Teenage Mutant Ninja Turtles 2: Battle Nexus,Action,66,16.95,
+2154,2154,Dr. Muto,Platform,51,13.25,
+2155,2155,Darkest of Days,Shooter,54,13.65,
+2156,2156,Enthusia Professional Racing,Racing,65,26.15,
+2157,2157,Maken Shao: Demon Sword,Action,65,5.23,
+2158,2158,Dynasty Warriors 7,Action,75,72.21,968790
+2159,2159,Anarchy Reigns,Action,66,11.32,
+2160,2160,Tom Clancy's Rainbow Six 3,Shooter,71,15.0,359550
+2161,2161,Final Fantasy XII International Zodiac Job System,Role-Playing,84,49.22,
+2162,2162,The Sky Crawlers: Innocent Aces,Simulation,70,7.68,
+2163,2163,Yu-Gi-Oh! Capsule Monster Coliseum,Misc,74,13.88,
+2164,2164,Super Soccer,Sports,55,9.42,1256710
+2165,2165,Bad Boys: Miami Takedown,Shooter,46,7.06,
+2166,2166,Scaler,Platform,72,7.67,2463110
+2167,2167,Crimson Sea 2,Action,70,11.0,
+2168,2168,Super Monkey Ball: Step & Roll,Action,35,4.0,
+2169,2169,Pac-Man Party,Misc,56,4.92,
+2170,2170,Armored Core: Last Raven,Simulation,74,7.3,
+2171,2171,VR Soccer '96,Sports,45,2.58,774501
+2172,2172,Boom Blox,Puzzle,69,4.95,
+2173,2173,Frogger: The Great Quest,Platform,43,3.43,
+2174,2174,Naruto: Clash of Ninja Revolution,Fighting,61,2.08,
+2175,2175,Aquapazza: Aquaplus Dream Match,Fighting,69,2.15,3229260
+2176,2176,Stolen,Action,70,7.77,1330000
+2177,2177,WRC 2: FIA World Rally Championship,Racing,70,40.85,621830
+2178,2178,SOCOM: U.S. Navy SEALs,Shooter,77,11.28,
+2179,2179,Cold Winter,Shooter,66,6.78,349140
+2180,2180,Superstars V8 Racing,Racing,50,11.93,
+2181,2181,Teenage Mutant Ninja Turtles: Danger of the Ooze,Adventure,62,7.0,2527580
+2182,2182,Kya: Dark Lineage,Adventure,73,13.28,
+2183,2183,Top Spin 4,Sports,81,45.97,
+2184,2184,Total War: Shogun 2 - Fall of the Samurai,Strategy,84,17.6,
+2185,2185,SWAT: Global Strike Team,Shooter,61,6.4,
+2186,2186,Devil's Third,Action,66,8.65,
+2187,2187,SBK 2011: FIM Superbike World Championship,Racing,70,18.0,
+2188,2188,NBA 2K8,Sports,60,4.0,
+2189,2189,ParaWorld,Strategy,59,21.67,1523360
+2190,2190,Dead to Rights: Retribution,Shooter,66,16.05,
+2191,2191,Inazuma Eleven Strikers,Role-Playing,69,5.5,
+2192,2192,Tornado Outbreak,Action,63,10.4,
+2193,2193,Just Dance 2,Misc,63,11.8,
+2194,2194,Quantum Theory,Shooter,50,13.3,
+2195,2195,Hell's Kitchen: The Game,Simulation,37,4.67,
+2196,2196,The Kore Gang,Platform,73,6.18,
+2197,2197,Fish Tycoon,Simulation,70,10.0,845250
+2198,2198,Atelier Escha & Logy: Alchemists of the Dusk Sky,Role-Playing,79,32.45,1152310
+2199,2199,Disney's PK: Out of the Shadows,Platform,50,3.38,
+2200,2200,Tony Hawk's Pro Skater 5,Sports,46,6.85,2545710
+2201,2201,Scooby-Doo! Night of 100 Frights,Platform,73,7.5,
+2202,2202,Petz: Catz 2,Simulation,60,6.3,
+2203,2203,WWE SmackDown! Here Comes the Pain,Fighting,81,16.72,
+2204,2204,Tak 2: The Staff of Dreams,Platform,47,10.0,
+2205,2205,Unreal Tournament 2003,Shooter,78,12.32,
+2206,2206,Need for Speed: Nitro,Racing,64,7.5,1222680
+2207,2207,Alias,Action,69,47.92,2425410
+2208,2208,50 Cent: Bulletproof,Action,50,5.88,
+2209,2209,MotoGP,Racing,78,14.68,3077390
+2210,2210,Age of Empires Online,Strategy,76,18.5,813780
+2211,2211,Avatar: The Last Airbender - Into the Inferno,Adventure,49,11.77,
+2212,2212,ESPN NHL 2K5,Sports,63,5.0,
+2213,2213,Champions: Return to Arms,Role-Playing,77,17.55,
+2214,2214,Army Men: Air Attack 2,Action,42,4.18,
+2215,2215,Bladestorm: The Hundred Years' War,Action,62,30.53,4083600
+2216,2216,Tak and the Power of Juju,Platform,56,7.5,
+2217,2217,NeverDead,Shooter,52,17.22,
+2218,2218,Madden NFL 07,Sports,76,44.0,
+2219,2219,Open Season,Platform,55,10.78,838050
+2220,2220,Gold and Glory: The Road to El Dorado,Adventure,68,3.7,
+2221,2221,Madden NFL 12,Sports,69,45.0,
+2222,2222,Serious Sam: Next Encounter,Shooter,69,24.32,41000
+2223,2223,Madden NFL 13,Sports,66,40.75,
+2224,2224,LEGO Rock Raiders,Strategy,65,12.5,
+2225,2225,God of War Saga,Action,86,36.75,2322010
+2226,2226,Ring of Red,Strategy,76,120.35,
+2227,2227,Front Mission 5: Scars of the War,Strategy,74,32.75,
+2228,2228,Blitz: The League,Sports,67,20.6,
+2229,2229,TOCA Race Driver 2,Racing,68,12.93,
+2230,2230,Dungeons & Dragons: Shadow over Mystara,Role-Playing,75,2.84,
+2231,2231,NHL 09,Sports,72,40.0,
+2232,2232,NHL 08,Action,73,15.0,
+2233,2233,NHL 11,Sports,77,55.0,
+2234,2234,NHL 10,Sports,77,47.0,
+2235,2235,Trivial Pursuit,Misc,66,3.02,
+2236,2236,NHL 2004,Sports,81,30.0,
+2237,2237,Battlefield 2142,Shooter,75,13.62,
+2238,2238,Arslan: The Warriors of Legend,Action,68,26.01,401890
+2239,2239,Cake Mania,Puzzle,68,4.6,3397580
+2240,2240,Coraline,Action,47,6.12,
+2241,2241,SpongeBob SquarePants: SuperSponge,Action,51,3.0,
+2242,2242,Super Monkey Ball Deluxe,Misc,75,4.15,1316910
+2243,2243,Final Fantasy Type-0,Role-Playing,70,54.15,340170
+2244,2244,Dynasty Warriors 5: Xtreme Legends,Action,77,9.0,278080
+2245,2245,Grabbed by the Ghoulies,Action,62,6.2,
+2246,2246,Robert Ludlum's The Bourne Conspiracy,Action,67,12.23,
+2247,2247,Tsugunai: Atonement,Role-Playing,83,21.88,
+2248,2248,Night Warriors: Darkstalkers' Revenge,Fighting,73,2.5,
+2249,2249,Dynasty Warriors: Gundam 2,Action,79,40.0,
+2250,2250,Bolt,Adventure,55,28.39,2005010
+2251,2251,PlayStation Move Heroes,Platform,56,6.87,
+2252,2252,Darkstalkers 3,Fighting,79,2.45,
+2253,2253,Hellboy: The Science of Evil,Action,42,16.28,
+2254,2254,The Settlers,Action,75,42.75,2750080
+2255,2255,MLB 08: The Show,Sports,80,10.0,
+2256,2256,NCAA Football 14,Sports,82,25.88,
+2257,2257,NHL 06,Sports,68,35.0,
+2258,2258,Puzzler Collection,Puzzle,0,13.3,
+2259,2259,Dragon Ball Z: Burst Limit,Fighting,65,11.27,
+2260,2260,I-Ninja,Platform,70,7.58,1891700
+2261,2261,Escape from Bug Island,Action,48,6.82,730830
+2262,2262,MotoGP 14,Racing,72,33.45,256390
+2263,2263,Go Vacation,Misc,74,30.0,
+2264,2264,Cross Edge,Role-Playing,64,49.83,
+2265,2265,Young Justice: Legacy,Action,53,24.15,
+2266,2266,Monsters vs. Aliens,Action,61,31.12,
+2267,2267,Rocky,Fighting,55,9.37,2200580
+2268,2268,Cabela's Outdoor Adventures,Sports,60,7.0,
+2269,2269,Naruto: The Broken Bond,Action,75,16.58,
+2270,2270,Agatha Christie: Evil Under the Sun,Adventure,62,18.75,
+2271,2271,Rogue Ops,Action,0,8.0,
+2272,2272,Firefighter F.D.18,Action,77,7.0,
+2273,2273,Colin McRae Rally 3,Racing,76,16.55,
+2274,2274,Dead or Alive 4,Fighting,72,4.77,958260
+2275,2275,Cars: Race-O-Rama,Racing,53,13.75,
+2276,2276,Ben 10 Alien Force: Vilgax Attacks,Action,69,17.65,
+2277,2277,Secret Agent Clank,Platform,64,7.83,
+2278,2278,Mystery Case Files: The Malgrave Incident,Adventure,58,8.28,
+2279,2279,Gauntlet: Seven Sorrows,Role-Playing,62,14.97,
+2280,2280,Hot Wheels: Beat That!,Racing,55,15.0,
+2281,2281,Heavenly Guardian,Shooter,53,3.38,
+2282,2282,Lost: Via Domus,Action,48,16.08,
+2283,2283,Fallout: Brotherhood of Steel,Role-Playing,57,8.13,38420
+2284,2284,"SpongeBob SquarePants: Lights, Camera, Pants!",Misc,67,12.85,
+2285,2285,SpongeBob SquarePants: Revenge of the Flying Dutchman,Platform,59,6.62,
+2286,2286,Aggressive Inline,Sports,68,5.78,
+2287,2287,Breakdown,Adventure,68,19.09,1798320
+2288,2288,Pictionary: Ultimate Edition,Misc,50,4.0,
+2289,2289,NBA Live 08,Sports,62,30.0,
+2290,2290,Martian Gothic: Unification,Adventure,65,7.75,
+2291,2291,15 Days,Adventure,47,7.27,342990
+2292,2292,FIFA Soccer 96,Sports,53,10.0,
+2293,2293,Warhammer: Battle March,Strategy,64,34.47,
+2294,2294,Kung Fu Panda: Legendary Warriors,Action,60,2.17,
+2295,2295,Disney's Extreme Skate Adventure,Sports,70,7.92,
+2296,2296,Majin Tensei,Role-Playing,43,33.33,
+2297,2297,MySims Agents,Adventure,65,9.25,
+2298,2298,MySims Kingdom,Simulation,65,11.17,3328910
+2299,2299,Far Cry Instincts,Shooter,65,20.02,
+2300,2300,NCAA Football 10,Sports,68,30.0,
+2301,2301,NBA Live 06,Sports,61,75.0,
+2302,2302,Summon Night 6: Lost Borders,Action,80,65.0,
+2303,2303,Big Mutha Truckers 2,Racing,65,20.0,1377920
+2304,2304,Last Rebellion,Role-Playing,46,12.33,
+2305,2305,Desire,Adventure,68,4.55,3838290
+2306,2306,The Chronicles of Narnia: Prince Caspian,Action,54,26.83,
+2307,2307,"Monsters, Inc.",Adventure,57,4.33,2493560
+2308,2308,Barbie as the Princess and the Pauper,Adventure,100,2.5,
+2309,2309,Power Rangers: Super Legends,Action,64,15.13,
+2310,2310,Guitar Hero: Warriors of Rock,Misc,77,24.94,
+2311,2311,Tiger Woods PGA Tour 14,Sports,90,44.83,
+2312,2312,Club Penguin: Game Day!,Sports,60,9.0,
+2313,2313,Tiger Woods PGA Tour 10,Sports,76,12.0,
+2314,2314,Star Trek: Legacy,Simulation,61,9.55,
+2315,2315,Dog's Life,Adventure,70,6.7,
+2316,2316,Dance Central,Misc,76,9.23,
+2317,2317,Dance Central 2,Misc,76,10.35,
+2318,2318,Madden NFL 25,Sports,71,68.28,2582560
+2319,2319,Transformers,Shooter,76,12.02,1177000
+2320,2320,Ribbit King,Sports,76,8.42,
+2321,2321,Arthur and the Invisibles,Adventure,68,10.0,
+2322,2322,Army Men: Sarge's War,Shooter,64,7.47,
+2323,2323,Opoona,Role-Playing,63,27.9,
+2324,2324,Ridge Racer V,Action,52,4.38,
+2325,2325,LEGO Rock Band,Misc,70,26.47,
+2326,2326,Dungeon Siege: Throne of Agony,Role-Playing,69,9.62,
+2327,2327,Super Robot Taisen Z,Strategy,83,60.0,
+2328,2328,Rise of Nations: Rise of Legends,Strategy,74,30.33,287450
+2329,2329,Touhou Genso Rondo: Bullet Ballet,Shooter,58,3.0,
+2330,2330,Football Manager 2005,Sports,68,63.33,
+2331,2331,Raven Squad: Operation Hidden Dagger,Shooter,38,11.05,
+2332,2332,Lifeline,Adventure,33,12.28,
+2333,2333,Call of Duty: Modern Warfare Trilogy,Shooter,85,24.58,3595230
+2334,2334,Armored Core: Nexus,Simulation,76,8.13,
+2335,2335,EA Sports UFC,Sports,71,22.56,
+2336,2336,Wing Commander IV: The Price of Freedom,Simulation,82,11.32,
+2337,2337,Devil Kings,Action,71,16.58,
+2338,2338,Moto Racer 2,Racing,67,3.55,
+2339,2339,Starhawk,Action,66,5.5,
+2340,2340,ATV Offroad Fury 2,Racing,70,15.0,2629680
+2341,2341,Gran Turismo 5 Prologue,Racing,72,11.78,
+2342,2342,NBA Street V3,Sports,78,14.5,
+2343,2343,Darkstalkers Resurrection,Fighting,69,5.3,
+2344,2344,Mobile Suit Gundam: Federation vs. Zeon,Simulation,75,11.1,
+2345,2345,Bratz: Rock Angelz,Misc,54,4.5,
+2346,2346,Puss in Boots,Action,51,7.0,1657600
+2347,2347,Rock Revolution,Misc,33,5.0,
+2348,2348,Wallace & Gromit in Project Zoo,Platform,62,8.5,
+2349,2349,Transformers: Cybertron Adventures,Action,70,2.97,
+2350,2350,Barnyard,Action,67,30.25,498030
+2351,2351,Sega Rally 2006,Racing,70,3.0,
+2352,2352,Chameleon,Puzzle,70,10.18,1120950
+2353,2353,Fugitive Hunter: War on Terror,Shooter,39,6.04,
+2354,2354,Harvey Birdman: Attorney at Law,Adventure,70,7.61,
+2355,2355,Looney Tunes: Acme Arsenal,Action,58,6.82,
+2356,2356,Afro Samurai,Action,63,14.58,
+2357,2357,Rockstar Games presents Table Tennis,Sports,67,4.27,
+2358,2358,Hot Wheels: Stunt Track Challenge,Racing,63,8.75,
+2359,2359,Agatha Christie: And Then There Were None,Adventure,68,6.82,
+2360,2360,Colin McRae Rally 2005,Racing,75,14.83,
+2361,2361,Pariah,Action,60,4.27,2416500
+2362,2362,Generator Rex: Agent of Providence,Action,55,8.33,
+2363,2363,Surf's Up,Sports,61,4.28,3454830
+2364,2364,Age of Empires III: The Asian Dynasties,Strategy,80,10.07,
+2365,2365,Terminator 3: Rise of the Machines,Action,36,3.5,
+2366,2366,The Last Airbender,Action,42,5.0,1620030
+2367,2367,Just Dance 2016,Misc,62,3.0,
+2368,2368,Monster Rancher 3,Simulation,77,19.85,
+2369,2369,Monster Rancher EVO,Role-Playing,70,36.1,
+2370,2370,La Pucelle: Tactics,Role-Playing,73,34.33,
+2371,2371,Dead to Rights II,Shooter,59,14.9,
+2372,2372,CSI: Hard Evidence,Adventure,53,12.62,
+2373,2373,Worms 2,Strategy,77,10.73,1000280
+2374,2374,Monster House,Adventure,51,2.75,1347600
+2375,2375,Sword Art Online: Hollow Fragment,Role-Playing,71,60.0,607890
+2376,2376,Catz,Simulation,52,20.0,261920
+2377,2377,Enemy Territory: Quake Wars,Shooter,69,28.45,
+2378,2378,Under the Skin,Action,58,3.65,1003890
+2379,2379,Populous: The Beginning,Strategy,74,23.53,2616430
+2380,2380,NCAA Football 11,Sports,76,40.0,
+2381,2381,Rugrats: Royal Ransom,Platform,66,7.0,
+2382,2382,Marvel Avengers: Battle for Earth,Action,46,3.98,
+2383,2383,Ghost Squad,Shooter,68,2.1,
+2384,2384,Code Lyoko: Quest for Infinity,Action,63,7.0,
+2385,2385,Fracture,Shooter,53,14.11,488790
+2386,2386,Ninjabread Man,Action,17,2.62,
+2387,2387,Neo Contra,Shooter,59,2.88,
+2388,2388,One Piece: Unlimited Adventure,Adventure,78,28.77,571720
+2389,2389,Bujingai: The Forsaken City,Fighting,65,6.53,
+2390,2390,Mobile Suit Gundam: Encounters in Space,Simulation,66,5.75,
+2391,2391,Phantom Brave: We Meet Again,Role-Playing,82,41.32,
+2392,2392,Rock Band 4,Misc,79,29.02,
+2393,2393,Atelier Shallie: Alchemists of the Dusk Sea,Role-Playing,80,28.08,1152320
+2394,2394,Batman: Rise of Sin Tzu,Action,62,6.1,
+2395,2395,Valhalla Knights: Eldar Saga,Role-Playing,67,30.58,
+2396,2396,Legends of Wrestling,Fighting,51,6.45,
+2397,2397,Madden NFL 10,Sports,74,43.67,
+2398,2398,Ridge Racer 6,Racing,69,9.52,
+2399,2399,Wii Fit U,Sports,66,2.0,
+2400,2400,Airline Tycoon,Simulation,54,11.47,331920
+2401,2401,SingStar '80s,Misc,76,4.0,
+2402,2402,Monster Jam,Racing,58,4.7,1205480
+2403,2403,Kinect Star Wars,Action,50,4.97,
+2404,2404,Fight Night Round 4,Fighting,78,16.05,
+2405,2405,Pinball Hall of Fame: The Williams Collection,Misc,80,15.27,
+2406,2406,Battle Engine Aquila,Shooter,57,13.62,1346400
+2407,2407,Wrestle Kingdom,Fighting,0,6.02,
+2408,2408,Blitz: The League II,Sports,82,30.17,621090
+2409,2409,Happy Feet,Action,40,4.53,
+2410,2410,Shadow of Rome,Action,77,19.28,
+2411,2411,Magic Pengel: The Quest for Color,Role-Playing,70,14.33,
+2412,2412,Yager,Shooter,90,11.0,
+2413,2413,Cabela's Big Game Hunter,Sports,53,10.0,
+2414,2414,Hot Shots Tennis,Sports,70,11.26,
+2415,2415,Evil Dead: Regeneration,Action,71,12.49,
+2416,2416,Army Men: Soldiers of Misfortune,Shooter,45,5.07,
+2417,2417,International Superstar Soccer,Sports,77,16.13,
+2418,2418,Battlefield Vietnam,Shooter,73,16.33,
+2419,2419,Alvin and the Chipmunks,Misc,45,2.0,
+2420,2420,Dynasty Warriors 3: Xtreme Legends,Action,76,5.43,278080
+2421,2421,Toy Soldiers: War Chest,Action,60,20.0,
+2422,2422,Dynasty Warriors: Gundam 3,Action,76,72.48,3841510
+2423,2423,Tom Clancy's Ghost Recon: Jungle Storm,Shooter,83,13.67,
+2424,2424,Gradius V,Shooter,87,9.13,
+2425,2425,ATV Offroad Fury,Racing,70,4.08,
+2426,2426,Beat Down: Fists of Vengeance,Action,63,8.95,
+2427,2427,Predator: Concrete Jungle,Action,65,12.65,
+2428,2428,Turning Point: Fall of Liberty,Shooter,45,13.25,
+2429,2429,Mission: Impossible - Operation Surma,Platform,56,9.08,
+2430,2430,Star Wars: Super Bombad Racing,Racing,57,3.23,
+2431,2431,Tom Clancy's Rainbow Six: Rogue Spear,Shooter,69,13.68,
+2432,2432,Smash Court Tennis Pro Tournament 2,Sports,62,10.15,
+2433,2433,State of Emergency 2,Shooter,35,4.55,495420
+2434,2434,Dave Mirra Freestyle BMX 2,Sports,65,8.0,
+2435,2435,Robots,Action,55,14.09,767560
+2436,2436,SingStar Dance,Misc,70,4.0,
+2437,2437,The Spiderwick Chronicles,Action,60,11.62,
+2438,2438,Amplitude,Misc,67,5.27,704680
+2439,2439,Frogger's Adventures: The Rescue,Platform,58,3.0,
+2440,2440,The Sum of All Fears,Shooter,58,3.57,19810
+2441,2441,Test Drive 6,Racing,59,14.17,
+2442,2442,Megamind: Ultimate Showdown,Action,45,4.77,
+2443,2443,4x4 EVO 2,Racing,70,10.0,
+2444,2444,Monster Rancher 4,Simulation,79,35.0,
+2445,2445,Just Dance,Misc,58,2.7,
+2446,2446,Bust-A-Bloc,Puzzle,20,2.27,
+2447,2447,Madden NFL 2003,Sports,74,6.0,
+2448,2448,Fable: The Journey,Role-Playing,69,8.75,
+2449,2449,Dragon Ball: Revenge of King Piccolo,Action,68,7.98,
+2450,2450,Ford Racing 2,Racing,62,7.63,
+2451,2451,Invizimals: The Lost Kingdom,Action,53,7.5,1195560
+2452,2452,NASCAR 2005: Chase for the Cup,Racing,76,36.5,
+2453,2453,Dragon Blade: Wrath of Fire,Action,27,6.17,
+2454,2454,Mobile Suit Gundam: Journey to Jaburo,Simulation,59,7.22,
+2455,2455,The Fast and the Furious,Racing,55,6.7,544540
+2456,2456,Afrika,Adventure,63,20.35,3843570
+2457,2457,Fist of the North Star: Ken's Rage,Action,65,30.77,
+2458,2458,Fade to Black,Action,70,10.0,
+2459,2459,Hannah Montana: Spotlight World Tour,Action,40,4.62,
+2460,2460,Looney Tunes: Back in Action,Platform,55,5.28,
+2461,2461,UFC Undisputed 3,Action,81,26.23,
+2462,2462,The King of Fighters XI,Fighting,77,3.05,872410
+2463,2463,Haven: Call of the King,Platform,56,9.02,
+2464,2464,Cabela's North American Adventures,Sports,65,8.5,
+2465,2465,The Last Guy,Action,60,7.33,
+2466,2466,World Heroes Anthology,Fighting,73,3.0,
+2467,2467,Natural Doctrine,Role-Playing,65,62.0,
+2468,2468,Kung Fu Panda 2,Action,54,4.75,
+2469,2469,Legend of the Guardians: The Owls of Ga'Hoole,Action,63,6.0,
+2470,2470,Extreme Pinball,Misc,50,3.52,
+2471,2471,Terminator 3: The Redemption,Shooter,73,7.4,
+2472,2472,CSI: 3 Dimensions of Murder,Adventure,57,5.5,
+2473,2473,Tom and Jerry in Fists of Furry,Fighting,75,5.0,
+2474,2474,Disney's Planes,Simulation,52,8.63,
+2475,2475,CSI: Crime Scene Investigation,Adventure,63,4.37,893650
+2476,2476,"Warhammer 40,000: Fire Warrior",Shooter,49,14.82,
+2477,2477,Torneko no Daibouken: Fushigi no Dungeon,Role-Playing,76,17.3,
+2478,2478,Metal Saga,Role-Playing,65,32.93,
+2479,2479,NBA Live 2004,Sports,72,30.0,
+2480,2480,NBA Street,Sports,76,8.38,
+2481,2481,Hellgate: London,Role-Playing,63,32.13,939520
+2482,2482,The Princess and the Frog,Platform,35,4.0,1989270
+2483,2483,NES Remix,Action,73,7.93,
+2484,2484,Nicktoons: Attack of the Toybots,Platform,54,7.0,
+2485,2485,Warhawk,Simulation,74,236.67,2704950
+2486,2486,NCAA Football 08,Sports,78,46.0,
+2487,2487,NCAA Football 09,Sports,80,46.33,
+2488,2488,Forever Kingdom,Role-Playing,55,9.38,
+2489,2489,NCAA Football 12,Sports,77,57.0,
+2490,2490,The Adventures of Jimmy Neutron Boy Genius: Jet Fusion,Action,40,8.0,
+2491,2491,Monster Hunter 2,Role-Playing,82,63.2,1277400
+2492,2492,Littlest Pet Shop,Simulation,40,3.12,
+2493,2493,Syphon Filter: The Omega Strain,Shooter,54,11.07,
+2494,2494,Ghost Pirates of Vooju Island,Adventure,68,6.6,344030
+2495,2495,NCAA Football 2004,Sports,82,20.0,
+2496,2496,Warriors Orochi 3,Action,75,54.18,1879330
+2497,2497,WWF SmackDown! Just Bring It,Fighting,61,2.47,
+2498,2498,Conan,Action,58,12.87,440900
+2499,2499,MotoGP 2,Racing,73,6.83,3077390
+2500,2500,SpongeBob's Truth or Square,Action,63,14.93,
+2501,2501,Untold Legends: Dark Kingdom,Role-Playing,61,12.43,
+2502,2502,Conduit 2,Shooter,71,6.33,
+2503,2503,Silpheed: The Lost Planet,Shooter,65,2.43,400200
+2504,2504,Tigger's Honey Hunt,Platform,61,4.0,
+2505,2505,Kessen III,Strategy,83,29.42,
+2506,2506,Alfa Romeo Racing Italiano,Racing,73,19.72,
+2507,2507,SingStar,Misc,70,2.0,808800
+2508,2508,Prehistorik Man,Platform,61,2.87,
+2509,2509,Dark Parables: The Exiled Prince,Puzzle,67,3.95,499100
+2510,2510,Gladius,Strategy,78,30.52,489630
+2511,2511,Yu-Gi-Oh! 5D's Wheelie Breakers,Racing,47,3.0,
+2512,2512,Pharaoh,Strategy,79,59.85,2951630
+2513,2513,Transformers: Dark of the Moon,Action,62,11.69,384910
+2514,2514,18 Wheels of Steel: Extreme Trucker,Racing,55,11.15,362780
+2515,2515,McDROID,Strategy,70,7.4,252970
+2516,2516,X-Men: Next Dimension,Fighting,46,2.5,
+2517,2517,Neverwinter Nights 2: Mask of the Betrayer,Role-Playing,84,16.0,
+2518,2518,Romance of the Three Kingdoms X,Strategy,83,15.17,872410
+2519,2519,Professor Heinz Wolff's Gravity,Puzzle,50,2.0,
+2520,2520,All-Pro Football 2K8,Sports,66,12.0,
+2521,2521,Kinect Sports: Season Two,Sports,64,4.55,
+2522,2522,Dance Dance Revolution X,Simulation,72,6.5,1905510
+2523,2523,LEGO Racers,Racing,69,3.13,
+2524,2524,Cars: Mater-National Championship,Racing,65,21.27,332260
+2525,2525,The Polar Express,Adventure,45,7.0,
+2526,2526,Order Up!,Misc,65,5.07,1072170
+2527,2527,Alter Echo,Shooter,63,5.95,
+2528,2528,The Secret Saturdays: Beasts of the 5th Sun,Action,70,4.0,
+2529,2529,Full Auto,Shooter,63,5.5,
+2530,2530,Battle Princess of Arcadias,Role-Playing,66,11.13,
+2531,2531,Golden Axe: Beast Rider,Action,47,12.95,
+2532,2532,MySims SkyHeroes,Action,45,6.0,
+2533,2533,Destroy All Humans! Path of the Furon,Action,56,22.37,
+2534,2534,Formula One 2001,Racing,66,4.37,
+2535,2535,Football Manager 2007,Sports,69,149.5,
+2536,2536,Destroy All Humans! Big Willy Unleashed,Action,43,7.25,
+2537,2537,The Great Escape,Action,61,17.22,1011320
+2538,2538,NHL 98,Sports,70,20.0,
+2539,2539,M&M's Kart Racing,Racing,33,2.47,
+2540,2540,Raving Rabbids: Travel in Time,Adventure,46,5.18,
+2541,2541,Tropico 4: Modern Times,Strategy,78,24.28,
+2542,2542,Piglet's Big Game,Platform,37,7.17,
+2543,2543,Samurai Champloo: Sidetracked,Action,65,7.32,
+2544,2544,Ride,Racing,74,46.27,2290180
+2545,2545,Romance of the Three Kingdoms XI,Strategy,80,37.0,872410
+2546,2546,Spawn: Armageddon,Action,56,17.83,
+2547,2547,Amped 3,Sports,74,7.15,
+2548,2548,Wing Commander: Prophecy,Simulation,78,17.95,
+2549,2549,Zombie Hunters 2,Action,70,4.5,
+2550,2550,Hannah Montana: The Movie,Adventure,35,12.11,
+2551,2551,Atelier Totori: The Adventurer of Arland,Role-Playing,76,23.32,936180
+2552,2552,WWE Crush Hour,Racing,50,3.52,
+2553,2553,Shaun White Snowboarding,Sports,60,4.0,
+2554,2554,Shaun White Skateboarding,Sports,58,21.15,
+2555,2555,Looney Tunes: Sheep Raider,Platform,76,8.33,
+2556,2556,Shining Resonance,Role-Playing,65,36.82,809890
+2557,2557,Makai Kingdom: Chronicles of the Sacred Tome,Role-Playing,76,26.43,
+2558,2558,Robot Alchemic Drive,Action,75,12.62,
+2559,2559,NASCAR Thunder 2002,Racing,63,15.0,
+2560,2560,Backyard Basketball,Sports,55,12.0,3170580
+2561,2561,Saw II: Flesh & Blood,Action,65,16.53,
+2562,2562,Mobil 1 Rally Championship,Racing,60,8.42,1462810
+2563,2563,Everybody Dance,Misc,50,4.18,
+2564,2564,SpongeBob's Atlantis SquarePantis,Action,63,9.5,
+2565,2565,Your Shape: Fitness Evolved 2012,Sports,65,7.52,
+2566,2566,Mobile Suit Gundam: Crossfire,Simulation,60,9.18,1367080
+2567,2567,Mobile Suit Gundam: Zeonic Front,Simulation,65,5.1,
+2568,2568,Scene It? Bright Lights! Big Screen!,Misc,57,2.0,
+2569,2569,Aeon Flux,Action,73,6.45,
+2570,2570,Scene It? Box Office Smash,Misc,72,2.03,
+2571,2571,NFL Street 2,Sports,82,15.0,
+2572,2572,Beowulf: The Game,Action,41,27.17,
+2573,2573,Scooby-Doo! Unmasked,Platform,63,5.48,
+2574,2574,Scooby-Doo! Mystery Mayhem,Action,64,6.25,
+2575,2575,Shox,Racing,53,4.17,
+2576,2576,UFC 2009 Undisputed,Fighting,73,16.6,
+2577,2577,The Ant Bully,Platform,50,3.93,
+2578,2578,Blade II,Action,30,8.0,261550
+2579,2579,The King of Fighters XII,Fighting,49,3.63,363150
+2580,2580,Apache: Air Assault,Simulation,67,18.5,
+2581,2581,Fairytale Fights,Action,72,21.08,
+2582,2582,Superman Returns,Action,34,14.8,
+2583,2583,Pro Rally,Racing,30,7.3,1435090
+2584,2584,Colin McRae Rally 04,Racing,73,9.55,
+2585,2585,Zatch Bell! Mamodo Battles,Fighting,62,20.0,
+2586,2586,Superman: Shadow of Apokolips,Action,47,3.97,
+2587,2587,Inazuma Eleven Strikers 2012 Xtreme,Role-Playing,55,4.83,
+2588,2588,IL-2 Sturmovik,Simulation,64,16.5,307960
+2589,2589,Just Dance 2014,Misc,71,29.62,
+2590,2590,Dead or Alive 5,Fighting,70,7.5,958260
+2591,2591,Judge Dredd,Platform,69,3.75,3710
+2592,2592,Monster Madness: Battle for Suburbia,Shooter,50,14.42,
+2593,2593,Stuart Little 3: Big Photo Adventure,Platform,61,4.62,
+2594,2594,Flipnic: Ultimate Pinball,Misc,60,8.8,
+2595,2595,Rollcage Stage II,Racing,78,2.98,
+2596,2596,Dragon Rage,Shooter,45,3.83,2892130
+2597,2597,Tokyo Twilight Ghost Hunters,Role-Playing,59,14.85,425460
+2598,2598,Backyard Soccer,Sports,60,5.0,3170410
+2599,2599,Jumper: Griffin's Story,Action,30,9.07,
+2600,2600,Backyard Wrestling: Don't Try This at Home,Fighting,50,3.5,
+2601,2601,The Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron,Action,53,4.0,
+2602,2602,Top Spin 2,Sports,64,11.0,1785650
+2603,2603,F1 2001,Racing,65,5.0,
+2604,2604,MLB 16: The Show,Action,82,38.9,
+2605,2605,Shiren the Wanderer,Role-Playing,70,13.5,1178790
+2606,2606,SimCity Societies,Simulation,53,30.0,
+2607,2607,Bentley's Hackpack,Misc,63,6.0,
+2608,2608,Family Game Night 4: The Game Show,Misc,10,3.0,
+2609,2609,The Hardy Boys: The Hidden Theft,Adventure,70,7.13,
+2610,2610,NBA 2K7,Sports,63,16.18,
+2611,2611,Funky Barn,Simulation,0,4.77,
+2612,2612,Street Racer,Racing,62,2.0,1672340
+2613,2613,Empire Earth II,Strategy,75,16.25,
+2614,2614,Disgaea 3: Absence of Detention,Role-Playing,78,43.18,
+2615,2615,Ashes Cricket 2009,Sports,69,30.25,
+2616,2616,CSI: Dark Motives,Adventure,55,6.5,
+2617,2617,uDraw Studio: Instant Artist,Misc,53,7.87,
+2618,2618,Quake III: Revolution,Shooter,74,9.58,
+2619,2619,CSI: Deadly Intent,Adventure,51,13.62,
+2620,2620,Romance of the Three Kingdoms VII,Strategy,80,7.92,872410
+2621,2621,Ganbare Goemon 2: Kiteretsu Shougun Magginesu,Platform,78,4.95,
+2622,2622,Romance of the Three Kingdoms VIII,Strategy,78,20.02,872410
+2623,2623,SD Gundam G Generation World,Strategy,83,60.0,728530
+2624,2624,Worms 4: Mayhem,Strategy,76,9.47,
+2625,2625,Melty Blood: Act Cadenza,Fighting,73,2.5,411370
+2626,2626,Global Defence Force,Shooter,78,18.62,
+2627,2627,Despicable Me: The Game,Platform,60,4.0,865540
+2628,2628,NBA Live 10,Sports,72,10.0,
+2629,2629,NBA Live 2003,Sports,74,55.0,
+2630,2630,Stretch Panic,Platform,49,4.23,
+2631,2631,NHL 2005,Sports,70,25.0,
+2632,2632,Zoids Assault,Strategy,70,11.0,
+2633,2633,NBA Street Homecourt,Sports,71,16.0,
+2634,2634,Warhammer: Shadow of the Horned Rat,Strategy,62,8.85,
+2635,2635,Teenage Mutant Ninja Turtles: Mutants in Manhattan,Action,55,21.73,
+2636,2636,Farm Frenzy,Strategy,74,8.6,391000
+2637,2637,Disney's Brother Bear,Action,63,2.93,
+2638,2638,Ford Racing,Racing,55,5.0,
+2639,2639,NCAA Football 07,Sports,74,40.92,
+2640,2640,MorphX,Shooter,64,14.9,408410
+2641,2641,The Tale of Despereaux,Platform,40,4.0,2016460
+2642,2642,Herdy Gerdy,Adventure,61,12.72,
+2643,2643,Babysitting Mama,Simulation,70,5.93,
+2644,2644,Dream Chronicles,Adventure,70,3.63,432780
+2645,2645,SSX Blur,Sports,52,10.0,
+2646,2646,UEFA Champions League 2006-2007,Sports,65,6.0,
+2647,2647,RC Revenge Pro,Racing,70,2.45,
+2648,2648,One Piece: Grand Battle!,Fighting,65,4.67,
+2649,2649,Ghost in the Shell: Stand Alone Complex,Adventure,64,6.57,
+2650,2650,Princess Isabella: A Witch's Curse,Adventure,60,2.35,
+2651,2651,R-Type Final,Shooter,68,2.27,1442820
+2652,2652,Cate West: The Vanishing Files,Adventure,58,12.0,
+2653,2653,Guilty Gear XX Accent Core,Fighting,83,2.78,348550
+2654,2654,Reel Fishing III,Sports,70,2.87,
+2655,2655,Lotus Challenge,Racing,45,2.85,
+2656,2656,Thrillville,Strategy,65,5.43,6080
+2657,2657,Style Savvy,Simulation,81,12.73,
+2658,2658,Rumble Roses XX,Fighting,40,10.0,
+2659,2659,Total Immersion Racing,Racing,58,22.22,
+2660,2660,Driving Emotion Type-S,Racing,43,4.62,
+2661,2661,Catwoman,Action,56,12.0,
+2662,2662,Astro Boy: The Video Game,Action,55,6.25,
+2663,2663,Sub Rebellion,Simulation,60,5.67,
+2664,2664,Infernal: Hell's Vengeance,Shooter,40,7.0,
+2665,2665,Fatal Inertia,Racing,0,12.5,
+2666,2666,Athens 2004,Sports,45,9.18,
+2667,2667,Mayhem 3D,Racing,62,10.88,
+2668,2668,Luxor: Pharaoh's Challenge,Puzzle,55,11.45,
+2669,2669,Buffy the Vampire Slayer,Action,71,7.3,2188960
+2670,2670,Buffy the Vampire Slayer: Chaos Bleeds,Action,60,9.68,
+2671,2671,NBA 2K2,Sports,73,4.0,3472040
+2672,2672,Kelly Slater's Pro Surfer,Sports,67,15.0,
+2673,2673,Kengo: Master of Bushido,Fighting,40,8.5,
+2674,2674,Guitar Hero: Van Halen,Misc,65,12.58,
+2675,2675,Fate/Unlimited Codes,Fighting,68,2.0,
+2676,2676,The Treasures of Montezuma,Puzzle,0,3.85,301150
+2677,2677,College Hoops 2K7,Sports,70,12.0,
+2678,2678,Tiger Woods PGA Tour 09,Sports,72,50.0,
+2679,2679,Def Jam Rapstar,Misc,70,9.5,
+2680,2680,Man vs. Wild,Action,45,3.87,
+2681,2681,Tiger Woods PGA Tour 13,Sports,70,7.48,
+2682,2682,Powerdrome,Racing,60,3.6,
+2683,2683,Duel Masters,Strategy,69,7.0,
+2684,2684,Taiko no Tatsujin: Waku Waku Anime Matsuri,Misc,50,5.32,
+2685,2685,Tiger Woods PGA Tour 11,Sports,77,12.0,
+2686,2686,Mat Hoffman's Pro BMX 2,Sports,60,8.63,
+2687,2687,Bust-A-Move Bash!,Puzzle,65,3.43,
+2688,2688,Spyborgs,Action,50,5.95,
+2689,2689,ESPN NFL Football,Sports,50,30.0,
+2690,2690,The Smurfs 2,Platform,53,7.0,2397500
+2691,2691,Uru: Ages Beyond Myst,Adventure,71,14.6,
+2692,2692,Time Commando,Action,71,4.42,1758910
+2693,2693,Neopets: The Darkest Faerie,Adventure,63,24.37,
+2694,2694,Hidden Mysteries: Vampire Secrets,Adventure,53,2.83,1023720
+2695,2695,Zoo Hospital,Simulation,40,5.0,
+2696,2696,Tiger Woods PGA Tour 2004,Sports,89,30.0,
+2697,2697,Sengoku Basara: Samurai Heroes,Action,78,19.2,
+2698,2698,Garfield: Lasagna World Tour,Action,50,3.67,
+2699,2699,InuYasha: Feudal Combat,Fighting,57,8.28,
+2700,2700,Arcade Zone,Misc,65,2.0,3270900
+2701,2701,The Eye of Judgment,Misc,60,20.42,203830
+2702,2702,Rumble Racing,Racing,70,5.5,
+2703,2703,BlazBlue: Continuum Shift,Fighting,80,31.15,294810
+2704,2704,Digimon All-Star Rumble,Fighting,47,3.87,
+2705,2705,The Mummy Returns,Action,60,4.75,
+2706,2706,The Munchables,Action,61,4.88,
+2707,2707,Art of Fighting Anthology,Fighting,77,3.83,
+2708,2708,SingStar Queen,Misc,70,2.0,
+2709,2709,Dementium II,Shooter,69,4.73,217100
+2710,2710,Island Xtreme Stunts,Action,65,2.45,
+2711,2711,Yu Yu Hakusho: Dark Tournament,Fighting,38,3.08,
+2712,2712,Bratz: Forever Diamondz,Adventure,77,5.0,
+2713,2713,The Nightmare of Druaga: Fushigino Dungeon,Role-Playing,70,21.25,
+2714,2714,Hakuoki: Stories of the Shinsengumi,Adventure,72,6.08,
+2715,2715,Where the Wild Things Are,Platform,62,8.73,
+2716,2716,HSX HyperSonic.Xtreme,Racing,70,4.08,
+2717,2717,Fight Night 2004,Fighting,71,5.33,
+2718,2718,Bleach: Shattered Blade,Fighting,56,2.75,
+2719,2719,Whirl Tour,Sports,40,3.53,
+2720,2720,Kinectimals,Simulation,62,6.25,
+2721,2721,Fight Night Round 2,Fighting,74,15.0,328920
+2722,2722,Dance Dance Revolution Universe 2,Simulation,63,8.0,
+2723,2723,Seek and Destroy,Racing,64,2.7,783270
+2724,2724,Dance Dance Revolution Universe 3,Simulation,75,8.0,
+2725,2725,Chicken Shoot,Action,50,3.35,259340
+2726,2726,Test Drive: Eve of Destruction,Racing,83,13.8,
+2727,2727,Tank! Tank! Tank!,Action,57,5.85,1407200
+2728,2728,Legoland,Action,66,5.2,
+2729,2729,Corvette,Racing,44,6.67,
+2730,2730,Monster Trucks Mayhem,Racing,70,2.58,2468400
+2731,2731,Ocean Commander,Simulation,50,3.0,
+2732,2732,Godzilla: Save the Earth,Fighting,66,4.82,2236920
+2733,2733,Jeep Thrills,Racing,50,3.0,
+2734,2734,MLB Power Pros 2008,Sports,80,4.42,
+2735,2735,Heroes of the Pacific,Simulation,64,25.07,15370
+2736,2736,Rise of Nations,Strategy,78,16.35,287450
+2737,2737,Leisure Suit Larry: Box Office Bust,Adventure,23,10.0,
+2738,2738,The Powerpuff Girls: Relish Rampage,Action,60,4.0,
+2739,2739,Magic: The Gathering - Battlegrounds,Strategy,58,14.0,
+2740,2740,Pirates: Legend of the Black Buccaneer,Adventure,65,8.55,
+2741,2741,Sengoku Basara 4: Sumeragi,Action,100,30.0,
+2742,2742,NHL 16,Sports,72,70.65,
+2743,2743,Hot Shots Golf 2,Sports,64,20.0,2730810
+2744,2744,Medieval Moves: Deadmund's Quest,Action,60,7.53,
+2745,2745,MX vs. ATV Supercross,Racing,45,16.5,1205970
+2746,2746,MLB 14: The Show,Sports,79,42.33,
+2747,2747,NHL 13,Sports,79,19.0,
+2748,2748,Elements of Destruction,Strategy,0,3.0,
+2749,2749,Tokyo Xtreme Racer 3,Racing,50,23.3,2634950
+2750,2750,NHL 2001,Sports,78,2.0,
+2751,2751,NHL 2002,Sports,72,71.33,
+2752,2752,Tokimeki Memorial 2,Simulation,90,10.08,
+2753,2753,Heatseeker,Action,63,9.75,3303640
+2754,2754,Ape Escape: Pumped & Primed,Misc,60,5.25,
+2755,2755,American Chopper,Racing,54,7.25,
+2756,2756,MindJack,Shooter,27,14.55,
+2757,2757,Jackie Chan Adventures: Legend of the Dark Hand,Action,70,4.33,
+2758,2758,WinBack 2: Project Poseidon,Shooter,10,10.9,
+2759,2759,Destruction Derby 2,Racing,78,6.5,
+2760,2760,Cake Mania 3,Simulation,70,10.0,
+2761,2761,Vietcong: Purple Haze,Shooter,72,14.48,
+2762,2762,McFarlane's Evil Prophecy,Action,0,8.97,
+2763,2763,Shaman King: Power of Spirit,Adventure,59,8.78,
+2764,2764,Mystic Heroes,Action,67,6.15,
+2765,2765,Help Wanted: 50 Wacky Jobs,Simulation,63,8.37,
+2766,2766,Dynasty Warriors 6,Action,64,46.51,
+2767,2767,Dropship: United Peace Force,Simulation,50,12.8,
+2768,2768,Clash of the Titans,Action,58,26.37,308173
+2769,2769,The Shoot,Shooter,53,2.83,1007400
+2770,2770,Tak: The Great Juju Challenge,Platform,50,5.0,
+2771,2771,Samurai Jack: The Shadow of Aku,Action,67,5.5,
+2772,2772,Shellshock,Action,55,8.0,326460
+2773,2773,Samurai Shodown Anthology,Fighting,83,4.0,
+2774,2774,"Sharin no Kuni, Himawari no Shoujo",Adventure,76,27.0,
+2775,2775,The History Channel: Civil War - A Nation Divided,Shooter,52,19.5,
+2776,2776,Real Heroes: Firefighter,Action,60,5.02,1333700
+2777,2777,NFL Street 3,Sports,80,5.18,
+2778,2778,The House of the Dead 2 & 3 Return,Shooter,70,15.57,
+2779,2779,Lost in Blue: Shipwrecked,Adventure,0,16.0,
+2780,2780,Anubis II,Platform,15,2.0,
+2781,2781,Ruff Trigger: The Vanocore Conspiracy,Platform,43,6.27,
+2782,2782,Virtua Quest,Role-Playing,60,7.0,
+2783,2783,Super Robot Taisen MX,Strategy,77,39.93,
+2784,2784,Samurai Warriors: Xtreme Legends,Action,78,9.8,278080
+2785,2785,History Civil War: Secret Missions,Shooter,37,7.57,
+2786,2786,Jaws Unleashed,Action,55,4.73,
+2787,2787,EyePet,Simulation,57,27.1,
+2788,2788,EA Sports MMA,Fighting,65,27.23,
+2789,2789,Crazy Taxi 3: High Roller,Racing,68,3.5,
+2790,2790,Major League Baseball 2K11,Sports,70,25.0,
+2791,2791,NBA Live 2005,Sports,79,6.0,
+2792,2792,Block Kuzushi,Puzzle,63,2.08,1929210
+2793,2793,Angry Birds Trilogy,Action,57,24.0,
+2794,2794,Tenchu Z,Action,56,16.28,
+2795,2795,Robotech: Battlecry,Shooter,67,7.83,
+2796,2796,The Sims: Vacation,Simulation,60,2.0,
+2797,2797,Starsky & Hutch,Racing,63,9.98,
+2798,2798,Room Zoom: Race for Impact,Racing,30,2.0,
+2799,2799,Tiger Woods PGA Tour 12: The Masters,Sports,68,21.0,
+2800,2800,Galaga: Destination Earth,Shooter,57,4.0,
+2801,2801,Wii Sports Club,Sports,60,2.77,
+2802,2802,F.E.A.R. Files,Shooter,70,9.98,
+2803,2803,Shifters,Adventure,60,7.0,1493820
+2804,2804,Warriors Orochi 3 Hyper,Action,74,10.62,1879330
+2805,2805,Dora the Explorer: Journey to the Purple Planet,Adventure,73,2.72,
+2806,2806,Street Fighter Anniversary Collection,Fighting,79,2.75,586200
+2807,2807,Anno 1701: Dawn of Discovery,Simulation,73,19.0,
+2808,2808,SOCOM: U.S. Navy SEALs Confrontation,Shooter,47,10.0,
+2809,2809,4x4 Evolution,Racing,60,23.0,
+2810,2810,Brothers in Arms: Double Time,Shooter,60,5.0,
+2811,2811,Jimmy Neutron: Boy Genius,Platform,53,2.0,
+2812,2812,Totally Spies!,Platform,78,4.0,2793950
+2813,2813,Sengoku Basara: Sanada Yukimura-Den,Action,60,5.0,
+2814,2814,Spy Hunter 2,Racing,53,6.0,
+2815,2815,S.L.A.I.: Steel Lancer Arena International,Simulation,70,32.67,
+2816,2816,Naruto Shippuden: Dragon Blade Chronicles,Action,54,5.33,
+2817,2817,Hello Kitty: Roller Rescue,Action,68,2.58,
+2818,2818,Shadow Man: 2econd Coming,Adventure,57,13.32,
+2819,2819,Putty Squad,Platform,50,5.95,
+2820,2820,Lupin the 3rd: Treasure of the Sorcerer King,Adventure,55,15.68,
+2821,2821,Tribes: Aerial Assault,Shooter,70,2.67,
+2822,2822,Lowrider,Misc,0,5.0,2644170
+2823,2823,Saint Seiya: Brave Soldiers,Fighting,72,9.37,
+2824,2824,SpongeBob SquarePants: Plankton's Robotic Revenge,Shooter,50,10.11,
+2825,2825,Yanya Caballista: City Skater,Sports,50,2.25,
+2826,2826,NCAA Football 06,Sports,84,42.25,
+2827,2827,Fist of the North Star: Ken's Rage 2,Fighting,72,51.22,
+2828,2828,Summer Athletics 2009,Sports,70,15.0,
+2829,2829,So Blonde,Adventure,66,9.77,
+2830,2830,Naruto: Clash of Ninja Revolution 2,Fighting,62,2.52,
+2831,2831,The Dukes of Hazzard: Return of the General Lee,Racing,57,3.12,
+2832,2832,SOCOM 3: U.S. Navy SEALs,Shooter,79,7.47,
+2833,2833,Phantasy Star Online 2,Role-Playing,80,730.0,1056640
+2834,2834,Zoo Tycoon,Strategy,59,14.42,613880
+2835,2835,Kao the Kangaroo,Platform,57,4.78,1370140
+2836,2836,The Terminator: Dawn of Fate,Action,68,5.5,
+2837,2837,Cel Damage,Racing,65,9.52,
+2838,2838,Inazuma Eleven GO Strikers 2013,Role-Playing,75,17.17,
+2839,2839,International Cricket 2010,Sports,75,18.26,
+2840,2840,Growlanser: Heritage of War,Role-Playing,65,35.0,
+2841,2841,NCAA Football 13,Action,80,51.75,
+2842,2842,Grand Ages: Medieval,Strategy,65,26.85,310470
+2843,2843,Ephemeral Fantasia,Role-Playing,48,36.57,
+2844,2844,Black & White 2,Strategy,76,14.05,1998450
+2845,2845,Kessen II,Strategy,73,21.42,
+2846,2846,Blazing Angels 2: Secret Missions of WWII,Simulation,67,19.33,
+2847,2847,Seven Samurai 20XX,Action,47,5.22,
+2848,2848,The Outfit,Action,58,7.87,
+2849,2849,Star Wars: Jedi Starfighter,Simulation,64,17.15,1774580
+2850,2850,Rare Replay,Misc,85,25.18,
+2851,2851,Cy Girls,Action,0,9.95,1793840
+2852,2852,Crime Life: Gang Wars,Action,53,8.6,
+2853,2853,Pirates: The Legend of Black Kat,Adventure,68,7.02,
+2854,2854,G.I. Joe: The Rise of Cobra,Action,54,10.33,
+2855,2855,The Sims 2: University,Simulation,77,25.0,3314070
+2856,2856,Zoo Tycoon 2,Strategy,73,22.08,
+2857,2857,State of Emergency,Action,46,10.35,
+2858,2858,SBK X: Superbike World Championship,Racing,70,22.0,
+2859,2859,Dynasty Warriors 8,Action,75,67.71,278080
+2860,2860,Marvel Super Hero Squad: Comic Combat,Action,60,4.0,
+2861,2861,Brave: A Warrior's Tale,Action,50,6.45,3046280
+2862,2862,Lagoon,Role-Playing,56,8.53,600720
+2863,2863,NCAA Basketball 09,Sports,63,3.0,
+2864,2864,Band Hero,Misc,63,17.35,
+2865,2865,Top Gun: Combat Zones,Simulation,60,10.0,
+2866,2866,DJ Hero 2,Misc,79,21.93,
+2867,2867,Cooking Mama: World Kitchen,Simulation,65,4.53,
+2868,2868,King Arthur,Action,57,7.22,1157390
+2869,2869,Vampire Rain,Action,47,22.1,
+2870,2870,Rise of Nightmares,Action,66,7.45,
+2871,2871,Graffiti Kingdom,Role-Playing,75,5.55,
+2872,2872,Fast & Furious: Showdown,Action,26,9.37,1434320
+2873,2873,Boom Blox Bash Party,Puzzle,69,7.92,
+2874,2874,The King of Fighters Collection: The Orochi Saga,Fighting,73,3.08,
+2875,2875,NASCAR: Dirt to Daytona,Racing,76,27.5,
+2876,2876,Conflict: Vietnam,Shooter,72,22.0,1012110
+2877,2877,Secret Service,Action,44,12.75,
+2878,2878,Wings of War,Simulation,40,8.0,
+2879,2879,L.A. Rush,Racing,63,25.12,569500
+2880,2880,Fantastic Four: Rise of the Silver Surfer,Action,48,11.4,
+2881,2881,Drake of the 99 Dragons,Shooter,25,4.38,755630
+2882,2882,Land of the Dead: Road to Fiddler's Green,Shooter,52,4.35,
+2883,2883,Romance of the Three Kingdoms II,Strategy,80,54.22,872410
+2884,2884,MTX Mototrax,Racing,73,6.6,
+2885,2885,Onechanbara: Bikini Samurai Squad,Action,62,5.92,
+2886,2886,Bleach: Versus Crusade,Fighting,76,2.0,
+2887,2887,Prisoner of War,Adventure,66,10.15,
+2888,2888,Xiaolin Showdown,Action,80,6.0,
+2889,2889,Astro Boy,Action,53,3.5,
+2890,2890,Hour of Victory,Shooter,23,9.18,
+2891,2891,Kingdom Under Fire: Circle of Doom,Role-Playing,59,9.0,
+2892,2892,Dynasty Warriors: Strikeforce,Action,54,10.0,
+2893,2893,Robin Hood: Defender of the Crown,Strategy,70,11.52,
+2894,2894,Final Fight: Streetwise,Action,61,7.57,
+2895,2895,Shellshock: Nam '67,Shooter,57,11.67,
+2896,2896,Demon Chaos,Action,50,7.98,1191770
+2897,2897,The King of Route 66,Racing,0,6.75,
+2898,2898,Monopoly Streets,Misc,56,6.1,
+2899,2899,Carnival Games,Misc,65,6.18,1249740
+2900,2900,Colosseum: Road to Freedom,Role-Playing,73,21.0,1097690
+2901,2901,Secret Weapons Over Normandy,Simulation,72,6.0,
+2902,2902,MotoGP '06,Racing,60,10.0,
+2903,2903,Spore Hero,Simulation,48,10.5,
+2904,2904,4 Elements,Puzzle,62,8.52,2081090
+2905,2905,NHL 2003,Sports,72,26.62,
+2906,2906,Rurouni Kenshin: Enjou! Kyoto Rinne,Action,70,4.33,
+2907,2907,Star Trek: Shattered Universe,Simulation,47,8.0,
+2908,2908,Revolution X,Shooter,56,2.77,2055600
+2909,2909,Sengoku Basara X,Fighting,72,2.42,
+2910,2910,Drome Racers,Racing,0,16.0,
+2911,2911,Dance Dance Revolution Extreme,Simulation,79,13.67,
+2912,2912,Major Minor's Majestic March,Misc,60,2.47,
+2913,2913,Warriors: Legends of Troy,Action,58,14.67,
+2914,2914,Triggerheart Exelica,Shooter,67,2.51,2685590
+2915,2915,Bomberman: Act Zero,Puzzle,55,2.72,
+2916,2916,The Gunstringer,Shooter,76,6.03,
+2917,2917,Teenage Mutant Ninja Turtles 3: Mutant Nightmare,Action,66,6.0,
+2918,2918,Smash Cars,Racing,0,3.85,111300
+2919,2919,EA Sports Active 2,Sports,65,12.0,3405690
+2920,2920,Robotech: Invasion,Shooter,70,6.27,
+2921,2921,Beijing 2008,Sports,53,3.25,10520
+2922,2922,Shaun White Snowboarding: Road Trip,Sports,50,2.83,
+2923,2923,Two Worlds,Role-Playing,61,31.1,1449110
+2924,2924,NHL Slapshot,Sports,70,11.0,
+2925,2925,Mojo!,Puzzle,33,8.42,950530
+2926,2926,FaceBreaker,Fighting,65,7.0,
+2927,2927,I Spy: Spooky Mansion,Puzzle,73,4.12,
+2928,2928,Flushed Away,Platform,42,4.33,
+2929,2929,Showdown: Legends of Wrestling,Fighting,60,7.5,
+2930,2930,Dead Man's Hand,Shooter,61,4.5,3098690
+2931,2931,Carnival Island,Misc,70,3.25,
+2932,2932,Green Day: Rock Band,Misc,75,21.06,
+2933,2933,World Destruction League: Thunder Tanks,Action,90,8.75,
+2934,2934,To Heart,Adventure,70,35.0,1901620
+2935,2935,Saturday Night Speedway,Racing,0,5.0,
+2936,2936,RollerCoaster Tycoon 3,Strategy,76,17.03,1368820
+2937,2937,Combat Flight Simulator 3: Battle for Europe,Simulation,85,28.0,
+2938,2938,Cabela's Big Game Hunter 2012,Sports,55,4.0,
+2939,2939,Warhammer: Dark Omen,Strategy,78,15.0,
+2940,2940,Far Cry Instincts Evolution,Shooter,61,11.17,
+2941,2941,Close Combat: First to Fight,Shooter,68,4.88,
+2942,2942,Kamen Rider: Battride War II,Action,65,22.43,
+2943,2943,NASCAR 2011: The Game,Racing,60,30.0,
+2944,2944,Fantasia: Music Evolved,Misc,80,8.43,
+2945,2945,Rugby World Cup 2011,Sports,45,20.0,1157960
+2946,2946,Spirits & Spells,Platform,50,7.0,
+2947,2947,Birds of Steel,Simulation,60,10.0,
+2948,2948,Marvel vs. Capcom Origins,Fighting,78,5.02,357190
+2949,2949,Catan,Strategy,62,6.93,544730
+2950,2950,Ikki Tousen: Shining Dragon,Role-Playing,70,10.0,
+2951,2951,RTX Red Rock,Shooter,70,14.3,
+2952,2952,Commandos: Strike Force,Shooter,66,17.77,
+2953,2953,Warship Gunner 2,Simulation,75,58.2,
+2954,2954,GT Pro Series,Racing,43,9.0,
+2955,2955,Thunderstrike: Operation Phoenix,Simulation,0,15.0,
+2956,2956,Centipede: Infestation,Shooter,56,3.55,
+2957,2957,Ultimate Band,Misc,40,15.0,
+2958,2958,Sitting Ducks,Platform,37,11.27,
+2959,2959,Kessen,Strategy,60,12.18,
+2960,2960,Bass Pro Shops: The Strike,Sports,60,12.0,
+2961,2961,MLB Power Pros,Sports,80,4.3,
+2962,2962,Sengoku Basara 2,Action,80,11.0,
+2963,2963,Backyard Sports: Sandlot Sluggers,Sports,0,3.58,
+2964,2964,Rory McIlroy PGA Tour,Action,74,10.0,
+2965,2965,Zathura,Adventure,37,3.83,
+2966,2966,SD Gundam Force: Showdown!,Shooter,40,8.0,
+2967,2967,The History Channel: Battle for the Pacific,Shooter,31,9.6,
+2968,2968,Savage Skies,Shooter,40,4.68,
+2969,2969,Monster Truck Madness,Racing,65,5.0,
+2970,2970,Animal Kingdom: Wildlife Expedition,Adventure,70,5.27,
+2971,2971,Far Cry Vengeance,Shooter,20,8.18,
+2972,2972,Unison: Rebels of Rhythm & Dance,Misc,50,2.6,
+2973,2973,NHL 14,Sports,79,46.07,
+2974,2974,SingStar Vol. 2,Misc,70,2.0,
+2975,2975,The Fight: Lights Out,Fighting,30,48.0,2300570
+2976,2976,Trigger Man,Shooter,37,2.92,
+2977,2977,Fishing Resort,Sports,100,36.25,
+2978,2978,Petz Rescue: Wildlife Vet,Simulation,70,3.55,
+2979,2979,Pirates of the Caribbean: The Legend of Jack Sparrow,Adventure,58,25.25,
+2980,2980,North American Hunting Extravaganza,Sports,0,6.0,
+2981,2981,Sengoku Basara 4,Action,90,61.0,
+2982,2982,Cabela's African Safari,Sports,53,4.0,
+2983,2983,Cabela's Dangerous Hunts 2011,Sports,45,8.3,
+2984,2984,Cabela's Survival: Shadows of Katmai,Sports,58,4.93,
+2985,2985,The Land Before Time: Great Valley Racing Adventure,Racing,30,2.5,
+2986,2986,Dynasty Tactics,Strategy,75,13.55,
+2987,2987,Dynasty Tactics 2,Strategy,80,10.0,
+2988,2988,Dark Summit,Sports,62,7.0,
+2989,2989,Dr. Seuss' The Cat in the Hat,Misc,48,5.4,
+2990,2990,NBA Ballers: Chosen One,Sports,70,3.5,
+2991,2991,Sunny Garcia Surfing,Sports,60,2.72,
+2992,2992,City Crisis,Simulation,40,2.48,
+2993,2993,Dynasty Warriors 7: Empires,Action,73,8.07,1341200
+2994,2994,Night at the Museum: Battle of the Smithsonian,Action,45,7.88,
+2995,2995,Kamen Rider: Battride War,Action,0,18.3,
+2996,2996,Shepherd's Crossing,Simulation,70,11.75,2162720
+2997,2997,Dewy's Adventure,Platform,57,7.3,
+2998,2998,Bombastic,Puzzle,77,2.72,2610920
+2999,2999,College Hoops 2K8,Sports,90,4.0,
+3000,3000,Ford Mustang: The Legend Lives,Racing,65,4.23,
+3001,3001,EyeToy: AntiGrav,Sports,30,10.0,
+3002,3002,Major League Baseball 2K9,Sports,68,10.0,
+3003,3003,Grand Slam Tennis 2,Sports,70,8.52,
+3004,3004,Race Pro,Racing,64,19.38,3514410
+3005,3005,Wave Rally,Racing,0,3.0,
+3006,3006,All Star Karate,Action,40,5.45,
+3007,3007,My Street,Misc,60,10.0,
+3008,3008,Samurai Warriors 4: Empires,Action,69,37.75,2719200
+3009,3009,Hasbro Family Fun Pack,Misc,45,4.87,
